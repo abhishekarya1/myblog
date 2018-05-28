@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abhishek Arya | Blog</title>
+    <link>https://abhishekarya1.github.io/</link>
+    <description>Recent content on Abhishek Arya | Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>abhishekarya102@gmail.com (Abhishek Arya)</managingEditor>
+    <webMaster>abhishekarya102@gmail.com (Abhishek Arya)</webMaster>
+    <lastBuildDate>Mon, 28 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://abhishekarya1.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Are we really secure ? Part-3</title>
+      <link>https://abhishekarya1.github.io/post/2018-05-28-are-we-really-secure-3/</link>
+      <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
+      <author>abhishekarya102@gmail.com (Abhishek Arya)</author>
+      <guid>https://abhishekarya1.github.io/post/2018-05-28-are-we-really-secure-3/</guid>
+      <description>In the last post, I talked about how people unknowingly give away the data which can be used to draw statistical inferences to a large degree of accuracy for a particular region or a country. There is another bigger threat to our data - &amp;lsquo;Data Breaches&amp;rsquo;.
+Conclusion As I already said, you cannot do much after it happens, but to choose the safest store or platform is always in your hands, you may call it some precautionary measures.</description>
+    </item>
+    
+    <item>
+      <title>Are we really secure ? Part-2</title>
+      <link>https://abhishekarya1.github.io/post/2018-05-27-are-we-really-secure-2/</link>
+      <pubDate>Sun, 27 May 2018 00:00:00 +0000</pubDate>
+      <author>abhishekarya102@gmail.com (Abhishek Arya)</author>
+      <guid>https://abhishekarya1.github.io/post/2018-05-27-are-we-really-secure-2/</guid>
+      <description>In the last post, I talked about how people unknowingly give away the data which can be used to draw statistical inferences to a large degree of accuracy for a particular region or a country. There is another bigger threat to our data - &amp;lsquo;Data Breaches&amp;rsquo;.
+You store photos in the cloud and you save storage, you use online platforms that save your details and you are okay with it, you buy something online and all your online transactions are stored in a database.</description>
+    </item>
+    
+    <item>
+      <title>Are we really secure ? Part-1</title>
+      <link>https://abhishekarya1.github.io/post/2018-05-26-are-we-really-secure-1/</link>
+      <pubDate>Sat, 26 May 2018 00:00:00 +0000</pubDate>
+      <author>abhishekarya102@gmail.com (Abhishek Arya)</author>
+      <guid>https://abhishekarya1.github.io/post/2018-05-26-are-we-really-secure-1/</guid>
+      <description>Modern day technologies for sure provide much more efficient, convenient and sometimes creative solutions to our problems. Want to talk for free with a relative thousand miles away? Open an app and that&amp;rsquo;s it, talk as much as you want, this was not at all possible before. Solutions like these are all around us and we use them on a daily basis. Stuck in a new city? Open the map app and get going, it will track you in real time too.</description>
+    </item>
+    
+    <item>
+      <title>First post!</title>
+      <link>https://abhishekarya1.github.io/post/2018-05-26-first-post/</link>
+      <pubDate>Sat, 26 May 2018 00:00:00 +0000</pubDate>
+      <author>abhishekarya102@gmail.com (Abhishek Arya)</author>
+      <guid>https://abhishekarya1.github.io/post/2018-05-26-first-post/</guid>
+      <description>This is my first post, how exciting!
+I always wanted a place to share my views and to post about things that I learn from the internet and a blog is a perfect place to do that.</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://abhishekarya1.github.io/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>abhishekarya102@gmail.com (Abhishek Arya)</author>
+      <guid>https://abhishekarya1.github.io/page/about/</guid>
+      <description>My name is Abhishek Arya. I try my hands on everything that a computer can do :
+ I am on a journey to discover my true passion in computer sciences and technology, which hopefully I can find somewhere here on the internet. The journey so far has been great, I have done everything - from Programming and Scripting to Ethical Hacking, designing logos and themes, modding, cracking and patching.</description>
+    </item>
+    
+  </channel>
+</rss>

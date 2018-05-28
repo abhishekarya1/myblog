@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Abhishek Arya | Blog</title>
+    <link>https://abhishekarya1.github.io/page/</link>
+    <description>Recent content in Pages on Abhishek Arya | Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>abhishekarya102@gmail.com (Abhishek Arya)</managingEditor>
+    <webMaster>abhishekarya102@gmail.com (Abhishek Arya)</webMaster>
+    
+	<atom:link href="https://abhishekarya1.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About me</title>
+      <link>https://abhishekarya1.github.io/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>abhishekarya102@gmail.com (Abhishek Arya)</author>
+      <guid>https://abhishekarya1.github.io/page/about/</guid>
+      <description>My name is Abhishek Arya. I try my hands on everything that a computer can do :
+ I am on a journey to discover my true passion in computer sciences and technology, which hopefully I can find somewhere here on the internet. The journey so far has been great, I have done everything - from Programming and Scripting to Ethical Hacking, designing logos and themes, modding, cracking and patching.</description>
+    </item>
+    
+  </channel>
+</rss>
