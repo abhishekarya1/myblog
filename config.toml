@@ -11,7 +11,7 @@ pygmentsCodefencesGuessSyntax = true
 #pygmentsUseClassic = true
 #pygmentOptions = "linenos=inline"
 #disqusShortname = "XXX"
-#googleAnalytics = "XXX"
+googleAnalytics = "UA-120021913-1"
 
 [Params]
   homeTitle = "Abyssal Tech" # Set a different text for the header on the home page

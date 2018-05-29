@@ -26,10 +26,10 @@ It happened in the [US](https://www.technologyreview.com/s/603709/hand-over-the-
 
 Your Privacy 0, Law Enforcement 1.
 
-EDIT-1 : You might have recieved a _'Privacy Policy Update'_ mail recently around 25 May 2018, that is because the **GDPR(General Data Protection Regulation)** goes into effect on May 25 2018.
+<u>**EDIT-1**</u> : You might have recieved a _'Privacy Policy Update'_ mail recently around 25 May 2018, that is because the **GDPR (General Data Protection Regulation)** goes into effect on May 25 2018.
 It tightens the already existing laws regarding what tech companies can do with your data, it gives you more control over how your data is collected and used, and forces companies to justify everything that they do with it.
 
-Interesting thing to note here is that while GDPR is an **EU(European Union) legislation**, it still has a huge effect on businesses outside the EU. GDPR restricts collection of data that can be used to identify you including your name, ip address, location information or even things like sexual orientation, health data, and political opinions.
+Interesting thing to note here is that while GDPR is an **EU (European Union) legislation**, it still has a huge effect on businesses outside the EU. GDPR restricts collection of data that can be used to identify you including your name, ip address, location information or even things like sexual orientation, health data, and political opinions.
 
 What I like about GDPR is the fact that people now have the "Right to be Forgotten", people can request to have their data deleted, personal data needs to be transferable via a common file type, but it is still not absolute, certain conditions apply on it atleast for now. For Non-EU countries it is a concern beacause many business collect or reuse EU resident's data, they also use companies based in the EU for services and processing data.
 
