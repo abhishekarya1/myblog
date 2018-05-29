@@ -26,6 +26,23 @@ It happened in the [US](https://www.technologyreview.com/s/603709/hand-over-the-
 
 Your Privacy 0, Law Enforcement 1.
 
+EDIT-1 : You might have recieved a _'Privacy Policy Update'_ mail recently around 25 May 2018, that is because the **GDPR(General Data Protection Regulation)** goes into effect on May 25 2018.
+It tightens the already existing laws regarding what tech companies can do with your data, it gives you more control over how your data is collected and used, and forces companies to justify everything that they do with it.
+
+Interesting thing to note here is that while GDPR is an **EU(European Union) legislation**, it still has a huge effect on businesses outside the EU. GDPR restricts collection of data that can be used to identify you including your name, ip address, location information or even things like sexual orientation, health data, and political opinions.
+
+What I like about GDPR is the fact that people now have the "Right to be Forgotten", people can request to have their data deleted, personal data needs to be transferable via a common file type, but it is still not absolute, certain conditions apply on it atleast for now. For Non-EU countries it is a concern beacause many business collect or reuse EU resident's data, they also use companies based in the EU for services and processing data.
+
+If a firm fails to comply with the GDPR, they are liable to pay _€20 million ($24 million) or 4% of global annual turnover_, whichever is larger.
+
+On the very first day of GDPR enforcement, Facebook and Google have been hit with a raft of lawsuits accusing the companies of coercing users into sharing personal data. The lawsuits, which seek to fine Facebook 3.9 billion and Google 3.7 billion euro (roughly $8.8 billion in dollars), were filed by Austrian privacy activist Max Schrems, a longtime critic of the companies’ data collection practices.
+
+These kind of laws are a nightmare for any tech firm collecting and using their user's data, and this is definitely a significant step in the right direction. Many smaller US companies pulled out of the EU to avoid GDPR, video game makers are blocking access for EU users to older games, saying updates for GDPR are too costly, Microsoft has more than 1,600 engineers working on GDPR.
+
+You can also watch [this](https://www.youtube.com/watch?v=_J5IZxI_xKk) video about the GDPR. 
+    
+India is also moving towards its own privacy regulations, a commitee was set up by former supreme court judge, Justice B N Srikrishna, and a draft bill is expected.
+
 ### Conclusion
 So, you told me not to use Google, Facebook, and Twitter. What will I do on the internet then?
 
