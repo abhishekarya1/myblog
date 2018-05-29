@@ -8,10 +8,10 @@ My name is Abhishek Arya. I try my hands on everything that a computer can do :
 
 - I am on a journey to discover my true passion in computer sciences and technology, which hopefully I can find somewhere here on the internet. 
 - The journey so far has been great, I have done everything - from Programming and Scripting to Ethical Hacking, designing logos and themes, modding, cracking and patching.
-- I can always find cool things on the internet - call me a 'Google Wizard', even if I don't, I make sure to look in the depths of the Deep Web. 
-- Apart from all this I am a Gaming Addict and a binge-watcher.
+- I can always find cool things on the internet, even if I can't, I make sure to look in the depths of the Deep Web. 
+- Apart from all this I am a Gaming Addict and a Binge-Watcher.
 - I love reading about technology and gadgets, and to use them in the coolest ways possible.
-- I am always learning new things and thus I need to dump my cluttered mind somewhere, I have made it my goal to post them here on this blog.
+- I am always learning new things and thus I need to dump my cluttered mind somewhere, I have made it my goal to post it here on this blog.
 
 
 
