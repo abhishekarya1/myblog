@@ -82,19 +82,19 @@ googleAnalytics = "UA-120021913-1"
 [[menu.main]]
     parent = "featured"
     name = "Are we really secure?"
-    url = "post/2018-05-26-are-we-really-secure"
+    url = "post/2018-05-26-are-we-really-secure-1"
     weight = 1
 
 [[menu.main]]
     parent = "featured"
-    name = "Math Sample"
-    url = "post/2017-03-05-math-sample"
+    name = "---"
+    url = "post/---"
     weight = 2
 
 [[menu.main]]
     parent = "featured"
-    name = "Code Sample"
-    url = "post/2016-03-08-code-sample"
+    name = "---"
+    url = "post/---"
     weight = 3
 
 [[menu.main]]
