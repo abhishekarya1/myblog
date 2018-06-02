@@ -1,8 +1,8 @@
 ---
-title: Data Breaches - Are we really secure ? Part-2 
-subtitle: Data breaches and how they work
+title: Data Breaches 
+subtitle: Are we really secure? (Part-2) - Data breaches and how they work
 date: 2018-05-27
-bigimg: [{src: "/img/databreaches.jpg", desc: "Security"}]
+bigimg: [{src: "/img/postimg/databreaches.jpg", desc: "Security"}]
 tags: ["hacking", "security"]
 ---
 In the last post, I talked about how people unknowingly give away the data which can be used to draw statistical inferences to a large degree of accuracy for a particular region or a country. There is another bigger threat to our data - **'Data Breaches'**.

@@ -1,8 +1,8 @@
 ---
-title: Data Protection - Are we really secure ? Part-1 
-subtitle: A look at what worries me the most
+title: Data Protection 
+subtitle: Are we really secure? (Part-1) - A look at what worries me the most
 date: 2018-05-26
-bigimg: [{src: "/img/dataservers.jpg", desc: "Security"}]
+bigimg: [{src: "/img/postimg/dataservers.jpg", desc: "Security"}]
 tags: ["hacking", "security"]
 ---
 
