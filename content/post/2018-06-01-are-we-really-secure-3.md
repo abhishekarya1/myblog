@@ -3,7 +3,7 @@ title: Apps and Permissions
 subtitle: Are we really secure? (Part-3) - How an app on your mobile phone is a potential threat
 date: 2018-06-01
 bigimg: [{src: "/img/postimg/apps-security.jpg", desc: "Security"}]
-tags: ["hacking", "security", "apps"]
+tags: ["hacking", "security", "apps", "are we really secure"]
 ---
 Android is an operating system for handheld devices like smartphones. It was announced in 2007 and was the first commercial device was released in 2008. Today, after exactly a decade in the future, it has more than 2 billion monthly active devices. With such level of a userbase, sure comes a lot of prying eyes on your data. Though Google Play Store has restrictions on what you can install and what data your apps see, it is just a matter of a few permissions before these apps can start harvesting your data. 
 

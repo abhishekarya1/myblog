@@ -82,7 +82,7 @@ googleAnalytics = "UA-120021913-1"
 [[menu.main]]
     parent = "featured"
     name = "Are we really secure?"
-    url = "post/2018-05-26-are-we-really-secure-1"
+    url = "/tags/are-we-really-secure/"
     weight = 1
 
 [[menu.main]]

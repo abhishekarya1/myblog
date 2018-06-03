@@ -3,7 +3,7 @@ title: Bugs and Vulnerabilities
 subtitle: Are we really secure? (Part-4) - Understanding bugs and vulnerabilities 
 date: 2018-06-02
 bigimg: [{src: "/img/postimg/bugs.jpg", desc: "Security"}]
-tags: ["hacking", "security"]
+tags: ["hacking", "security", "are we really secure"]
 ---
 No matter how much time is devoted to developing an app or a website, or under how many eyes it passes through during its development stages, they still have vulnerabilities. 
 Some have more so than others and some are just unusable. Every vendor on this planet has a security issue with their product. It has now become _a fact of modern-day life_.

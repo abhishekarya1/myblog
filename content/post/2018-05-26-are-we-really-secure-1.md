@@ -3,17 +3,17 @@ title: Data Protection
 subtitle: Are we really secure? (Part-1) - A look at what worries me the most
 date: 2018-05-26
 bigimg: [{src: "/img/postimg/dataservers.jpg", desc: "Security"}]
-tags: ["hacking", "security"]
+tags: ["hacking", "security", "are we really secure"]
 ---
 
 Modern day technologies for sure provide much more efficient, convenient and sometimes creative solutions to our problems. Want to talk for free with a relative thousand miles away? Open an app and that's it, talk as much as you want, this was not at all possible before. Solutions like these are all around us and we use them on a daily basis. Stuck in a new city? Open the map app and get going, it will track you in real time too. Cool huh?
 
-While the users happy that they can talk for free now and they've saved their money, they are paying a heavy price. Real-time location services are great but they do send data back to the servers in the name of _"Consumer Experience" _, _"Accuracy Enhancing"_ or _"Improvement Programs"_. The users forget that when they are talking to their friends and family the data goes through the server first and can be stored or manipulated easily. They forget that the data which they generate on their social media profiles can be used to manipulate them in return.
+While the users happy that they can talk for free now and they've saved their money, they are paying a heavy price. Real-time location services are great but they do send data back to the servers in the name of _"Consumer Experience"_, _"Accuracy Enhancing"_ or _"Improvement Programs"_. The users forget that when they are talking to their friends and family the data goes through the server first and can be stored or manipulated easily. They forget that the data which they generate on their social media profiles can be used to manipulate them in return.
 
 The mechanism or algorithms by which companies like Facebook and Google decide what ads to show you are already a recipe for disastrous results in the future.
 The recent Facebook and Cambridge Analytica debacle is an example you will often hear me quoting, Facebook came out to be pathetic in handling the data of their 2.2 billion users and the questions put by the US Senators...don't even get me started with it.
 
-User's data is just not secure anywhere. How many Google products do you use? Gmail, Chrome, Sheets, Google Search, and a lot more. Advertisements are the largest source of revenue for the tech-giant which is 70.9 percent of the total revenue. And certainly not all ads are shown to all people, they use your searches to determine your preferences and then what ads to show you, called 'Targeted much, there are no photos on their timeline and that their data is of no use to Facebook. This is where they are completely in the wrong, they fail to understand that even if they are not using the platform, their friends are active tagging them, sending them requests, etc.
+User's data is just not secure anywhere. How many Google products do you use? Gmail, Chrome, Sheets, Google Search, and a lot more. Advertisements are the largest source of revenue for the tech-giant which is 70.9 percent of the total revenue. And certainly not all ads are shown to all people, they use your searches to determine your preferences and then what ads to show you, called "Targeted Ads". Much of the users say they do not care about their data's security, there are no photos on their timeline and that their data is of no use to Facebook. This is where they are completely in the wrong, they fail to understand that even if they are not using the platform, their friends are active tagging them, sending them requests, etc.
 
 One user might not care about their data, two users might not, but the _statistical inferences_ that can be drawn from the demography has a potential to cause mass-manipulation of people on political issues and things like these take no time to reach in the hands of people with no good intentions.
 
