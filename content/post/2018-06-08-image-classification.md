@@ -6,7 +6,7 @@ bigimg: [{src: "/img/postimg/image_class.jpg", desc: "Machine Learning"}]
 tags: ["machine learning", "tensorflow","deep learning"]
 ---
 
-## Introduction
+### Introduction
 If you know even a very little about Machine Learning and the so called "Artificial intellifence", then you might be aware of the datasets that the programs employing the learning deals with, images, audio/speech, videos and text data.
 
 Machine Learning models can do various things with a given data, they can do handwriting recognition, image recognition, language translation, and speech recognition.
@@ -25,22 +25,39 @@ I'm going to use [Transfer Learning](https://towardsdatascience.com/what-is-tran
 
 For that we'll have to write some code and set Hyper-Parameters for our new model, but before that we need a **lot** of images and to download them we'll use batch image downloader script.
 
+I'll be training the last layer _final_training_ops_ in the figure, while all the previous layers retain their already-trained state.
+
+![CNN](/img/cnn.png)
+
 After we have our images, _retrain.py_ and _label_image.py_ scipts from the github repo cloned onto our system in a folder, we can use the below commands - 
 
-## Set command line parameters
+### Directory Structure
+
+1. Create a new directory with the name - "tf_files" in the current directory containing _retrain.py_ and _label_image.py_ initially.
+
+2. Create the Training images directory in tf_files. In my case it is - `tf_files/cluster_photos`.
+
+3. Create another Testing images directory in tf_files. In my case it is - `tf_files/test_photos`.
+
+4. Do make a note here that the tf_files directory has to be there for _retrain.py_ to work, do not try and snip paths of the directories inside the tf_files directory.
+
+### Set command line parameters
+
 ```
 SET IMAGE_SIZE=224									
-SET ARCHITECTURE="mobilenet_0.50_%IMAGE_SIZE%"		// or, SET ARCHITECTURE="inception_v3%IMAGE_SIZE%" for Inception v3
+SET ARCHITECTURE="mobilenet_0.50_%IMAGE_SIZE%"		# or, SET ARCHITECTURE="inception_v3%IMAGE_SIZE%" for Inception v3
 ```
 
-## Retraining using the specified Architecture and Directory Structure
+### Retraining using the specified Architecture and Directory Structure
+
+Make sure to pass these as one line only.
 
 > **Bottleneck** - stores final layer data of the neural network, just before the output layer.
 
 > **--image_dir** - change this to the path to the directory where the images are. 
 
 
-If the scripts module is placed in the _/Python36/Scripts_ folder already. 
+If the _scripts_ folder module is placed in the current directory already. 
 
 ```
 python -m scripts.retrain \
@@ -54,7 +71,7 @@ python -m scripts.retrain \
 --image_dir=tf_files/cluster_photos
 ```
 
-If the scripts are available in our current working directory and are not placed in the python _Scripts_ folder.
+If the _retrain.py_ script is available in our current working directory and there is no _script folder_, then from the current directory - 
 
 ```
 python retrain.py \
@@ -68,11 +85,22 @@ python retrain.py \
 --image_dir=tf_files/cluster_photos
 ```
 
+### Training will take approximately 30-40 mins depending upon the hyperparameters, architecture, and the number and resolution of training images.
 
 
+### Testing
 
+After the model is finished training, input an image for it to classify - 
 
+```
+python -m scripts.label_image  --graph=tf_files/retrained_graph.pb  --image=tf_files/test_photos/1.jpg
 
+# or from the directory as -
+
+python label_image.py --image=tf_files/test_photos/2.jpg
+```
+
+And the output predictions will be displayed on the terminal.
 
 
 ### Conclusion
