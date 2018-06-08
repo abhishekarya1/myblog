@@ -10,7 +10,9 @@ tags: ["machine learning", "tensorflow","deep learning"]
 
 Recently, I made a neural network image classifier that can be used by astronomers and scientists to classify whether an image is of a Globular Star Cluster or an Open Star Cluster. You can refer [here](https://amazing-space.stsci.edu/resources/organizers/starclusters.php) for knowing what are they.
 
-![](/img/globclust.JPG)						![](/img/openclust.JPG)
+![Different Clusters](/img/diffclusters.JPG)
+
+It can be very tiresome and time consuming for scientists to carefully classify between the two. And my model aims to decrease the classification time for these two categories of star clusters.
 
 If you know even a very little about Machine Learning and the so called "Artificial intellifence", then you might be aware of the datasets that the programs employing the learning deals with, images, audio/speech, videos and text data.
 
