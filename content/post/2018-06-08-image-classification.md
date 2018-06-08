@@ -87,6 +87,8 @@ python retrain.py \
 --image_dir=tf_files/cluster_photos
 ```
 
+Learning Rate can be decreased or increased using the `--learning_rate` parameter, by default it is `0.01`.
+
 Also, the parameter `--how_many_training_steps=500` can be removed to set the default number of steps that is 4000 for higher accuracy and thus improved result.
 
 ### Training will take approximately 30-40 mins depending upon the hyperparameters, architecture, and the number and resolution of training images.
