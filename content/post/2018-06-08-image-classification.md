@@ -18,6 +18,8 @@ If you know even a very little about Machine Learning and the so called "Artific
 
 Machine Learning models can do various things with a given data, they can do handwriting recognition, image recognition, language translation, and speech recognition.
 
+### Tools
+
 Google's Tensorflow is an open source library for high performance numerical computations, which allows it to handle multi-dimentional datastructures called tensors, and that leads it to be much more efficient in machine learning computation that required a lot of calculations like the Gradient Descent Function for a set of inputs and outputs.
 
 ![TensorFlow](/img/tf.png)
@@ -173,7 +175,7 @@ Other applications include - medical, military and educational.
 
 I will surely create more classification models to solve problems. Any suggestions are always welcome.
 
-#### Resources
+### Learning Resources
 
 - Rethinking the Inception Architecture for Computer Vision - [Cornell University Library](https://arxiv.org/abs/1512.00567)
 - We Need to Go Deeper: A Practical Guide to Tensorflow and Inception - [Medium](https://medium.com/initialized-capital/we-need-to-go-deeper-a-practical-guide-to-tensorflow-and-inception-50e66281804f)
