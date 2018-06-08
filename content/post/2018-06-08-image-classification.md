@@ -122,15 +122,16 @@ At line 74 => input_height = 299
 At line 75 => input_width = 299
 At line 78 => input_layer = "Mul"
 ```
-And we can evaluate with the same _label_image.py_ which we use for MobileNet.
+And we can evaluate with the same _label_image.py_ which we used for MobileNet.
 
 
 ### Conclusion
-Inception CNN Architecture can classify upto 1000 classes, as it is trained on ImageNet database form classes ranging from Zebra to Furniture.
+Inception CNN Architecture can classify upto 1000 classes, as it is trained on ImageNet database form classes. 
 
+This project was a demonstration of the _Transfer Learning_ process in Machine Learning and how it can be used for classification. Besides, I hope someday this can be huseful for astronomers to classify their hundreds of cluster images that they collected overnight.
+Other applications include - medical, military and educational. I will surely develop more classification models to solve problems. Any suggestions are always welcome.
 
-
-#### Further Reading and Recommended Links
+#### Resources
 
 	* Rethinking the Inception Architecture for Computer Vision - [Cornell University Library](https://arxiv.org/abs/1512.00567)
 	* We Need to Go Deeper: A Practical Guide to Tensorflow and Inception - [Medium](https://medium.com/initialized-capital/we-need-to-go-deeper-a-practical-guide-to-tensorflow-and-inception-50e66281804f)
