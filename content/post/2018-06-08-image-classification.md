@@ -35,17 +35,19 @@ After we have our images, _retrain.py_ and _label_image.py_ scipts from the gith
 
 1. Create a new directory with the name - "tf_files" in the current directory containing _retrain.py_ and _label_image.py_ initially.
 
-2. Create the Training images directory in tf_files. In my case it is - `tf_files/cluster_photos`.
+2. Create the Training data images directory in tf_files. In my case it is - `tf_files/cluster_photos`.
 
-3. Create another Testing images directory in tf_files. In my case it is - `tf_files/test_photos`.
+3. In the `cluster_photos` directory, create classes sub-directories. In my case they are `globular cluster` and `open cluster`.
 
-4. Do make a note here that the tf_files directory has to be there for _retrain.py_ to work, do not try and snip paths of the directories inside the tf_files directory.
+4. Create another Testing data images directory in tf_files. In my case it is - `tf_files/test_photos`.
+
+5. Do make a note here that the tf_files directory has to be there for _retrain.py_ to work, do not try and snip paths of the directories inside the tf_files directory.
 
 ### Set command line parameters
 
 ```
 SET IMAGE_SIZE=224									
-SET ARCHITECTURE="mobilenet_0.50_%IMAGE_SIZE%"		# or, SET ARCHITECTURE="inception_v3%IMAGE_SIZE%" for Inception v3
+SET ARCHITECTURE="mobilenet_0.50_%IMAGE_SIZE%"		# or, SET ARCHITECTURE="inception_v3" for Inception v3
 ```
 
 ### Retraining using the specified Architecture and Directory Structure
@@ -85,8 +87,16 @@ python retrain.py \
 --image_dir=tf_files/cluster_photos
 ```
 
+Also, the parameter `--how_many_training_steps=500` can be removed to set the default number of steps that is 4000 for higher accuracy and thus improved result.
+
 ### Training will take approximately 30-40 mins depending upon the hyperparameters, architecture, and the number and resolution of training images.
 
+![Training](/img/training.JPG)
+
+The step outputs are as follows -
+	* The **training accuracy** shows the percentage of the images used in the current training batch that were labeled with the correct class.
+	* **Validation accuracy**: The validation accuracy is the precision (percentage of correctly-labelled images) on a randomly-selected group of images from a different set.
+	* **Cross entropy** is a loss function that gives a glimpse into how well the learning process is progressing. (The lower the better.)
 
 ### Testing
 
@@ -102,8 +112,20 @@ python label_image.py --image=tf_files/test_photos/2.jpg
 
 And the output predictions will be displayed on the terminal.
 
+#### For Inception v3 -
+
+Changes required to _label_image.py_ - 
+```
+At line 74 => input_height = 299
+At line 75 => input_width = 299
+At line 78 => input_layer = "Mul"
+```
+And we can evaluate with the same _label_image.py_ which we use for MobileNet.
+
 
 ### Conclusion
+Inception CNN Architecture can classify upto 1000 classes, as it is trained on ImageNet database form classes ranging from Zebra to Furniture.
+
 
 
 #### Further Reading and Recommended Links
@@ -111,3 +133,4 @@ And the output predictions will be displayed on the terminal.
 	* Rethinking the Inception Architecture for Computer Vision - [Cornell University Library](https://arxiv.org/abs/1512.00567)
 	* We Need to Go Deeper: A Practical Guide to Tensorflow and Inception - [Medium](https://medium.com/initialized-capital/we-need-to-go-deeper-a-practical-guide-to-tensorflow-and-inception-50e66281804f)
 	* Train your own image classifier with Inception in TensorFlow - [Google AI Blog](https://ai.googleblog.com/2016/03/train-your-own-image-classifier-with.html)
+	* Multi-label Image Classification with Inception Net - [Medium](https://towardsdatascience.com/multi-label-image-classification-with-inception-net-cbb2ee538e30)
