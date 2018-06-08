@@ -8,7 +8,9 @@ tags: ["machine learning", "tensorflow","deep learning"]
 
 ### Introduction
 
-Recently, I made a neural network image classifier that can be used by astronomers and scientists to classify whether an image is of a Globular Star Cluster or an Open Star Cluster. You can refer [here](https://amazing-space.stsci.edu/resources/organizers/starclusters.php) for knowing what are they.
+Recently, I made a neural network image classifier that can be used by astronomers and scientists to classify whether an image is of a Globular Star Cluster or an Open Star Cluster. Here is the [Project Link](https://github.com/abhishekarya1/cluster-image-classifier-tensorflow). 
+
+You can refer [here](https://amazing-space.stsci.edu/resources/organizers/starclusters.php) for knowing what are these two star clusters.
 
 ![Different Clusters](/img/diffclusters.JPG)
 
@@ -32,7 +34,7 @@ There are deep learning libraries that might do better than Tensorflow like PyTo
 
 An image classifier with Tensorflow takes only 2 minutes to code.
 
-I'm going to use [Transfer Learning](https://towardsdatascience.com/what-is-transfer-learning-8b1a0fa42b4?gi=a6b0723e4d51) with Inception which is a deep convolutional neural network (CNN) architecture that achieves the new state of the art for classification and detection on the ImageNet dataset and it is pre-trained. We'll have to retrain the final layers for our image dataset and we'll be good to go, while the pre-trained layers of the neural network will help us recognize higher level abstract image patterns. 
+I'm going to use [Transfer Learning](https://towardsdatascience.com/what-is-transfer-learning-8b1a0fa42b4?gi=a6b0723e4d51) with Inception which is a deep convolutional neural network (CNN) architecture that achieves the new state of the art for classification and detection on the [ImageNet](http://www.image-net.org/) dataset and it is pre-trained. We'll have to retrain the final layers for our image dataset and we'll be good to go, while the pre-trained layers of the neural network will help us recognize higher level abstract image patterns. 
 
 For that we'll have to write some code and set Hyper-Parameters for our new model, but before that we need a **lot** of images and to download them we'll use batch image downloader script.
 
@@ -158,7 +160,7 @@ The data from the training session will be saved into the `training_summaries` d
 
 
 ### Conclusion
-Inception CNN Architecture can classify upto 1000 classes, as it is trained on ImageNet database form classes. 
+Inception CNN Architecture can classify upto 1000 classes, as it is trained on [ImageNet](http://www.image-net.org/) database form classes. 
 
 This project was a demonstration of the _Transfer Learning_ process in Machine Learning and how it can be used for classification. Besides, I hope someday this can be huseful for astronomers to classify their hundreds of cluster images that they collected overnight.
 Other applications include - medical, military and educational.
