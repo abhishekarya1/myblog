@@ -2,16 +2,23 @@
 title: Image Classification using Convolutional Neural Networks
 subtitle: Deep Learning with Tensorflow
 date: 2018-06-08
-bigimg: [{src: "/img/postimg/image_class.jpg", desc: "Machine Learning"}]
+bigimg: [{src: "/img/postimg/deeplearning.png", desc: "Machine Learning"}]
 tags: ["machine learning", "tensorflow","deep learning"]
 ---
 
 ### Introduction
+
+Recently, I made a neural network image classifier that can be used by astronomers and scientists to classify whether an image is of a Globular Star Cluster or an Open Star Cluster. You can refer [here](https://amazing-space.stsci.edu/resources/organizers/starclusters.php) for knowing what are they.
+
+![](/img/globclust.JPG)						![](/img/openclust.JPG)
+
 If you know even a very little about Machine Learning and the so called "Artificial intellifence", then you might be aware of the datasets that the programs employing the learning deals with, images, audio/speech, videos and text data.
 
 Machine Learning models can do various things with a given data, they can do handwriting recognition, image recognition, language translation, and speech recognition.
 
 Google's Tensorflow is an open source library for high performance numerical computations, which allows it to handle multi-dimentional datastructures called tensors, and that leads it to be much more efficient in machine learning computation that required a lot of calculations like the Gradient Descent Function for a set of inputs and outputs.
+
+![TensorFlow](/img/tf.png)
 
 [Google Deepmind](https://deepmind.com/) is [on Tensorflow](https://ai.googleblog.com/2016/04/deepmind-moves-to-tensorflow.html) too.
 
@@ -56,7 +63,7 @@ Make sure to pass these as one line only.
 
 > **Bottleneck** - stores final layer data of the neural network, just before the output layer.
 
-> **--image_dir** - change this to the path to the directory where the images are. 
+> ** --image_dir** - change this to the path to the directory where the images are. 
 
 
 If the _scripts_ folder module is placed in the current directory already. 
@@ -96,9 +103,15 @@ Also, the parameter `--how_many_training_steps=500` can be removed to set the de
 ![Training](/img/training.JPG)
 
 The step outputs are as follows -
-	* The **training accuracy** shows the percentage of the images used in the current training batch that were labeled with the correct class.
-	* **Validation accuracy**: The validation accuracy is the precision (percentage of correctly-labelled images) on a randomly-selected group of images from a different set.
-	* **Cross entropy** is a loss function that gives a glimpse into how well the learning process is progressing. (The lower the better.)
+	
+- The **training accuracy** shows the percentage of the images used in the current training batch that were labeled with the correct class.
+- **Validation accuracy**: The validation accuracy is the precision (percentage of correctly-labelled images) on a randomly-selected group of images from a different set.
+- **Cross entropy** is a loss function that gives a glimpse into how well the learning process is progressing. (The lower the better.)
+
+
+**Final Test Accuracy -** 
+
+![Final](/img/fin.JPG)
 
 ### Testing
 
@@ -124,16 +137,33 @@ At line 78 => input_layer = "Mul"
 ```
 And we can evaluate with the same _label_image.py_ which we used for MobileNet.
 
+### Tensorboard
+
+Before training you can also launch tensorboard in the background. TensorBoard is a monitoring and inspection tool included with tensorflow. You will use it to monitor the training progress-
+
+```
+tensorboard --logdir tf_files/training_summaries &
+```
+The data from the training session will be saved into the `training_summaries` directory and can be audited using the command above to start Tensorboard.
+
+#### Reports from Tensorboard -
+
+![TB1](/img/tensorboard1.JPG)
+![TB2](/img/tensorboard2.JPG)
+
+
 
 ### Conclusion
 Inception CNN Architecture can classify upto 1000 classes, as it is trained on ImageNet database form classes. 
 
 This project was a demonstration of the _Transfer Learning_ process in Machine Learning and how it can be used for classification. Besides, I hope someday this can be huseful for astronomers to classify their hundreds of cluster images that they collected overnight.
-Other applications include - medical, military and educational. I will surely develop more classification models to solve problems. Any suggestions are always welcome.
+Other applications include - medical, military and educational.
+
+I will surely create more classification models to solve problems. Any suggestions are always welcome.
 
 #### Resources
 
-	* Rethinking the Inception Architecture for Computer Vision - [Cornell University Library](https://arxiv.org/abs/1512.00567)
-	* We Need to Go Deeper: A Practical Guide to Tensorflow and Inception - [Medium](https://medium.com/initialized-capital/we-need-to-go-deeper-a-practical-guide-to-tensorflow-and-inception-50e66281804f)
-	* Train your own image classifier with Inception in TensorFlow - [Google AI Blog](https://ai.googleblog.com/2016/03/train-your-own-image-classifier-with.html)
-	* Multi-label Image Classification with Inception Net - [Medium](https://towardsdatascience.com/multi-label-image-classification-with-inception-net-cbb2ee538e30)
+- Rethinking the Inception Architecture for Computer Vision - [Cornell University Library](https://arxiv.org/abs/1512.00567)
+- We Need to Go Deeper: A Practical Guide to Tensorflow and Inception - [Medium](https://medium.com/initialized-capital/we-need-to-go-deeper-a-practical-guide-to-tensorflow-and-inception-50e66281804f)
+- Train your own image classifier with Inception in TensorFlow - [Google AI Blog](https://ai.googleblog.com/2016/03/train-your-own-image-classifier-with.html)
+- Multi-label Image Classification with Inception Net - [Medium](https://towardsdatascience.com/multi-label-image-classification-with-inception-net-cbb2ee538e30)
