@@ -161,6 +161,16 @@ Inception CNN Architecture can classify upto 1000 classes, as it is trained on I
 This project was a demonstration of the _Transfer Learning_ process in Machine Learning and how it can be used for classification. Besides, I hope someday this can be huseful for astronomers to classify their hundreds of cluster images that they collected overnight.
 Other applications include - medical, military and educational.
 
+### Accuracy
+![accuracy](/img/fin.JPG)
+
+### Test on Globular Star Cluster Image
+![result2](/img/result2.png)
+
+### Test on Open Star Cluster Image
+![result1](/img/result1.png)
+
+
 I will surely create more classification models to solve problems. Any suggestions are always welcome.
 
 #### Resources
