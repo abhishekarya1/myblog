@@ -25,6 +25,8 @@ I'm going to use [Transfer Learning](https://towardsdatascience.com/what-is-tran
 
 For that we'll have to write some code and set Hyper-Parameters for our new model, but before that we need a **lot** of images and to download them we'll use batch image downloader script.
 
+After we have our images, we can add them to our directory in a folder named ""
+
 
 
 
@@ -37,3 +39,5 @@ For that we'll have to write some code and set Hyper-Parameters for our new mode
 
 
 #### Further Reading and Recommended Links
+	* [Rethinking the Inception Architecture for Computer Vision](https://arxiv.org/abs/1512.00567) - Cornell University Library
+	* [We Need to Go Deeper: A Practical Guide to Tensorflow and Inception](https://medium.com/initialized-capital/we-need-to-go-deeper-a-practical-guide-to-tensorflow-and-inception-50e66281804f) - Medium
