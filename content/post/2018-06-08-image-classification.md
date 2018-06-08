@@ -25,8 +25,48 @@ I'm going to use [Transfer Learning](https://towardsdatascience.com/what-is-tran
 
 For that we'll have to write some code and set Hyper-Parameters for our new model, but before that we need a **lot** of images and to download them we'll use batch image downloader script.
 
-After we have our images, we can add them to our directory in a folder named ""
+After we have our images, _retrain.py_ and _label_image.py_ scipts from the github repo cloned onto our system in a folder, we can use the below commands - 
 
+## Set command line parameters
+```
+SET IMAGE_SIZE=224									
+SET ARCHITECTURE="mobilenet_0.50_%IMAGE_SIZE%"		// or, SET ARCHITECTURE="inception_v3%IMAGE_SIZE%" for Inception v3
+```
+
+## Retraining using the specified Architecture and Directory Structure
+
+> **Bottleneck** - stores final layer data of the neural network, just before the output layer.
+
+> **--image_dir** - change this to the path to the directory where the images are. 
+
+
+If the scripts module is placed in the _/Python36/Scripts_ folder already. 
+
+```
+python -m scripts.retrain \
+--bottleneck_dir=tf_files/bottlenecks \
+--how_many_training_steps=500 \
+--model_dir=tf_files/models/ \
+--summaries_dir=tf_files/training_summaries/%ARCHITECTURE% \
+--output_graph=tf_files/retrained_graph.pb \
+--output_labels=tf_files/retrained_labels.txt \
+--architecture="%ARCHITECTURE%" \
+--image_dir=tf_files/cluster_photos
+```
+
+If the scripts are available in our current working directory and are not placed in the python _Scripts_ folder.
+
+```
+python retrain.py \
+--bottleneck_dir=tf_files/bottlenecks \
+--how_many_training_steps=500 \
+--model_dir=tf_files/models/ \
+--summaries_dir=tf_files/training_summaries/%ARCHITECTURE% \
+--output_graph=tf_files/retrained_graph.pb \
+--output_labels=tf_files/retrained_labels.txt \
+--architecture="%ARCHITECTURE%" \
+--image_dir=tf_files/cluster_photos
+```
 
 
 
@@ -39,5 +79,7 @@ After we have our images, we can add them to our directory in a folder named ""
 
 
 #### Further Reading and Recommended Links
-	* [Rethinking the Inception Architecture for Computer Vision](https://arxiv.org/abs/1512.00567) - Cornell University Library
-	* [We Need to Go Deeper: A Practical Guide to Tensorflow and Inception](https://medium.com/initialized-capital/we-need-to-go-deeper-a-practical-guide-to-tensorflow-and-inception-50e66281804f) - Medium
+
+	* Rethinking the Inception Architecture for Computer Vision - [Cornell University Library](https://arxiv.org/abs/1512.00567)
+	* We Need to Go Deeper: A Practical Guide to Tensorflow and Inception - [Medium](https://medium.com/initialized-capital/we-need-to-go-deeper-a-practical-guide-to-tensorflow-and-inception-50e66281804f)
+	* Train your own image classifier with Inception in TensorFlow - [Google AI Blog](https://ai.googleblog.com/2016/03/train-your-own-image-classifier-with.html)
