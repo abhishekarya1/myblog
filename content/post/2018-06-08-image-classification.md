@@ -46,7 +46,7 @@ After we have our images, _retrain.py_ and _label\_image.py_ scipts from the git
 
 ### Directory Structure
 
-1. Create a new directory with the name - "tf_files" in the current directory containing _retrain.py_ and _label_image.py_ initially.
+1. Create a new directory with the name - "tf_files" in the current directory containing _retrain.py_ and _label\_image.py_ initially.
 
 2. Create the Training data images directory in tf_files. In my case it is - `tf_files/cluster_photos`.
 
