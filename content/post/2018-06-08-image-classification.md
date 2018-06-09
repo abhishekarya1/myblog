@@ -28,7 +28,7 @@ Google's Tensorflow is an open source library for high performance numerical com
 
 [Google Deepmind](https://deepmind.com/) is [on Tensorflow](https://ai.googleblog.com/2016/04/deepmind-moves-to-tensorflow.html) too.
 
-Some call it the machine learning and deep neural networks library but that is just and understatement, Tensorflow is fairly Scalable as it include package written in a variety of languages.
+Some call it the machine learning and deep neural networks library but that is just and understatement, Tensorflow is fairly scalable as it include package written in a variety of languages.
 
 There are deep learning libraries that might do better than Tensorflow like PyTorch, Theano and Keras. I prefer Tensorflow as I find it much easier to use and visulize neural networks and if you ever want to see the data flow graph, there is always [Tensorboard Graph Visualization](https://www.tensorflow.org/programmers_guide/graph_viz). Besides this, Tensorflow has proven itself to be fairly good at reinforcement learning models and the community embraces openness, clean APIs, useful modules, and helpful people on the internet sure helps Tensorflow to come out as the best option as of now.
 
@@ -38,11 +38,11 @@ I'm going to use [Transfer Learning](https://towardsdatascience.com/what-is-tran
 
 For that we'll have to write some code and set Hyper-Parameters for our new model, but before that we need a **lot** of images and to download them we'll use batch image downloader script.
 
-I'll be training the last layer _final_training_ops_ in the figure, while all the previous layers retain their already-trained state.
+I'll be training the last layer _final\_training\_ops_ in the figure, while all the previous layers retain their already-trained state.
 
 ![CNN](/img/cnn.png)
 
-After we have our images, _retrain.py_ and _label_image.py_ scipts from the github repo cloned onto our system in a folder, we can use the below commands - 
+After we have our images, _retrain.py_ and _label\_image.py_ scipts from the github repo cloned onto our system in a folder, we can use the below commands - 
 
 ### Directory Structure
 
@@ -69,7 +69,7 @@ Make sure to pass these as one line only.
 
 > **Bottleneck** - stores final layer data of the neural network, just before the output layer.
 
-> ** --image_dir** - change this to the path to the directory where the images are. 
+> ** --image\_dir** - change this to the path to the directory where the images are. 
 
 
 If the _scripts_ folder module is placed in the current directory already. 
@@ -86,7 +86,7 @@ python -m scripts.retrain \
 --image_dir=tf_files/cluster_photos
 ```
 
-If the _retrain.py_ script is available in our current working directory and there is no _script folder_, then from the current directory - 
+If the _retrain.py_ script is available in our current working directory and there is no _script_ folder, then from the current directory - 
 
 ```
 python retrain.py \
@@ -135,13 +135,13 @@ And the output predictions will be displayed on the terminal.
 
 #### For Inception v3 -
 
-Changes required to _label_image.py_ - 
+Changes required to _label\_image.py_ - 
 ```
 At line 74 => input_height = 299
 At line 75 => input_width = 299
 At line 78 => input_layer = "Mul"
 ```
-And we can evaluate with the same _label_image.py_ which we used for MobileNet.
+And we can evaluate with the same _label\_image.py_ which we used for MobileNet.
 
 ### Tensorboard
 
@@ -160,9 +160,9 @@ The data from the training session will be saved into the `training_summaries` d
 
 
 ### Conclusion
-Inception CNN Architecture can classify upto 1000 classes, as it is trained on [ImageNet](http://www.image-net.org/) database form classes. 
+Inception CNN Architecture can classify upto 1000 classes, as it is trained on [ImageNet](http://www.image-net.org/) database. 
 
-This project was a demonstration of the _Transfer Learning_ process in Machine Learning and how it can be used for classification. Besides, I hope someday this can be huseful for astronomers to classify their hundreds of cluster images that they collected overnight.
+This project was a demonstration of the _Transfer Learning_ process in Machine Learning and how it can be used for classification. Besides, I hope someday this can be useful for astronomers to classify their hundreds of cluster images that they collected overnight.
 Other applications include - medical, military and educational.
 
 ### Accuracy
