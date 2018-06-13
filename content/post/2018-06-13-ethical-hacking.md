@@ -6,7 +6,7 @@ bigimg: [{src: "/img/postimg/hacking_techniques.jpg", desc: "Hacking"}]
 tags: ["hacking", "security"]
 ---
 
-### Introduction
+## Introduction
 
 To be a Hacker, one has to be a master of multiple disciplines ranging from Operating Systems to Networking, and of course programming. They need to know everything about everything, from latest server technologies like Node.js to old programming languages 
 like BASIC and C. They know almost every web framework, operating system, wireless technology, encryption that there is, in and out.
@@ -15,13 +15,15 @@ If you are finding weakness and loopholes in a system and gaining access or expl
 If you took prior permission from the owner then you are an _Ethical Hacker_ also known as _White Hat Hackers_ or _Penetration Testers_, if the access was unauthorized and unreported to the owner then you are called a _Black Hat Hacker_, and _Black Hat Hacking_ is a crime by law and such _Black Hats_ are criminals.
 If you access in an unauthorized way and then report the loophole to the owner of the system to patch it, then you can be called a _Grey Hat Hacker_.
 
+![Types of Hackers](/img/hackers.png)
+
 A developer may be the best of his field but might know only about his field, the programming languages he use, the framework, or the OS he uses, but a hacker knows it better than him and a lot of other things, that too better than the programmer or developer. They even know it better than its creator because he needs to find vulnerabilities to exploit that the developer didn't had any idea about also called [Zero-Day Exploits](https://abyssaltech.xyz/post/2018-06-02-are-we-really-secure-4/).
 
 At the most fundamental level, all Hackers weather ethical or black hat has to think alike, from the point of view of the black hat, because they often cause some hefty damages to system and it is important to think of the ways in which a black hat works.
 
-Let us look at some of the techniques that hackers use to hack -
+Let us look at some of the techniques that hackers use to hack.
 
-### Information Gathering
+## Information Gathering
 
 Gathering all kind of information about the target, as much as possible. 
 
@@ -37,11 +39,13 @@ If it is a network like **Wi-Fi** then we often "map" the network - to create a 
 
 Network and Port Scanning, Route Analysis, Live Host Identification are some examples.
 
+**Reconnaissance** - [Google Hacking Database (GHDB)](https://www.exploit-db.com/google-hacking-database/), [WHOIS](https://whois.icann.org/en) and [DNStracer](http://www.mavetju.org/unix/dnstracer.php) are some examples of gathering data from online sources.
+
 It is a very long process beause we need to familiarize ourselves with the target and then find loopholes by analyzing the collected data.
 
 Also, do note that the target is not always a machine, it might be a person, or an organization like your college or office. Information gathering then requires the hacker to collect information like their schedule, data usage and even their habits.
 
-### Vulnerability Analysis and Exploit Development
+## Vulnerability Analysis and Exploit Development
 
 After everything about the target is known we proceed towards this phase where we check for known vulnerabilities and already known weaknesses of the target. Examples - if target is a network, we can check for known Router/Switch/Node vulnerabilities, or protocol related vulnerabilities, if it is a mobile device we can check for known vulnerabilities like overflow and apps with stray permissions that can be treated like hosts to carry out an attack.
 
@@ -54,7 +58,7 @@ Many of the security flaws come out after the fuzzing tests on systems that can 
 
 Other examples include Stress Testing and Flooding.
 
-### Web Application Analysis
+## Web Application Analysis
 
 A website is a place where the data flows in and out in substantial quantities. Data like passwords in the form of a request goes from the clients to the server and if the web app is not secure enough then the data will surely leak through and it can be intercepted by anyone on your network.
 
@@ -64,7 +68,7 @@ Or we can use web vulnerability scanning that can help us identify vulnerabiliti
 
 Popular techniques of analysis include Mapping databases, Database Requests Framing, Web Based Auditing and Web Crawling and Scraping. 
 
-### Database Assessment
+## Database Assessment
 
 Databases are everyehere. Databses store all kinds of information, the app information on your phone or your account information in the server, they even store files in cloud nowadays. So to hack those databses we have techniques like -
 
@@ -80,7 +84,7 @@ Databases are everyehere. Databses store all kinds of information, the app infor
 
 **De-encrypting** the encrypted databases for data that they contain.
 
-### Password Attacks
+## Password Attacks
 
 Passwords are everyhere too. To crack passwords we can use techniques like - 
 
@@ -95,7 +99,7 @@ We can also find password loopholes like `sethc.exe` in Windows to bypass passwo
 **Password Profiling and Wordlists** - Sometimes we have to make our own worlists by analyzing the target, then we can gather information and profile passwords to atleast such an extent such that it reduces our bruteforce parameters.
 
 
-### Wireless Attacks
+## Wireless Attacks
 
 Wireless technologies mainly include Wi-Fi, Infrared, and Bluetooth. They are easy to set up and use, but are mainly very insecure simply because they all **broadcast** packets of data through the air, where anyone can intercept them and extract data if they are not properly encrypted and in most case they are not.
 
@@ -112,7 +116,7 @@ Wireless technologies mainly include Wi-Fi, Infrared, and Bluetooth. They are ea
 Mapping, ARP Spoofing, ARP Table overflow attack and SSL Stripping are the most commonly used attacks.
 
 
-### Reverse Engineering and Code Reversing
+## Reverse Engineering and Code Reversing
 
 Just like a real life machine can be opened up and modifications can be done to it, a software, program or a piece of code can be reverse engineered to such an extent that it can be modified or tested for vulnerabilities, or scanned for making exploits from it.
 
@@ -122,7 +126,7 @@ Still reverse engineers leave no stones unturned to understand the functionaliti
 
 **Smali** and **De-odexing** techniques are used for `.apk` and compilers such as `clang++` can be used to reverse engineer libraries written in C++. Also to help in the proceess and what is happenning behind the code, debuggers specially **Graphical Debuggers** can be used. 
 
-### Exploitation
+## Exploitation
 
 Exploiting the target system after we have developed an exploit is our focus here. How to get onto the system or network?, What data to collect?, How to send back harvested data? All of this is taken care of in the exploitation phase. Besides this target visualization,  Examples include -
 
@@ -134,7 +138,7 @@ Deploying **Payloads** - Payloads are nothing but programs that live on the targ
 
 **Honeypots** - Programs that monitor the system to identify intrusions and potential threats.
 
-### Post Exploitation
+## Post Exploitation
 
 To explore the system after exploitation, to generate logs and to maintain control of the target and harvesting data quietly, and password sniffing and cracking on the target system is called the post exploitation phase. For example -
 
@@ -142,7 +146,7 @@ After deploying a payload on Android we can make it hidden from the user to avoi
 
 **Privilege Escalation** - It is the most powerful and thus very common technique to escalate priviledges for the payload on the target system to prevent it from getting detected and eventually getting deleted or modified by the user, some other program or by the operating system itself.
 
-### Forensics
+## Forensics
 
 TO analyze every possible kind of file that a hacker encounters. Be it checking PDF for malicious scripts or a JPEG for steganographic encodings, we may need to analyze every file of ours to avoid getting hacked ourselves, other examples include - 
 
@@ -152,18 +156,30 @@ TO analyze every possible kind of file that a hacker encounters. Be it checking 
 
 **Fingerprinting** - We can often find large data encoded in short bits called fingerprints and these fingerprints are used to refer to files from other files. We have to reverse trace our way to these large files using forensics on files where we found their fingerprints.
 
-### Social Engineering
+## Social Engineering
+
+Deploying a payload needs much more skills than actually programming it! We need to make our payload believable, and user should accept it onto his system. 
+
+**Payload Binding** works in most cases - it is binding the payload to the application that the target person likes and will readily download from the internet and use.
+
+When making a wordlist we can use social engineering to get data.
+
+**Phishing** - It is the one of those techniques that depends a lot on the use on social engineering, we have to create a webpage so believable that the user actually puts his credentials in the fake page from where we can harvest it.
 
 
+## Reporting
 
-### Reporting
+Usually we end up with a lot of data after scanning and auditing, so for the purpose of reporting we enter the Reporting Stage. 
 
-Usually we end up with a lot of data after scanning and auditing, so for the purpose of reporting we enter the Reporting Stage. We can 
+We have tools to prepare a log style report to package all of our collected data, or we can categorise it, for reference or for further testing or to submit to the owner of the system or to another penetration tester.  
 
+## Conclusion
 
+This was just an overview of some methods commonly used by hackers. I tried to make it as less technical as possible and this post will act as an introduction to my further posts on Hacking, Cybersecurity and Kali Linux.
 
+## Learning Resources
 
+Can't find any not technical one that covers everything above 😕.
 
-### Conclusion
+Here is the Wikipedia [link](https://en.wikipedia.org/wiki/Security_hacker) though.
 
-### Learning Resources
