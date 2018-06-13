@@ -45,8 +45,10 @@ Also, do note that the target is not always a machine, it might be a person, or 
 
 After everything about the target is known we proceed towards this phase where we check for known vulnerabilities and already known weaknesses of the target. Examples - if target is a network, we can check for known Router/Switch/Node vulnerabilities, or protocol related vulnerabilities, if it is a mobile device we can check for known vulnerabilities like overflow and apps with stray permissions that can be treated like hosts to carry out an attack.
 
-If one wants to create exploits from scatch, one of the most commonly used technique that works on all systems is **Fuzzing**. Feeding random inputs to the system with an intent to make it malfunction, or overflow the buffers.
-With fuzzing even operating system kernels can be exploited.
+If one wants to create exploits from scatch, most commonly used techniques that work on all targets are **Fuzzing** and **Stress Testing**. Feeding random inputs to the system with an intent to make it malfunction, or overflow the buffers.
+With fuzzing, operating system kernels are exploited in the best way possible.
+
+Another very popular stress test for websites and web servers id **DoS**(Denial of Service) attacks. We repeatedly send requests until the server is unable to handle them, eventually crashing it. 
 
 Many of the security flaws come out after the fuzzing tests on systems that can be further used for exploit development.
 
@@ -149,6 +151,10 @@ TO analyze every possible kind of file that a hacker encounters. Be it checking 
 **File Recovery** - Recovering deleted files to get information.
 
 **Fingerprinting** - We can often find large data encoded in short bits called fingerprints and these fingerprints are used to refer to files from other files. We have to reverse trace our way to these large files using forensics on files where we found their fingerprints.
+
+### Social Engineering
+
+
 
 ### Reporting
 
