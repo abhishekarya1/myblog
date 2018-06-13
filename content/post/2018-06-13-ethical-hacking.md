@@ -8,8 +8,7 @@ tags: ["hacking", "security"]
 
 ## Introduction
 
-To be a Hacker, one has to be a master of multiple disciplines ranging from Operating Systems to Networking, and of course programming. They need to know everything about everything, from latest server technologies like Node.js to old programming languages 
-like BASIC and C. They know almost every web framework, operating system, wireless technology, encryption that there is, in and out.
+To be a Hacker, one has to be a master of multiple disciplines ranging from Operating Systems to Networking, and of course programming. They need to know everything about everything, from latest server technologies like Node.js to old programming languages like BASIC and C. They know almost every web framework, operating system, wireless technology, encryption that there is, in and out.
 
 If you are finding weakness and loopholes in a system and gaining access or exploiting it then you are termed as a _Hacker_.
 If you took prior permission from the owner then you are an _Ethical Hacker_ also known as _White Hat Hackers_ or _Penetration Testers_, if the access was unauthorized and unreported to the owner then you are called a _Black Hat Hacker_, and _Black Hat Hacking_ is a crime by law and such _Black Hats_ are criminals.
