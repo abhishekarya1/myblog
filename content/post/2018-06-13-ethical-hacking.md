@@ -66,11 +66,13 @@ Popular techniques of analysis include Mapping databases, Database Requests Fram
 
 Databases are everyehere. Databses store all kinds of information, the app information on your phone or your account information in the server, they even store files in cloud nowadays. So to hack those databses we have techniques like -
 
-**Injection** - Injecting data into the database such that it accepts the wrong data as correct one, 
+**Remotely accessing** the databases.
+
+**Injection** - Injecting data into the database such that it accepts the wrong data as correct one, changing data in a databse by making it malfunction, 
 
 **Brute Forcing** the passwords to a database - trying every possible password combination, 
 
-**Mapping** the schema of the database remotely, and
+**Mapping** the schema of the database remotely,
 
 **Database Flooding** - Filling the databse with data until it malfunctions, and
 
@@ -148,6 +150,9 @@ TO analyze every possible kind of file that a hacker encounters. Be it checking 
 
 **Fingerprinting** - We can often find large data encoded in short bits called fingerprints and these fingerprints are used to refer to files from other files. We have to reverse trace our way to these large files using forensics on files where we found their fingerprints.
 
+### Reporting
+
+Usually we end up with a lot of data after scanning and auditing, so for the purpose of reporting we enter the Reporting Stage. We can 
 
 
 
