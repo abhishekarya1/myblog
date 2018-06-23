@@ -3,7 +3,7 @@ title: A Brief Guide to Various Techniques in Hacking
 subtitle: Understanding Hacking Techniques and Kali Linux Toolkit Overview  
 date: 2018-06-13
 bigimg: [{src: "/img/postimg/hacking_techniques.jpg", desc: "Hacking"}]
-tags: ["hacking", "security"]
+tags: ["hacking", "security", "kali linux"]
 ---
 
 ## Introduction
@@ -174,7 +174,7 @@ We have tools to prepare a log style report to package all of our collected data
 
 ## Conclusion
 
-This was just an overview of some methods commonly used by hackers. I tried to make it as less technical as possible and this post will act as an introduction to my further posts on Hacking, Cybersecurity and Kali Linux.
+This was just an overview of some methods commonly used by hackers and also how the tools in [Kali Linux](https://www.kali.org/) (One of the most powerful penetration testing distributions) are categorized. I tried to make it as less technical as possible and this post will act as an introduction to my further posts on Hacking, Cybersecurity and Kali Linux.
 
 ## Learning Resources
 

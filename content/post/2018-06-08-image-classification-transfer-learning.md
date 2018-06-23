@@ -8,7 +8,7 @@ tags: ["machine learning", "tensorflow","deep learning"]
 
 ### Introduction
 
-Recently, I made a neural network image classifier that can be used by astronomers and scientists to classify whether an image is of a Globular Star Cluster or an Open Star Cluster. Here is the [Project Link](https://github.com/abhishekarya1/cluster-image-classifier-tensorflow). 
+Recently, I made a neural network image classifier that can be used by astronomers and scientists to classify whether an image is of a Globular Star Cluster or an Open Star Cluster. Here is the [Project Link](https://github.com/abhishekarya1/cluster-image-classifier-tensorflow).
 
 You can refer [here](https://amazing-space.stsci.edu/resources/organizers/starclusters.php) for knowing what are these two star clusters.
 
@@ -16,7 +16,7 @@ You can refer [here](https://amazing-space.stsci.edu/resources/organizers/starcl
 
 It can be very tiresome and time consuming for scientists to carefully classify between the two. And my model aims to decrease the classification time for these two categories of star clusters.
 
-If you know even a very little about Machine Learning and the so called "Artificial intellifence", then you might be aware of the datasets that the programs employing the learning deals with, images, audio/speech, videos and text data.
+If you know even a very little about Machine Learning and the so called "Artificial intelligence", then you might be aware of the datasets that the programs employing the learning deals with, images, audio/speech, videos and text data.
 
 Machine Learning models can do various things with a given data, they can do handwriting recognition, image recognition, language translation, and speech recognition.
 
@@ -34,7 +34,7 @@ There are deep learning libraries that might do better than Tensorflow like PyTo
 
 An image classifier with Tensorflow takes only 2 minutes to code.
 
-I'm going to use [Transfer Learning](https://towardsdatascience.com/what-is-transfer-learning-8b1a0fa42b4?gi=a6b0723e4d51) with Inception which is a deep convolutional neural network (CNN) architecture that achieves the new state of the art for classification and detection on the [ImageNet](http://www.image-net.org/) dataset and it is pre-trained. We'll have to retrain the final layers for our image dataset and we'll be good to go, while the pre-trained layers of the neural network will help us recognize higher level abstract image patterns. 
+I'm going to use [Transfer Learning](https://towardsdatascience.com/what-is-transfer-learning-8b1a0fa42b4?gi=a6b0723e4d51) with Inception which is a deep convolutional neural network (CNN) architecture that achieves the new state of the art for classification and detection on the [ImageNet](http://www.image-net.org/) dataset and it is pre-trained. We'll have to retrain the final layers for our image dataset and we'll be good to go, while the pre-trained layers of the neural network will help us recognize higher level abstract image patterns.
 
 For that we'll have to write some code and set Hyper-Parameters for our new model, but before that we need a **lot** of images and to download them we'll use batch image downloader script.
 
@@ -42,7 +42,7 @@ I'll be training the last layer _final\_training\_ops_ in the figure, while all 
 
 ![CNN](/img/cnn.png)
 
-After we have our images, _retrain.py_ and _label\_image.py_ scipts from the github repo cloned onto our system in a folder, we can use the below commands - 
+After we have our images, _retrain.py_ and _label\_image.py_ scipts from the github repo cloned onto our system in a folder, we can use the below commands -
 
 ### Directory Structure
 
@@ -69,10 +69,10 @@ Make sure to pass these as one line only.
 
 > **Bottleneck** - stores final layer data of the neural network, just before the output layer.
 
-> ** --image\_dir** - change this to the path to the directory where the images are. 
+> ** --image\_dir** - change this to the path to the directory where the images are.
 
 
-If the _scripts_ folder module is placed in the current directory already. 
+If the _scripts_ folder module is placed in the current directory already.
 
 ```
 python -m scripts.retrain \
@@ -86,7 +86,7 @@ python -m scripts.retrain \
 --image_dir=tf_files/cluster_photos
 ```
 
-If the _retrain.py_ script is available in our current working directory and there is no _script_ folder, then from the current directory - 
+If the _retrain.py_ script is available in our current working directory and there is no _script_ folder, then from the current directory -
 
 ```
 python retrain.py \
@@ -109,19 +109,19 @@ Also, the parameter `--how_many_training_steps=500` can be removed to set the de
 ![Training](/img/training.JPG)
 
 The step outputs are as follows -
-	
+
 - The **training accuracy** shows the percentage of the images used in the current training batch that were labeled with the correct class.
 - **Validation accuracy**: The validation accuracy is the precision (percentage of correctly-labelled images) on a randomly-selected group of images from a different set.
 - **Cross entropy** is a loss function that gives a glimpse into how well the learning process is progressing. (The lower the better.)
 
 
-**Final Test Accuracy -** 
+**Final Test Accuracy -**
 
 ![Final](/img/fin.JPG)
 
 ### Testing
 
-After the model is finished training, input an image for it to classify - 
+After the model is finished training, input an image for it to classify -
 
 ```
 python -m scripts.label_image  --graph=tf_files/retrained_graph.pb  --image=tf_files/test_photos/1.jpg
@@ -135,7 +135,7 @@ And the output predictions will be displayed on the terminal.
 
 #### For Inception v3 -
 
-Changes required to _label\_image.py_ - 
+Changes required to _label\_image.py_ -
 ```
 At line 74 => input_height = 299
 At line 75 => input_width = 299
@@ -160,7 +160,7 @@ The data from the training session will be saved into the `training_summaries` d
 
 
 ### Conclusion
-Inception CNN Architecture can classify upto 1000 classes, as it is trained on [ImageNet](http://www.image-net.org/) database. 
+Inception CNN Architecture can classify upto 1000 classes, as it is trained on [ImageNet](http://www.image-net.org/) database.
 
 This project was a demonstration of the _Transfer Learning_ process in Machine Learning and how it can be used for classification. Besides, I hope someday this can be useful for astronomers to classify their hundreds of cluster images that they collected overnight.
 Other applications include - medical, military and educational.

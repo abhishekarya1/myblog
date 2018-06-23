@@ -16,7 +16,7 @@ googleAnalytics = "UA-120021913-1"
 [Params]
   homeTitle = "Abyssal Tech" # Set a different text for the header on the home page
   subtitle = "Tech, Hacks, Codes, Gaming and everything I do"
-  logo = "img/avatar-icon.png"
+  logo = "img/avatar-icon.svg"
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
   commit = false
@@ -87,8 +87,8 @@ googleAnalytics = "UA-120021913-1"
 
 [[menu.main]]
     parent = "featured"
-    name = "---"
-    url = "post/---"
+    name = "Hacking with Kali Linux"
+    url = "/tags/kali-linux/"
     weight = 2
 
 [[menu.main]]
