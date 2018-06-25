@@ -1,7 +1,7 @@
 baseurl = "https://abyssaltech.xyz"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
-title = "Abhishek Arya | Blog"
+title = "Abyssal Tech"
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
 pygmentsStyle = "trac"
@@ -72,12 +72,17 @@ googleAnalytics = "UA-120021913-1"
 [[menu.main]]
     name = "About"
     url = "page/about/"
-    weight = 3
+    weight = 4
 
+[[menu.main]]
+   name = "App"
+   url = "app/app-home.html"
+   weight = 2
+	
 [[menu.main]]
     identifier = "featured"
     name = "featured"
-    weight = 2
+    weight = 3
 
 [[menu.main]]
     parent = "featured"
@@ -100,4 +105,4 @@ googleAnalytics = "UA-120021913-1"
 [[menu.main]]
     name = "Tags"
     url = "tags"
-    weight = 3
+    weight = 5
