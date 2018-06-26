@@ -76,17 +76,22 @@ The internet was invented for computer systems, we enabled phones to connect to 
 Information can be sent or received, an IoT capable device can do both. For collecting data for a specific purpose we need specific sensors like GPS for location or a camera for images. We also need another system that receives data and acts on it like a computer.
 
 
-**Where you use it :** Smartphones, Smart TVs, Smart Homes, Smart Watches/Bands, Wi-Fi enabled lights and home security systems.
+**Where you use it :** Assistants like Google Home and Alexa, Smartphones, Smart TVs, Smart Homes, Smart Watches/Bands, Wi-Fi enabled lights and home security systems.
 
 **Who else uses it :**
 - In 2015, Samsung announced that by 2020 every Samsung device will be connected to the internet. That means every washing machine, air conditioner or microwave oven will be online sharing data.
 
 - Tech companies today are pouring money in buying other companies who manufacture smoke detectors, accelerometers, and other various kinds of sensors.
 
-**Examples :**
+**Examples :** [Google Home](https://store.google.com/product/google_home), [Amazon Alexa](https://www.youtube.com/watch?time_continue=1&v=UOEIH2l9z7c), [Internet of Things Technology in Use Today](https://beebom.com/examples-of-internet-of-things-technology/), []()
 
 **Learn More :**
+- What is the Internet of Things? And why should you care? - [TEDx](https://www.youtube.com/watch?v=_AlcRoqS65E)
+- Internet of Things as Fast As Possible - [YouTube | Techquickie](https://www.youtube.com/watch?v=BQzBpUdHvi4)
+- Top IoT Devices - [Potscapes](https://www.postscapes.com/internet-of-things-award/winners/)
+- 10 internet of things success stories - [CIO](https://www.cio.com/article/3229671/internet-of-things/10-internet-of-things-success-stories.html)
+- Real World Applications of Internet of Things (IoT) (Videos) - [Analytics Vidhya](https://www.analyticsvidhya.com/blog/2016/08/10-youtube-videos-explaining-the-real-world-applications-of-internet-of-things-iot/)
 
 By the end of this course you will be able to come up with IoT based solutions to real-life problems as you will be acquainted with all the methods and techniques in the field of IoT.
 
-But do keep in mind that knowing all the concepts out there does not by default enable you to design and program IoT enabled devices. To be able to come up with solutions and to program them you need to have a precise knowledge of programming and hardware, since you'll be working with Microcontrollers and Sensors.
+But do keep in mind that knowing all the concepts out there does not by default enable you to design and program IoT enabled devices. To be able to come up with solutions and to program them you need to have a precise knowledge of programming and hardware, since you'll be working with Embedded devices, microcontrollers and sensors.
