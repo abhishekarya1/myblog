@@ -62,3 +62,31 @@ You will learn many concepts and techniques used in implementing cloud computing
 Expect a lot of theory and concepts, as it is an introductory course only.
 
 ## 2. Introduction to IoT
+Again, pay attention to the name of the course and you'll realize that it is an introductory course for the vast field of Internet of Things (IoT).
+
+### What is IoT?
+IoT stands for Internet of Things. The internet is no doubt one of the most important inventions ever. It allows us to connect with other people and **share information**, we share all kinds of information over the internet.
+
+An internet connection to a device allows it to share information too and it has yielded amazing results in the past, an example is your smartphone, it can access internet and send as well as receive data and therefore it is called a **smart** phone. How about we let devices share information over the network? Like a smart refrigerator which orders food before it is out of stock, or a smart TV that can send you alerts on your phone about your favourite TV show.
+
+The internet was invented for computer systems, we enabled phones to connect to it and be on the network. Look where that led us. Today there are over 10 billion devices connected to the internet, these will be over 24 billion by 2020.
+
+**The Internet of Things is actually a pretty simple concept, it means taking all the things in the world and connecting them to the internet.**
+
+Information can be sent or received, an IoT capable device can do both. For collecting data for a specific purpose we need specific sensors like GPS for location or a camera for images. We also need another system that receives data and acts on it like a computer.
+
+
+**Where you use it :** Smartphones, Smart TVs, Smart Homes, Smart Watches/Bands, Wi-Fi enabled lights and home security systems.
+
+**Who else uses it :**
+- In 2015, Samsung announced that by 2020 every Samsung device will be connected to the internet. That means every washing machine, air conditioner or microwave oven will be online sharing data.
+
+- Tech companies today are pouring money in buying other companies who manufacture smoke detectors, accelerometers, and other various kinds of sensors.
+
+**Examples :**
+
+**Learn More :**
+
+By the end of this course you will be able to come up with IoT based solutions to real-life problems as you will be acquainted with all the methods and techniques in the field of IoT.
+
+But do keep in mind that knowing all the concepts out there does not by default enable you to design and program IoT enabled devices. To be able to come up with solutions and to program them you need to have a precise knowledge of programming and hardware, since you'll be working with Microcontrollers and Sensors.
