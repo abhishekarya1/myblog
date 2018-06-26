@@ -41,7 +41,7 @@ googleAnalytics = "UA-120021913-1"
 
 [Author]
   name = "Abhishek Arya"
-  website = "abhishekarya1.github.io"
+  website = "https://www.github.com/abhishekarya1/"
   email = "abhishekarya102@gmail.com"
   facebook = "dFuZeR101"
   googleplus = "+abhishekarya102" # or xxxxxxxxxxxxxxxxxxxxx
@@ -74,10 +74,10 @@ googleAnalytics = "UA-120021913-1"
     url = "page/about/"
     weight = 4
 
-[[menu.main]]
-   name = "App"
-   url = "app/app-home.html"
-   weight = 2
+#[[menu.main]]
+#   name = "App"
+#   url = "app/app-home.html"
+#   weight = 2
 	
 [[menu.main]]
     identifier = "featured"
