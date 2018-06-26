@@ -76,26 +76,49 @@ The internet was invented for computer systems, we enabled phones to connect to 
 Information can be sent or received, an IoT capable device can do both. For collecting data for a specific purpose we need specific sensors like GPS for location or a camera for images. We also need another system that receives data and acts on it like a computer.
 
 
-**Where you use it :** Assistants like Google Home and Alexa, Smartphones, Smart TVs, Smart Homes, Smart Watches/Bands, Wi-Fi enabled lights and home security systems.
+**Where you use it :** Assistants like Google Home and Amazon Alexa, Smartphones, Smart TVs, Smart Homes, Smart Watches/Bands, Wi-Fi enabled lights and home security systems.
 
 **Who else uses it :**
+
 - In 2015, Samsung announced that by 2020 every Samsung device will be connected to the internet. That means every washing machine, air conditioner or microwave oven will be online sharing data.
 
 - Tech companies today are pouring money in buying other companies who manufacture smoke detectors, accelerometers, and other various kinds of sensors.
 
-**Examples :** [Google Home](https://store.google.com/product/google_home), [Amazon Alexa](https://www.youtube.com/watch?time_continue=1&v=UOEIH2l9z7c), [Internet of Things Technology in Use Today](https://beebom.com/examples-of-internet-of-things-technology/), []()
+**Examples :** [Google Home](https://store.google.com/product/google_home), [Amazon Alexa](https://www.youtube.com/watch?time_continue=1&v=UOEIH2l9z7c), [Internet of Things Technology in Use Today](https://beebom.com/examples-of-internet-of-things-technology/)
 
 **Learn More :**
+
 - What is the Internet of Things? And why should you care? - [TEDx](https://www.youtube.com/watch?v=_AlcRoqS65E)
 - Internet of Things as Fast As Possible - [YouTube | Techquickie](https://www.youtube.com/watch?v=BQzBpUdHvi4)
 - Top IoT Devices - [Potscapes](https://www.postscapes.com/internet-of-things-award/winners/)
 - 10 internet of things success stories - [CIO](https://www.cio.com/article/3229671/internet-of-things/10-internet-of-things-success-stories.html)
 - Real World Applications of Internet of Things (IoT) (Videos) - [Analytics Vidhya](https://www.analyticsvidhya.com/blog/2016/08/10-youtube-videos-explaining-the-real-world-applications-of-internet-of-things-iot/)
 
-<br>
 
 By the end of this course you will be able to come up with IoT based solutions to real-life problems as you will be acquainted with all the methods and techniques in the field of IoT.
 
-But do keep in mind that knowing all the concepts out there does not by default enable you to design and program IoT enabled devices. To be able to come up with solutions and to program them you need to have a precise knowledge of programming and hardware, since you'll be working with Embedded devices, microcontrollers and sensors.
+But do keep in mind that knowing all the concepts out there does not by default enable you to design and program IoT enabled devices. To be able to come up with solutions and to program them you need to have a good knowledge of programming and hardware, since you'll be working with Embedded devices, microcontrollers and sensors.
 
 ### 3. Wireless and Mobile Computing
+Another concept based course, major part of the course will be theoretical.
+
+Wireless networks are networks without wires, they use air to send and receive signals which carry data. Mobile computing refers to the device being able to change locations and get transported while being able to stream data without interruptions like your mobile phone.
+This course will be a further extension to the Data Communications from the third semester. All of the tools and techniques used for data communications will be applied to Wireless networks and advance concepts like Radio propagation and modulation techniques in mobile will most probably be taught.
+
+This one, in my view is strictly an **Electronics and Communications** course inclined towards _well_, electronics and communications.
+
+**Where you use it :** Wi-Fi, Bluetooth, Cellular Networks, Wireless Speakers, Screen Cast, Wireless Charging
+
+**Who else uses it :**
+- When entire communication lines collapse in an earthquake, it is Wireless networks that are up and running.
+- Cellular networks are everywhere as you know as they can also provide services in far away remote places.
+- Wireless technology is easy to deploy than laying down communication lines, and hence it has always [trasformed lives](https://techcrunch.com/2017/02/19/how-mobile-technology-is-transforming-lives-in-rural-india/).
+- With [5G Coming](https://telecomreseller.com/2018/06/25/5g-on-the-horizon/) this is the most exciting time to learn about networks and communications.
+
+**Learn More :**
+- Mobile Computing Solutions from Qualcomm, World's Largest Manufacturer of Wireless Equipment - [Qualcomm](https://www.qualcomm.com/solutions/mobile-computing)
+- [Different Types of Wireless Communication Technologies](https://www.efxkits.us/different-types-of-wireless-communication-technologies/)
+
+
+
+That being said, I have studied many things from this field like Mobile Computing, 1G, 2G, 4G, 5G, Wireless Internet, Data Transmission, Channels, and Networks, and I assure you that once you get started with it, it is quite interesting to learn.
