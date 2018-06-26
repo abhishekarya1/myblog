@@ -125,5 +125,5 @@ This one, in my view, is strictly an **Electronics and Communications** course i
 
 That being said, I have studied many things from this field like Mobile Computing, 1G, 2G, 3G, 4G, 5G, Wireless Internet, Data Transmission, Channels, and Networks, and I assure you that once you get started with it, it is quite interesting to learn.
 
-
-In Part-2, I'll be covering the remaining courses as they are more _hands-on learning_ based and good programming, as well as creative skills, are required to learn them.
+## To be Continued...
+In **Part-2**, I'll be covering the remaining courses as they are more inclined towards development and follow a _hands-on learning_ approach and good programming, as well as creative skills, are required to learn them.
