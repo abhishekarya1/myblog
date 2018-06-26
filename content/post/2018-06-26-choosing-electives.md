@@ -92,6 +92,10 @@ Information can be sent or received, an IoT capable device can do both. For coll
 - 10 internet of things success stories - [CIO](https://www.cio.com/article/3229671/internet-of-things/10-internet-of-things-success-stories.html)
 - Real World Applications of Internet of Things (IoT) (Videos) - [Analytics Vidhya](https://www.analyticsvidhya.com/blog/2016/08/10-youtube-videos-explaining-the-real-world-applications-of-internet-of-things-iot/)
 
+<br>
+
 By the end of this course you will be able to come up with IoT based solutions to real-life problems as you will be acquainted with all the methods and techniques in the field of IoT.
 
 But do keep in mind that knowing all the concepts out there does not by default enable you to design and program IoT enabled devices. To be able to come up with solutions and to program them you need to have a precise knowledge of programming and hardware, since you'll be working with Embedded devices, microcontrollers and sensors.
+
+### 3. Wireless and Mobile Computing
