@@ -12,11 +12,11 @@ It is advised that you choose your elective course carefully after being aware o
 
 This is a brief but insightful guide to choosing an elective. If you are still confused or if you do not know where to get started then you are at the right place.
 
-It is assumed that the same elective course options will be offered to you that were offered to the Fall Semester 2017 students (our seniors) as in the date sheet below.
+It is assumed that the same elective course options will be offered to you that were offered to the Fall Semester **2017 students (our seniors)** as referred from the date sheet below.
 
 ![Datesheet](/img/Datesheet.JPG)
 <br>
-#### I have divided all electives in two categories -
+#### I have divided all of the above electives in two categories -
 - **Part-1** : Expect a lot of theory and concepts. Electives under these category are basically introductions to their respective fields.
 - **Part-2** : Development and Programming. Electives under this category are more practical learning focused and expect a lot of programming if you choose them.
 
@@ -33,11 +33,11 @@ For example, consider your WhatsApp messages or Contacts, they are backed up to 
 
 Cloud Computing ensures accessibility from anywhere, anytime using any kind of device.
 
-But Cloud Computing is so popular because of the ease of operation and scalability it provides to internet based businesses. Suppose a company or an individual sets up a website and wants to host it. How will they do it without cloud computing? They can just host it on their computer and give people address to their computer. But, can they ensure that they will be accessible every time?, even at night, what about when they are not around? Cloud Computing solves this by allowing companies to host their websites on another computers from people/firms who can ensure all of the above.
+ Suppose a company or an individual sets up a website and wants to host it. How will they do it without cloud computing? They can just host it on their computer and give people address to their computer. But, can they ensure that they will be accessible every time?, even at night, what about when they are not around? Cloud Computing solves this by allowing companies to host their websites on another computers from people/firms who can ensure all of the above.
 
-Another example is, suppose a website, some days it receives a lot of users, other day the number of users drop drastically, this keeps happening. The company cannot work with limited servers because that would hamper their growth, so should they go out and buy a new computer or system every time the user count is high? That would lead to a wastage of money as most of those expensive systems would sit idle when there are less users. Cloud storage renting companies like Amazon Web Services provide other companies a space to host and this leads to companies becoming worry free of maintaining a website and focusing on their actual product.
+Another example is, suppose a website, some days it receives a lot of users, other day the number of users drop drastically, this keeps happening. The company cannot work with limited servers because that would hamper their growth, so should they go out and buy a new computer every time the user count is high? That would lead to a wastage of money as most of those expensive systems would sit idle when there are less users. Cloud storage renting companies like Amazon Web Services(AWS) provide other companies a space on their computers to host their services and this leads to companies being worry free of maintaining a website and focusing on their actual product.
 
-An app store can be an example of cloud storage. Suppose you made an app, how will you distribute it to people across the world if you have no app store. You'll have to send the app file to people manually. But storing all of the apps available in the cloud ensures accessibility.
+Suppose you made an app, how will you distribute it to people across the world if you have no app store. You'll have to send the app file to people manually. But storing all of the apps available in the cloud ensures accessibility.
 
 Facilities like Gmail and Google Drive allows you to **manage** the software from your device, is the software on your device? No. You are just accessing it and managing it from your phone or computer.
 
@@ -55,11 +55,11 @@ With the help of Cloud Computing you can now execute your code on an [IBM Quantu
 - What is cloud computing? A beginner's guide - [Microsoft Azure](https://azure.microsoft.com/en-in/overview/what-is-cloud-computing/)
 - Cloud Computing Tutorial for Beginners - [Guru99](https://www.guru99.com/cloud-computing-for-beginners.html)
 
-<br>
-
 You will learn many concepts and techniques used in implementing cloud computing. You'll be able to understand apps and platforms using cloud computing as well as you will be able to create cloud based solutions to real-life problems.
 
-Expect a lot of theory and concepts, as it is an introductory course only.
+Expect a lot of theory and concepts, as it is just an introductory course.
+
+<br>
 
 ## 2. Introduction to IoT
 Again, pay attention to the name of the course and you'll realize that it is an introductory course for the vast field of Internet of Things (IoT).
@@ -80,7 +80,7 @@ Information can be sent or received, an IoT capable device can do both. For coll
 
 **Who else uses it :**
 
-- In 2015, Samsung announced that by 2020 every Samsung device will be connected to the internet. That means every washing machine, air conditioner or microwave oven will be online sharing data.
+- In 2015, Samsung announced that by 2020 every Samsung device will be connected to the internet. That means every washing machine, air conditioner or microwave oven will be online, sharing data with each other.
 
 - Tech companies today are pouring money in buying other companies who manufacture smoke detectors, accelerometers, and other various kinds of sensors.
 
@@ -99,7 +99,9 @@ By the end of this course you will be able to come up with IoT based solutions t
 
 But do keep in mind that knowing all the concepts out there does not by default enable you to design and program IoT enabled devices. To be able to come up with solutions and to program them you need to have a good knowledge of programming and hardware, since you'll be working with Embedded devices, microcontrollers and sensors.
 
-### 3. Wireless and Mobile Computing
+<br>
+
+## 3. Wireless and Mobile Computing
 Another concept based course, major part of the course will be theoretical.
 
 Wireless networks are networks without wires, they use air to send and receive signals which carry data. Mobile computing refers to the device being able to change locations and get transported while being able to stream data without interruptions like your mobile phone.
@@ -107,18 +109,21 @@ This course will be a further extension to the Data Communications from the thir
 
 This one, in my view is strictly an **Electronics and Communications** course inclined towards _well_, electronics and communications.
 
-**Where you use it :** Wi-Fi, Bluetooth, Cellular Networks, Wireless Speakers, Screen Cast, Wireless Charging
+**Where you use it :** Wi-Fi, Bluetooth, Cellular Networks, Wireless Speakers, Screen Cast, Wireless Charging.
 
 **Who else uses it :**
+
 - When entire communication lines collapse in an earthquake, it is Wireless networks that are up and running.
 - Cellular networks are everywhere as you know as they can also provide services in far away remote places.
 - Wireless technology is easy to deploy than laying down communication lines, and hence it has always [trasformed lives](https://techcrunch.com/2017/02/19/how-mobile-technology-is-transforming-lives-in-rural-india/).
 - With [5G Coming](https://telecomreseller.com/2018/06/25/5g-on-the-horizon/) this is the most exciting time to learn about networks and communications.
 
 **Learn More :**
+
 - Mobile Computing Solutions from Qualcomm, World's Largest Manufacturer of Wireless Equipment - [Qualcomm](https://www.qualcomm.com/solutions/mobile-computing)
 - [Different Types of Wireless Communication Technologies](https://www.efxkits.us/different-types-of-wireless-communication-technologies/)
 
+That being said, I have studied many things from this field like Mobile Computing, 1G, 2G, 3G, 4G, 5G, Wireless Internet, Data Transmission, Channels, and Networks, and I assure you that once you get started with it, it is quite interesting to learn.
 
 
-That being said, I have studied many things from this field like Mobile Computing, 1G, 2G, 4G, 5G, Wireless Internet, Data Transmission, Channels, and Networks, and I assure you that once you get started with it, it is quite interesting to learn.
+In Part-2, I'll be covering the remaining courses as they are more _hands-on learning_ based and good programming as well as creative skills are required to learn them.
