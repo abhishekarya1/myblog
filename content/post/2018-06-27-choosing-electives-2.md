@@ -5,57 +5,75 @@ date: 2018-06-27
 bigimg: [{src: "/img/postimg/choosing_electives_2.jpg", desc: "Choosing Electives"}]
 tags: ["choosing electives"]
 ---
-In [Part-1](/post/2018-06-26-choosing-electives-1/), I talked about courses which require you to understand concepts and learn them so that you can get started with building actual stuff with them. In this post however, I am going to be talking about the courses in which you are going to freely experiment with the tools and you are definitely going to make something, say a simple app or a website during the course. These courses are more development focused and you must choose from them if you want to **create** something.
+In [Part-1](/post/2018-06-26-choosing-electives-1/), I talked about courses which require you to understand concepts and learn them so that you can get started with building actual stuff with them.
 
-![Datesheet](/img/Datesheet.JPG)
-<br>
-#### I have divided all of the above electives in two categories -
-- **Part-1**: Expect a lot of theory and concepts. Electives under this category are basically introductions to their respective fields.
-- **Part-2** : Development and Programming. Electives under this category are more practical learning focused and expect a lot of programming if you choose them.
+In this post however, I am going to be talking about the courses in which you are going to freely experiment with the tools and you are definitely going to make something, say a simple app or a website during the course. These courses are more development focused and you must choose among these if you want to **create** something.
 
-I have hands-on experience and know-how of every elective and I will be more than happy if I can be of any help to you in making your decision.
+I have devoted a fair amount of my time developing Websites like this one, engineering Android apps and programming with Python for Machine Learning,
+and that is why I decided to give others an insight of all of these courses so that they can get some help in deciding what is the best option for them.
 
-<br>
+## 1. App Development for Android
+Android is a mobile operating system developed by Google primarily for touchscreen mobile devices such as smartphones and tablets.
 
-## 1. Introduction to Cloud Computing
-Let us be very clear with the name - **Introduction** to Cloud Computing, it will be an introductory course covering concepts like types of cloud, deployment models, services, etc..
+#### It is just another OS, what makes it so special?
+Well, Android is so great because of the open source community, Android Open Source Project (AOSP), not even Google alone could have driven Android to the state it is in now. An active community of people contributing to make an operating system for mobile devices is what makes Android great, which lacks in other operating systems like iOS and Windows. The community of developers, programmers and enthusiasts bring to the table, a plethora of updates, bug fixes and improvements faster than the official manufacturer. Also, this is why Android courses are taught in colleges. You can learn to build apps and then start contributing to the community too, making it more secure and feature rich.
 
-#### What is Cloud Computing?
-Cloud computing is basically storing, managing, and processing of data on another computer rather than yours.
-For example, consider your WhatsApp messages or Contacts, they are backed up to the cloud(another computer) and even when your device is lost or damaged you can simply sign-in and get all of your messages or contacts back. If that data management would have been given into your hands you would have uninstalled every app from your phone because you can hardly manage data of a single app manually, let alone hundreds of apps that you have on your phone.
+There is also a **huge** app store ([3.3 million apps](https://www.statista.com/statistics/266210/number-of-available-applications-in-the-google-play-store/)) for Android and most of the apps are free. People can develop more and more apps and publish them to the store because of this _open_ nature of Android. Also Android has a large user base because much of the devices that run Android are cheaper than others. Some people mock it, but the back-end code and the underlying organization in Android is far much efficient than others and that is why Android is the most popular mobile OS with a whopping userbase of over [2 billion monthly active users](https://twitter.com/Google/status/864890655906070529). If you sit down and think about it, that is actually a phenomenal amount of users for a single piece of software.
 
-Cloud Computing ensures accessibility from anywhere, anytime using any kind of device.
+Android leads the global market with 87.9 percent of market share. Sure developing apps and features for it is not a bad idea at all. You can start developing apps and get your hands dirty with the backend and the linux kernel, then you can right away contribute to the development of Android. Or, you can develop Android apps for organizations and individuals and remain and Android developer, it surely pays off well.
 
- Suppose a company or an individual set up a website and wants to host it. How will they do it without cloud computing? They can just host it on their computer and give people address to their computer. But, can they ensure that they will be accessible every time? even at night, what about when they are not around? Cloud Computing solves this by allowing companies to host their websites on other computers from people/firms who can ensure all of the above.
+**Scope:** Apps for businesses, apps for NGOs, freelance app developer, build your own apps, start contributing to the Android community, software for ChromeOS and other Android powered devices.
 
-Another example is, suppose a website, some days it receives a lot of users, another day the number of users drop drastically, this keeps happening. The company cannot work with limited servers because that would hamper their growth, so should they go out and buy a new computer every time the user count is high? That would lead to a wastage of money as most of those expensive systems would sit idle when there are fewer users. Cloud storage renting companies like Amazon Web Services(AWS) provide other companies a space on their computers to host their services and this leads to companies being worry-free of maintaining a website and focusing on their actual product.
+**Where you use it:** [Smartphones](https://www.android.com/phones/) & [Tablets](https://www.android.com/tablets/), [Smart TVs](https://www.android.com/tv/), Smart Watches - [WearOS](https://wearos.google.com/), [Car Systems](https://www.android.com/auto/), [IoT](https://developer.android.com/things/), Desktop Operating Systems - [ChromeOS](https://developer.android.com/chrome-os/intro)
 
-Suppose you made an app, how will you distribute it to people across the world if you have no app store. You'll have to send the app file to people manually. But storing all of the apps available in the cloud ensures accessibility.
-
-Facilities like Gmail and Google Drive allows you to **manage** the software from your device, is the software on your device? No. You are just accessing it and managing it from your phone or computer.
-
-With the help of Cloud Computing, you can now execute your code on an [IBM Quantum Computer](https://quantumexperience.ng.bluemix.net/qx) from your home that too from **any** device!
-
-**Where you use it:** WhatsApp, Gmail, Google Drive, Dropbox.
-
-**Who else uses it:** Every internet based company out there.
-
-**Examples :** [Canva Online Editor](https://photo-editor.canva.com/), [Rabbit](https://www.rabb.it/), [Amazon Web Services](https://aws.amazon.com/), and a lot more...
+**Who else uses it:** Every user of the devices listed above, companies and organizations with an Android app for their businesses or needs, [ChromeOS](https://developer.android.com/chrome-os/intro), [WearOS](https://developer.android.com/training/wearables/)
 
 **Learn More:**
 
-- Cloud Computing for Beginners - [Medium](https://medium.com/@vickynimbalkar/cloud-computing-for-beginners-ceb417658912)
-- What is cloud computing? A beginner's guide - [Microsoft Azure](https://azure.microsoft.com/en-in/overview/what-is-cloud-computing/)
-- Cloud Computing Tutorial for Beginners - [Guru99](https://www.guru99.com/cloud-computing-for-beginners.html)
+- Android Developers - [Home](https://developer.android.com/)
+- Reasons to Learn Android Development - [Edureka](https://www.edureka.co/blog/reasons-to-learn-android-development/)
+- Android DevStories - [YouTube](https://www.youtube.com/playlist?list=PLlyCyjh2pUe88f-w-EpsYGgApsQTkr8bK)
 
-You will learn many concepts and techniques used in implementing cloud computing. You'll be able to understand apps and platforms using cloud computing as well as you will be able to create cloud-based solutions to real-life problems.
+You will learn many concepts and techniques used in making android apps for potentially billions of people out there. You'll be able to understand apps and functionalities as well as you will be able to create apps and come up with solutions to real-life problems that can be solved with it. Besides, you can build a ton of apps for yourself and showcase them as projects or publish them on the play store.
 
-Expect a lot of theory and concepts, as it is just an introductory course.
+Expect a lot of programming, design as well as concepts throughout the semester and beyond if you decide to develop apps further.
 
 <br>
 
-## 2. Introduction to IoT
-Again, pay attention to the name of the course and you'll realize that it is an introductory course for the vast field of Internet of Things (IoT).
+## 2. Programming with Python
+Python is the latest buzzword nowadays in the field of programming, you must have heard of it from someone. It is often mistakenly though of as a new language but it is not. Python was first released in 1991. Python is different from other programming languages you learnt till now, C and Java, as it is less strict in terms of syntax, and it has applications ranging from Machine Learning and Web Development to Scripting and Hacking.
+
+Python is much simpler and leads to faster development, it is easy to learn and is the best programming languages for beginners, no doubt in that.
+
+Python is the way to go if you want to get started. But, _if you already know any other programming language well, then my advice would be to **skip** learning Python_. Sure, learning it will never hurt you, but you may not want to miss on the Web Development and Android Development. That being said, if you've already decided that you want to do, say, machine learning with Python, then you should definitely choose Python. But if you are still not sure of anything, allow me to explain further.
+
+Advantages over other programming languages -
+- Easy to learn for beginners as the syntax is simpler
+- Increased readability of code
+- Shorter code lengths as compared to other languages like Java and C++
+- Increasing hype and opportunities
+- Leading language for Machine Learning and Data Science
+- Best for writing small scripts
+- Django Web Framework, Flask Framework and a lot of libraries available to do different tasks
+
+Disadvantages -
+- Python is interpreted, it runs code line by line, this makes it extremely slow and unsuitable for performance
+- Far from the hardware, its impossible to write efficient kernel code and other low latency programs in Python
+- Traditional programming barriers. Most of the most widely used programming standards and syntax were omitted by Python, see yourself,
+**FOR Loop in Python**
+```
+for i in range(1,10):
+    print i
+```
+**For loop in C++**
+```
+for(i = 1; i <= 10; i++)
+{
+cout << i;
+}
+```
+No semicolons and a loose syntax, this will definitely make you care less about the syntax, but when you try and create Data Structures in it, you will find yourself searching on the internet for hours about syntax.
+-
 
 ### What is IoT?
 IoT stands for Internet of Things. The internet is no doubt one of the most important inventions ever. It allows us to connect with other people and **share information**, we share all kinds of information over the internet.
