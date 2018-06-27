@@ -2,7 +2,7 @@
 title: Android, Python, and Web Programming with HTML & PHP
 subtitle: (Part-2) - A Guide to Choosing Electives
 date: 2018-06-27
-bigimg: [{src: "/img/postimg/electives2.JPG", desc: "Choosing Electives"}]
+bigimg: [{src: "/img/postimg/electives2.jpeg", desc: "Choosing Electives"}]
 tags: ["choosing electives"]
 ---
 In [Part-1](/post/2018-06-26-choosing-electives-1/), I talked about courses which require you to understand concepts and learn them so that you can get started with building actual stuff with them.
