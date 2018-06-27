@@ -2,7 +2,7 @@
 title: Android, Python, and Web Programming with HTML & PHP
 subtitle: (Part-2) - A Guide to Choosing Electives
 date: 2018-06-27
-bigimg: [{src: "/img/postimg/choosing_electives_2.jpg", desc: "Choosing Electives"}]
+bigimg: [{src: "/img/postimg/electives2.JPG", desc: "Choosing Electives"}]
 tags: ["choosing electives"]
 ---
 In [Part-1](/post/2018-06-26-choosing-electives-1/), I talked about courses which require you to understand concepts and learn them so that you can get started with building actual stuff with them.
@@ -14,6 +14,8 @@ and that is why I decided to give others an insight of all of these courses so t
 
 ## 1. App Development for Android
 Android is a mobile operating system developed by Google primarily for touchscreen mobile devices such as smartphones and tablets.
+
+![Android App Development](/img/android_jetpack.png)
 
 #### It is just another OS, what makes it so special?
 Well, Android is so great because of the open source community, Android Open Source Project (AOSP), not even Google alone could have driven Android to the state it is in now. An active community of people contributing to make an operating system for mobile devices is what makes Android great, which lacks in other operating systems like iOS and Windows. The community of developers, programmers and enthusiasts bring to the table, a plethora of updates, bug fixes and improvements faster than the official manufacturer. Also, this is why Android courses are taught in colleges. You can learn to build apps and then start contributing to the community too, making it more secure and feature rich.
@@ -43,9 +45,11 @@ Expect a lot of programming, design as well as concepts throughout the semester,
 <br>
 
 ## 2. Programming with Python
+Python is much simpler and leads to faster development, it is easy to learn and is the best programming languages for beginners, no doubt in that.
+
+![Python](/img/python_logo.png)
 Python is the latest buzzword nowadays in the field of programming, you must have heard of it from someone. It is often mistakenly though of as a new language but it is not. Python was first released in 1991. Python is different from other programming languages you learnt till now, C and Java, as it is less strict in terms of syntax, and it has applications ranging from Machine Learning and Web Development to Scripting and Hacking.
 
-Python is much simpler and leads to faster development, it is easy to learn and is the best programming languages for beginners, no doubt in that.
 
 Python is the way to go if you want to get started. But, _if you already know any other programming language well, then my advice would be to **skip** learning Python_. Sure, learning it will never hurt you, but you may not want to miss on the Web Development and Android Development. That being said, if you've already decided that you want to do, say, machine learning with Python, then you should definitely choose Python. But if you are still not sure of anything, allow me to explain further.
 
@@ -105,13 +109,16 @@ After this course you will be capable of programming in another language and you
 <br>
 
 ## 3. Web Programming with PHP & HTML
+
+![Web Development](/img/webdev.jpg)
+
 The thought process that must have went behind in the minds of the course creators was to include **one front-end language (HTML) and one back-end one (PHP)**.
 
 **Front-end:** Part of a website visible to the user and it makes up the _front_ layout, view, design, and visible structural elements of a website. Just the User Interface (UI).
 
 **Back-end:** Part of a website not-visible to the user and it makes up the _back functionality_ of a website. Ex - When you submit a form, your data gets saved onto a server (another computer), or a login system where you put in your username and password and when you press sign-in button, you are authenticated to use the site's services.
 
-#### Two Aspects
+### Two Aspects
 Suppose you have to create a front-part of a website, basically the design. For that you need to use a language with which you can insert elements and they get displayed on the pages, like HTML (Hyper Text Markup Language) which is the standard language for creating web pages and web applications.
 Using that will create only the User Interface, that is fine if you want to only allow reading of the webpage. Think of it as a pages in a book.
 
@@ -127,17 +134,24 @@ There are primarily three languages for front-end design and development of a we
 - **CSS** - For adding _styles_ to the elements created by HTML like colour, perspective, resizing, and borders.
 - **JavaScript** - For adding behaviour to those elements, like changing colour when clicked, animations, and actions such as self-reload.
 
-In the back-end languages like Java and PHP ruled. But then JavaScript was used to program the logic for back-end and it turned out great. JavaScript can handle the back-end tasks of communication between the database and the browser. With Ryan Dahl releasing [Node.js](https://nodejs.org/en/) back in 2009, it is the fastest growing JavaScript backend framework today, if you have not heard of it, you live under a rock.
+In the back-end languages like Java and PHP ruled. But then JavaScript was used to program the logic for back-end and it turned out great. JavaScript can handle the back-end tasks of communication between the database and the browser. With Ryan Dahl founding [Node.js](https://nodejs.org/en/) back in 2009, it is the fastest growing JavaScript backend framework today, if you have not heard of it, you live under a rock.
 
 And then there are [Progressive Web Apps](https://developers.google.com/web/progressive-web-apps/), websites that look same on small screen (mobile) devices as they look on a desktop computer, much like this website, and they are fluidic and error free, responsive and great to look, feel and use.
 Who doesn't love a website like [this](https://paperplanes.world/), Twitter and Gmail too are examples of PWAs.
 
-Almost all of the back-end developers working with web apps choose Node.js as their back-end framework. It is fast, flexible, and uses JavaScript which is already used in front-end. But, PHP still leads with almost [83.5 percent](https://w3techs.com/technologies/details/pl-php/all/all) of the total websites. Besides all this developers often hate PHP because of the security issues associated with it and PHP is by design not at all a secure framework.
+- Almost all of the back-end developers working with web apps choose Node.js as their back-end framework. It is fast, flexible, and uses JavaScript which is already used in front-end so it is easy to work with.
+- PHP still leads with almost [83.5 percent](https://w3techs.com/technologies/details/pl-php/all/all) of the total websites.
+- The amount of jobs and internships available for Node.js is also increasing day by day, but PHP still leads in that thanks to its large userbase.
+- Developers often dislike PHP because of the security issues associated with it and PHP is by design not at all a secure framework. You have to be very careful in writing code or else the security of the database is compromised, be sure you use mysqli() or PDO.
 
+Despite of all this changes in scenario, this course will expose you to the web development, both front-end with HTML and back-end with PHP, and you will be able to make websites and apps. Once you are done with the basics you can choose your path, to stick with PHP or to move to JavaScript back-end. It is a great start to learning web development.
 
 **Where you use it:**
 
-**Who else uses it:**
+- **HTML** - Everywhere on the internet.
+- **PHP** - Google, Facebook, and Wikipedia.
+
+**Who else uses it:** Wikipedia, Facebook, and many more websites.
 
 **Learn More:**
 
@@ -146,7 +160,11 @@ Almost all of the back-end developers working with web apps choose Node.js as th
 - PHP vs. Node.js: An epic battle for developer mind share - [InfoWorld](https://www.infoworld.com/article/3166109/application-development/php-vs-nodejs-an-epic-battle-for-developer-mind-share.html)
 - Web apps are only getting better - [The Verge](https://www.theverge.com/circuitbreaker/2018/4/11/17207964/web-apps-quality-pwa-webassembly-houdini)
 
-That being said, I have studied many things from this field like Mobile Computing, 1G, 2G, 3G, 4G, 5G, Wireless Internet, Data Transmission, Channels, and Networks, and I assure you that once you get started with it, it is quite interesting to learn.
+Web Development is the only technology that has the highest number of internships and jobs available. If you want to create web apps and websites, and get a job or two, get started with HTML and PHP.
+
+Expect a lot of programming and design too. HTML is just a markup language, it is NOT a programming language, on the other hand, PHP requires a good amount of programming knowledge as well as skills.
 
 ## Conclusion
-Don't forget to check out others
+Read the first part [here](/post/2018-06-26-choosing-electives-1/) as it contains insights on other Elective Courses like **Cloud Computing, IoT, and Wireless Communications and Mobile Computing**.
+
+Want to talk? Just drop me a mail and I'll be happy to talk to you.
