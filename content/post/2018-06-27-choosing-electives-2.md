@@ -34,6 +34,8 @@ Android leads the global market with 87.9 percent of market share. Sure developi
 - Reasons to Learn Android Development - [Edureka](https://www.edureka.co/blog/reasons-to-learn-android-development/)
 - Android DevStories - [YouTube](https://www.youtube.com/playlist?list=PLlyCyjh2pUe88f-w-EpsYGgApsQTkr8bK)
 
+Be aware of the fact that Google has Officially announced [Kotlin](https://kotlinlang.org/) as its [official language for Android](https://developer.android.com/kotlin/). The Java support will soon be gone from the Android platform and Kotlin will take over completely. I am very sure that the course will use Java but nonetheless, but you can switch from Java to Kotlin, but it will be extra work that you have to put in yourself.
+
 You will learn many concepts and techniques used in making android apps for potentially billions of people out there. You'll be able to understand apps and functionalities as well as you will be able to create apps and come up with solutions to real-life problems that can be solved with it. Besides, you can build a ton of apps for yourself and showcase them as projects or publish them on the play store.
 
 Expect a lot of programming, design as well as concepts throughout the semester and beyond if you decide to develop apps further.
@@ -55,7 +57,7 @@ Python is the way to go if you want to get started. But, _if you already know an
 - Increasing hype and opportunities
 - Leading language for Machine Learning and Data Science
 - Best for writing small scripts
-- Django Web Framework, Flask Framework and a lot of libraries available to do different tasks
+- [Django](https://www.djangoproject.com/) Framework, [Flask](http://flask.pocoo.org/) Framework and a lot of libraries available to do different tasks
 
 **Disadvantages -**
 
@@ -78,35 +80,31 @@ cout << i;
  No semicolons and a loose syntax, this will definitely make you care less about the syntax, but when you try and create Data Structures in it, you will find yourself searching on the internet for hours about syntax.
 
 - Userbase. Though Python is all the hype nowadays, and it has the potential to be an all encompassing multipurpose language, it is not anywhere near. Much of the Web Development is on PHP and JavaScript, app development in native SDKs like Android Studio(Java/Kotlin) and Swift, Low latency software in C/C++ and Games are being made in C#. Right now, Python leads in the Machine Learning and Data Science fields only.
-- **This is not actually the right time to switch to a new programming language if you are not clear with basic programming and Object-oriented concepts, do keep in mind that Data Structures too are very important, practice them with the programming language you currently know (most probably C or Java) and then learning a new programming language is only a matter of hours to get started with it.**
+- **This is not actually the right time to switch to a new programming language if you are not clear with basic programming and Object-oriented concepts, do keep in mind that Data Structures too are very important, practice them with the programming language you currently know (most probably C or Java) and then learning a new programming language is only a matter of hours to get started with it. Learning more languages is not important does not matter, problem solving by programming is what you need to develop**
 
-**Where you use it:** Instagram, Mozilla Firefox, LinkedIn, NASA's Website. They all use Django, a web framework written in Python.
-YouTube, Google Search, Quora, Reddit, BitTorrent. They all use Python.
+**Where you use it:**
+
+- Instagram, Mozilla Firefox, LinkedIn, YouTube, Google Search, Quora, Reddit, and BitTorrent.
 
 **Who else uses it:**
 
-- In 2015, Samsung announced that by 2020 every Samsung device will be connected to the internet. That means every washing machine, air conditioner or microwave oven will be online, sharing data with each other.
-
-- Tech companies today are pouring money into buying other companies who manufacture smoke detectors, accelerometers, and other various kinds of sensors.
-
-**Examples :** [Google Home](https://store.google.com/product/google_home), [Amazon Alexa](https://www.youtube.com/watch?time_continue=1&v=UOEIH2l9z7c), [Internet of Things Technology in Use Today](https://beebom.com/examples-of-internet-of-things-technology/)
+- Data Scientists and Data Analysts use computation libraries with Python like matplotlib, numpy, OpenCV and Tensorflow.
+- Instagram, Mozilla Firefox, LinkedIn, NASA's Website. They all use [Django](https://www.djangoproject.com/), a web framework written in Python.
+- YouTube, Google Search, Quora, Reddit, BitTorrent. They all use Python.
+- The list is really huge. See it [here](https://en.wikipedia.org/wiki/List_of_Python_software).
 
 **Learn More:**
 
-- What is the Internet of Things? And why should you care? - [TEDx](https://www.youtube.com/watch?v=_AlcRoqS65E)
-- Internet of Things as Fast As Possible - [YouTube | Techquickie](https://www.youtube.com/watch?v=BQzBpUdHvi4)
-- Top IoT Devices - [Potscapes](https://www.postscapes.com/internet-of-things-award/winners/)
-- 10 internet of things success stories - [CIO](https://www.cio.com/article/3229671/internet-of-things/10-internet-of-things-success-stories.html)
-- Real World Applications of the Internet of Things (IoT) (Videos) - [Analytics Vidhya](https://www.analyticsvidhya.com/blog/2016/08/10-youtube-videos-explaining-the-real-world-applications-of-internet-of-things-iot/)
+- Advantages and Disadvantages of Python - [Quora](https://www.quora.com/What-are-advantages-and-disadvantages-of-Python)
+- Advantages and Disadvantages of Python - [Medium](https://medium.com/@mindfiresolutions.usa/advantages-and-disadvantages-of-python-programming-language-fd0b394f2121)
 
+This course will be all about making you familiar with programming in Python. You will be implementing the very same programs that you did in the previous semesters like palindrome check, prime year check, etc...
 
-By the end of this course, you will be able to come up with IoT based solutions to real-life problems as you will be acquainted with all the methods and techniques in the field of IoT.
-
-But do keep in mind that knowing all the concepts out there does not by default enable you to design and program IoT enabled devices. To be able to come up with solutions and to program them you need to have a good knowledge of programming and hardware since you'll be working with Embedded devices, microcontrollers, and sensors.
+After this course you will be capable of programming in another language and you can move into the fields of Machine Learning or Data Science with Python, or you can build your own scripts and programs in Python.
 
 <br>
 
-## 3. Wireless and Mobile Computing
+## 3. Web Programming with PHP & HTML
 Another concept based course, a major part of the course will be theoretical.
 
 Wireless networks are networks without wires, they use air to send and receive signals which carry data. Mobile computing refers to the device being able to change locations and get transported while being able to stream data without interruptions like your mobile phone.
