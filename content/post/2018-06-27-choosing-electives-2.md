@@ -1,18 +1,11 @@
 ---
-title: Cloud Computing, IoT, and Wireless Communications
-subtitle: (Part-1) - A Guide to Choosing Electives
-date: 2018-06-26
-bigimg: [{src: "/img/postimg/choosing_electives_1.jpg", desc: "Choosing Electives"}]
+title: Android, Python, and Web Programming with HTML & PHP
+subtitle: (Part-2) - A Guide to Choosing Electives
+date: 2018-06-27
+bigimg: [{src: "/img/postimg/choosing_electives_2.jpg", desc: "Choosing Electives"}]
 tags: ["choosing electives"]
 ---
-It is mandatory for students of computer sciences in their **fifth semester** to choose an elective course as electives are a great learning opportunity for students to learn something that is actually useful in real-life.
-
-Developing apps and websites, learning new technologies are all a part of the learning experience.
-It is advised that you choose your elective course carefully after being aware of what to expect from the course and what you want to do after it.
-
-This is a brief but insightful guide to choosing an elective. If you are still confused or if you do not know where to get started then you are in the right place.
-
-It is assumed that the same elective course options will be offered to you that were offered to the Fall Semester **2017 students (our seniors)** as referred from the date sheet below.
+In [Part-1](/post/2018-06-26-choosing-electives-1/), I talked about courses which require you to understand concepts and learn them so that you can get started with building actual stuff with them. In this post however, I am going to be talking about the courses in which you are going to freely experiment with the tools and you are definitely going to make something, say a simple app or a website during the course. These courses are more development focused and you must choose from them if you want to **create** something.
 
 ![Datesheet](/img/Datesheet.JPG)
 <br>
