@@ -121,13 +121,15 @@ PHP is the most widely used back-end (server-side scripting) language in the wor
 
 What worries me is the growing popularity if JavaScript as an _"everything web"_ language.
 
-**There are primarily three languages for design and development of a web site -**
+There are primarily three languages for front-end design and development of a web site -
 
 - **HTML** - For designing layout of web pages.
 - **CSS** - For adding _styles_ to the elements created by HTML like colour, perspective, resizing, and borders.
-- **JavaScript** - For adding behaviour to those elements, like changing colour when clicked, animations, and actions such as .
+- **JavaScript** - For adding behaviour to those elements, like changing colour when clicked, animations, and actions such as self-reload.
 
-**Where you use it:** Wi-Fi, Bluetooth, Cellular Networks, Wireless Speakers, ScreenCast, Wireless Charging.
+In the back-end languages like Java and PHP ruled. But then JavaScript was used to program the logic for back-end and it turned out great. JavaScript can handle the back-end tasks of communication between the database and the browser. With Ryan Dahl releasing [Node.js](https://nodejs.org/en/) back in 2009, it is the fastest growing JavaScript backend framework today, if you have not heard of it, you live under a rock.
+
+**Where you use it:** On every web
 
 **Who else uses it:**
 
