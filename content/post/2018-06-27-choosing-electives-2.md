@@ -38,7 +38,7 @@ Be aware of the fact that Google has Officially announced [Kotlin](https://kotli
 
 You will learn many concepts and techniques used in making android apps for potentially billions of people out there. You'll be able to understand apps and functionalities as well as you will be able to create apps and come up with solutions to real-life problems that can be solved with it. Besides, you can build a ton of apps for yourself and showcase them as projects or publish them on the play store.
 
-Expect a lot of programming, design as well as concepts throughout the semester and beyond if you decide to develop apps further.
+Expect a lot of programming, design as well as concepts throughout the semester, and beyond if you decide to develop apps further.
 
 <br>
 
@@ -105,12 +105,27 @@ After this course you will be capable of programming in another language and you
 <br>
 
 ## 3. Web Programming with PHP & HTML
-Another concept based course, a major part of the course will be theoretical.
+The thought process that must have went behind in the minds of the course creators was to include **one front-end language (HTML) and one back-end one (PHP)**.
 
-Wireless networks are networks without wires, they use air to send and receive signals which carry data. Mobile computing refers to the device being able to change locations and get transported while being able to stream data without interruptions like your mobile phone.
-This course will be a further extension to the Data Communications from the third semester. All of the tools and techniques used for data communications will be applied to Wireless networks and advanced concepts like Radio propagation and modulation techniques in mobile will most probably be taught.
+**Front-end:** Part of a website visible to the user and it makes up the _front_ layout, view, design, and visible structural elements of a website. Just the User Interface (UI).
 
-This one, in my view, is strictly an **Electronics and Communications** course inclined towards _well_, electronics and communications.
+**Back-end:** Part of a website not-visible to the user and it makes up the _back functionality_ of a website. Ex - When you submit a form, your data gets saved onto a server (another computer), or a login system where you put in your username and password and when you press sign-in button, you are authenticated to use the site's services.
+
+#### Two Aspects
+Suppose you have to create a front-part of a website, basically the design. For that you need to use a language with which you can insert elements and they get displayed on the pages, like HTML (Hyper Text Markup Language) which is the standard language for creating web pages and web applications.
+Using that will create only the User Interface, that is fine if you want to only allow reading of the webpage. Think of it as a pages in a book.
+
+If you want to implement dynamic features, such that the user is able to interact with the system using Webpage as a medium, then you use different kind of languages. Languages which can generate, delete, and modify the contents of the webpage as well as of the web server. Like the login system takes data like username and password and checks in the database for a match, if it matches, the result is a webpage where user is shown signed-in. As you can see, this is more powerful than HTML and allows us to create immersive and feature rich websites having dynamic functionalities like forms, login, and other advance API integrations. Think of it as an eBook, it still has pages but it can do much more than just a book, you can highlight text and modify text too.
+
+PHP is the most widely used back-end (server-side scripting) language in the world. It can interact with back portions of the websites and youo can make changes to databases, run other scripts, or even change front-end.
+
+What worries me is the growing popularity if JavaScript as an _"everything web"_ language.
+
+**There are primarily three languages for design and development of a web site -**
+
+- **HTML** - For designing layout of web pages.
+- **CSS** - For adding _styles_ to the elements created by HTML like colour, perspective, resizing, and borders.
+- **JavaScript** - For adding behaviour to those elements, like changing colour when clicked, animations, and actions such as .
 
 **Where you use it:** Wi-Fi, Bluetooth, Cellular Networks, Wireless Speakers, ScreenCast, Wireless Charging.
 
