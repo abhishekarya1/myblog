@@ -47,7 +47,8 @@ Python is much simpler and leads to faster development, it is easy to learn and 
 
 Python is the way to go if you want to get started. But, _if you already know any other programming language well, then my advice would be to **skip** learning Python_. Sure, learning it will never hurt you, but you may not want to miss on the Web Development and Android Development. That being said, if you've already decided that you want to do, say, machine learning with Python, then you should definitely choose Python. But if you are still not sure of anything, allow me to explain further.
 
-Advantages over other programming languages -
+**Advantages over other programming languages -**
+
 - Easy to learn for beginners as the syntax is simpler
 - Increased readability of code
 - Shorter code lengths as compared to other languages like Java and C++
@@ -56,10 +57,12 @@ Advantages over other programming languages -
 - Best for writing small scripts
 - Django Web Framework, Flask Framework and a lot of libraries available to do different tasks
 
-Disadvantages -
+**Disadvantages -**
+
 - Python is interpreted, it runs code line by line, this makes it extremely slow and unsuitable for performance
 - Far from the hardware, its impossible to write efficient kernel code and other low latency programs in Python
 - Traditional programming barriers. Most of the most widely used programming standards and syntax were omitted by Python, see yourself,
+
 **FOR Loop in Python**
 ```
 for i in range(1,10):
@@ -72,22 +75,13 @@ for(i = 1; i <= 10; i++)
 cout << i;
 }
 ```
-No semicolons and a loose syntax, this will definitely make you care less about the syntax, but when you try and create Data Structures in it, you will find yourself searching on the internet for hours about syntax.
--
+ No semicolons and a loose syntax, this will definitely make you care less about the syntax, but when you try and create Data Structures in it, you will find yourself searching on the internet for hours about syntax.
 
-### What is IoT?
-IoT stands for Internet of Things. The internet is no doubt one of the most important inventions ever. It allows us to connect with other people and **share information**, we share all kinds of information over the internet.
+- Userbase. Though Python is all the hype nowadays, and it has the potential to be an all encompassing multipurpose language, it is not anywhere near. Much of the Web Development is on PHP and JavaScript, app development in native SDKs like Android Studio(Java/Kotlin) and Swift, Low latency software in C/C++ and Games are being made in C#. Right now, Python leads in the Machine Learning and Data Science fields only.
+- **This is not actually the right time to switch to a new programming language if you are not clear with basic programming and Object-oriented concepts, do keep in mind that Data Structures too are very important, practice them with the programming language you currently know (most probably C or Java) and then learning a new programming language is only a matter of hours to get started with it.**
 
-An internet connection to a device allows it to share information too and it has yielded amazing results in the past, an example is your smartphone, it can access the internet and send as well as receive data and therefore it is called a **smart** phone. How about we let devices share information over the network? Like a smart refrigerator which orders food before it is out of stock, or a smart TV that can send you alerts on your phone about your favorite TV show.
-
-The internet was invented for computer systems, we enabled phones to connect to it and be on the network. Look where that led us. Today there are over 10 billion devices connected to the internet, these will be over 24 billion by 2020.
-
-**The Internet of Things is actually a pretty simple concept, it means taking all the things in the world and connecting them to the internet.**
-
-Information can be sent or received, an IoT capable device can do both. For collecting data for a specific purpose we need specific sensors like GPS for location or a camera for images. We also need another system that receives data and acts on it like a computer.
-
-
-**Where you use it:** Assistants like Google Home and Amazon Alexa, Smartphones, Smart TVs, Smart Homes, Smart Watches/Bands, Wi-Fi enabled lights and home security systems.
+**Where you use it:** Instagram, Mozilla Firefox, LinkedIn, NASA's Website. They all use Django, a web framework written in Python.
+YouTube, Google Search, Quora, Reddit, BitTorrent. They all use Python.
 
 **Who else uses it:**
 
