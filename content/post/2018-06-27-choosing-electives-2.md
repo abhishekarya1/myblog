@@ -164,7 +164,8 @@ Web Development is the only technology that has the highest number of internship
 
 Expect a lot of programming and design too. HTML is just a markup language, it is NOT a programming language, on the other hand, PHP requires a good amount of programming knowledge as well as skills.
 
-## Conclusion
+## Choose Wisely
+
 Read the first part [here](/post/2018-06-26-choosing-electives-1/) as it contains insights on other Elective Courses like **Cloud Computing, IoT, and Wireless Communications and Mobile Computing**.
 
 Want to talk? Just drop me a mail and I'll be happy to talk to you.
