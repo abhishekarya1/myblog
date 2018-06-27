@@ -36,7 +36,7 @@ Android leads the global market with 87.9 percent of market share. Sure developi
 - Reasons to Learn Android Development - [Edureka](https://www.edureka.co/blog/reasons-to-learn-android-development/)
 - Android DevStories - [YouTube](https://www.youtube.com/playlist?list=PLlyCyjh2pUe88f-w-EpsYGgApsQTkr8bK)
 
-Be aware of the fact that Google has Officially announced [Kotlin](https://kotlinlang.org/) as its [official language for Android](https://developer.android.com/kotlin/). The Java support will soon be gone from the Android platform and Kotlin will take over completely. I am very sure that the course will use Java but nonetheless, but you can switch from Java to Kotlin, but it will be extra work that you have to put in yourself.
+Be aware of the fact that Google has Officially announced [Kotlin](https://kotlinlang.org/) as its [official language for Android](https://developer.android.com/kotlin/). The Java support will soon be gone from the Android platform and Kotlin will take over completely. I am very sure that the course will use Java. Nonetheless, you can switch from Java to Kotlin, but it will be extra work that you have to put in yourself.
 
 You will learn many concepts and techniques used in making android apps for potentially billions of people out there. You'll be able to understand apps and functionalities as well as you will be able to create apps and come up with solutions to real-life problems that can be solved with it. Besides, you can build a ton of apps for yourself and showcase them as projects or publish them on the play store.
 
@@ -84,7 +84,7 @@ cout << i;
  No semicolons and a loose syntax, this will definitely make you care less about the syntax, but when you try and create Data Structures in it, you will find yourself searching on the internet for hours about syntax.
 
 - Userbase. Though Python is all the hype nowadays, and it has the potential to be an all-encompassing multipurpose language, it is not anywhere near. Much of the Web Development is on PHP and JavaScript, app development in native SDKs like Android Studio(Java/Kotlin) and Swift, Low latency software in C/C++ and Games are being made in C#. Right now, Python leads in the Machine Learning and Data Science fields only.
-- **This is not actually the right time to switch to a new programming language if you are not clear with basic programming and Object-oriented concepts, do keep in mind that Data Structures too are very important, practice them with the programming language you currently know (most probably C or Java) and then learning a new programming language is only a matter of hours to get started with it. Learning more languages is not important does not matter, problem-solving by programming is what you need to develop**
+- **This is not actually the right time to switch to a new programming language if you are not clear with basic programming and Object-oriented concepts, do keep in mind that Data Structures too are very important, practice them with the programming language you currently know (most probably C or Java) and then learning a new programming language is only a matter of hours to get started with it. Learning more languages does not matter, problem-solving by programming is the skill you need to develop.**
 
 **Where you use it:**
 
