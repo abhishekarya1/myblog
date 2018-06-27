@@ -129,21 +129,24 @@ There are primarily three languages for front-end design and development of a we
 
 In the back-end languages like Java and PHP ruled. But then JavaScript was used to program the logic for back-end and it turned out great. JavaScript can handle the back-end tasks of communication between the database and the browser. With Ryan Dahl releasing [Node.js](https://nodejs.org/en/) back in 2009, it is the fastest growing JavaScript backend framework today, if you have not heard of it, you live under a rock.
 
-**Where you use it:** On every web
+And then there are [Progressive Web Apps](https://developers.google.com/web/progressive-web-apps/), websites that look same on small screen (mobile) devices as they look on a desktop computer, much like this website, and they are fluidic and error free, responsive and great to look, feel and use.
+Who doesn't love a website like [this](https://paperplanes.world/), Twitter and Gmail too are examples of PWAs.
+
+Almost all of the back-end developers working with web apps choose Node.js as their back-end framework. It is fast, flexible, and uses JavaScript which is already used in front-end. But, PHP still leads with almost [83.5 percent](https://w3techs.com/technologies/details/pl-php/all/all) of the total websites. Besides all this developers often hate PHP because of the security issues associated with it and PHP is by design not at all a secure framework.
+
+
+**Where you use it:**
 
 **Who else uses it:**
 
-- When entire communication lines collapse in an earthquake, it is Wireless networks that are up and running.
-- Cellular networks are everywhere as you know as they can also provide services in far away remote places.
-- Wireless technology is easy to deploy than laying down communication lines, and hence it is [trasforming lives](https://techcrunch.com/2017/02/19/how-mobile-technology-is-transforming-lives-in-rural-india/).
-- With [5G Coming](https://telecomreseller.com/2018/06/25/5g-on-the-horizon/) this is the most exciting time to learn about networks and communications.
-
 **Learn More:**
 
-- Mobile Computing Solutions from Qualcomm, World's Largest Manufacturer of Wireless Equipment - [Qualcomm](https://www.qualcomm.com/solutions/mobile-computing)
-- [Different Types of Wireless Communication Technologies](https://www.efxkits.us/different-types-of-wireless-communication-technologies/)
+- Node.js vs. PHP - [netguru](https://www.netguru.co/blog/nodejs-vs-php)
+- Node.Js Vs PHP : Battle of Supremacy & survival - [codeburst.io](https://codeburst.io/node-js-vs-php-battle-of-supremacy-survival-2a16df11ff29)
+- PHP vs. Node.js: An epic battle for developer mind share - [InfoWorld](https://www.infoworld.com/article/3166109/application-development/php-vs-nodejs-an-epic-battle-for-developer-mind-share.html)
+- Web apps are only getting better - [The Verge](https://www.theverge.com/circuitbreaker/2018/4/11/17207964/web-apps-quality-pwa-webassembly-houdini)
 
 That being said, I have studied many things from this field like Mobile Computing, 1G, 2G, 3G, 4G, 5G, Wireless Internet, Data Transmission, Channels, and Networks, and I assure you that once you get started with it, it is quite interesting to learn.
 
-## To be Continued...
-In **Part-2**, I'll be covering the remaining courses as they are more inclined towards development and follow a _hands-on learning_ approach and good programming, as well as creative skills, are required to learn them.
+## Conclusion
+Don't forget to check out others
