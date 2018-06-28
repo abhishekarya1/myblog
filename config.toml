@@ -92,8 +92,8 @@ googleAnalytics = "UA-120021913-1"
 
 [[menu.main]]
     parent = "featured"
-    name = "Hacking with Kali Linux"
-    url = "/tags/kali-linux/"
+    name = "Hacking and Kali Linux"
+    url = "/tags/hacking/"
     weight = 2
 
 [[menu.main]]

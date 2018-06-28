@@ -3,7 +3,7 @@ title: Image Classification using Convolutional Neural Networks - Transfer Learn
 subtitle: Deep Learning with Tensorflow
 date: 2018-06-08
 bigimg: [{src: "/img/postimg/deeplearning.png", desc: "Machine Learning"}]
-tags: ["machine learning", "tensorflow","deep learning"]
+tags: ["machine learning", "deep learning"]
 ---
 
 ### Introduction

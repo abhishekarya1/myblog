@@ -3,7 +3,7 @@ title: Data Protection
 subtitle: Are we really secure? (Part-1) - A look at what worries me the most
 date: 2018-05-26
 bigimg: [{src: "/img/postimg/dataservers.jpg", desc: "Security"}]
-tags: ["hacking", "security", "are we really secure"]
+tags: ["security", "are we really secure"]
 ---
 
 Modern day technologies for sure provide much more efficient, convenient and sometimes creative solutions to our problems. Want to talk for free with a relative thousand miles away? Open an app and that's it, talk as much as you want, this was not at all possible before. Solutions like these are all around us and we use them on a daily basis. Stuck in a new city? Open the map app and get going, it will track you in real time too. Cool huh?
