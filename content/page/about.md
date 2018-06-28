@@ -3,7 +3,16 @@ title: About me
 subtitle: Why I created this blog and what I love doing
 comments: false
 ---
-<img src="/img/sign.png" height="147" width="500">
+
+<style>
+img {
+  max-width:300px;
+  max-height:200px;
+  width: auto;
+  height: auto;
+}
+</style>
+<img class="img" src="/img/sign.png" height="147" width="500">
 
 My name is **Abhishek Arya**. I try my hands on everything that a computer can do :
 
