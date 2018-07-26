@@ -99,7 +99,8 @@ I particularly like small incremental features or fixes with good code and tests
 Many times wrong language shown in Git repository. 
 [](https://hackernoon.com/how-to-change-repo-language-in-github-c3e07819c5bb)
 
-### 10. ****
+### 10. **Keep Contributing and Exploring**
+github.com/explore and becoming member of a github organization.
 
 
 ## What GitHub cannot tell you about someone?
@@ -112,12 +113,12 @@ Some programmers use GitHub as a way to backup their code, some want to collabor
 
 
 
-## Myths
+## Some Myths
 
 Keep in mind that Github may not be as important in hiring as it totally depends upon the kind of recruiter you are looking at. They might look at it or they may not.
 
 ## Looking further
-StackOverflow profile and a blog on your Resume
+StackOverflow profile and a Blog on your Resume
 
 ## Ending Notes
 
