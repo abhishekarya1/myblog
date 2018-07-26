@@ -61,12 +61,14 @@ Nobody tells you this because it is obvious. If you write bad code, it will not 
 
 You can follow Google style guide for [Java](https://google.github.io/styleguide/javaguide.html), [C++](https://google.github.io/styleguide/cppguide.html) and [Python](https://github.com/google/styleguide/blob/gh-pages/pyguide.md), which are very popular amongst professional developers.
 
+Follow proper directory structure to ease the process of locating required files. See Folder Structure Conventions [here](https://github.com/kriasoft/Folder-Structure-Conventions).
+
 ### 3. **Be Professional in Communicating**
 Weather you are writing comments in your code or explaining the changes you made while making a Pull Request, you need to be clear and precise in what you want to convey to other developers and coders.
 - **Write clear Descriptions** - Everybody reads the description. No one will read your code to understand what you are working on.
 - **Always include a well formatted README file** - It’s highly recommended to have a README for every repository, it has detailed instructions in it on how to use the contents of your repository, resources, links and sometimes a list of contributors.
 - **Use Issues to track bugs**
-You can use Github Issues to keep track of all the bugs. It makes a catalogue of all known features, and organizes them in a very intuitive manner, which makes it easier for reference to other coders inn the later stahges of develo[pmetnt Ex - Open or unresolved/resolved issues.
+You can use **Github Issues** to keep track of all the bugs. It makes a catalogue of all known features, and organizes them in a very intuitive manner, which makes it easier for reference to others in the later stages of development. Ex - Open and resolved/unresolved issues are displayed separately in a chronological fashion.
 
 
 ###
