@@ -5,8 +5,14 @@ date: 2018-07-26
 bigimg: [{src: "/img/postimg/github-resume.jpg", desc: "GitHub"}]
 tags: ["git"]
 ---
-Many of you might have heard about Git and GitHub. Git is a _version control system_, it tracks changes to files and directories. GitHub is used extensively for hosting any kind of project and let other people contribute to them, it can be in codes, design, review or writing documentation. 
-One of the most successful projects raised by t  
+Many of you might have heard about Git and GitHub. Git is a _version control system_ created by Linus Torvalds (_the very same guy who created linux, btw, linux is named after him_) in 2005, it tracks changes to files and directories. GitHub is used extensively for hosting any kind of project and let other people contribute to them, it can be in codes, design, review or writing documentation. 
+One of the most successful projects on github include Bootstrap, JQuery, and Node.js. Besides this, organizations like Mozilla , Adobe and Twitter on github are always in search for contributors to their public repositories.
+You just have to create a Github profile and you too can start contributing to other's repositories, it can be your friend's personal project, or find some software that you love or it can be your own project that you want other's to contribute to. 
+
+Some of my favorites include [VLC Media Player](https://github.com/videolan), [Google's Chromium Project](https://github.com/chromium), [Android](https://github.com/topics/android) and [Ubuntu](https://github.com/topics/ubuntu). You can also try to search the entire github by the search functionality, and filter by programming language and the kind of project you like. 
+
+
+This post is all about how to use github as an effective tool for developing, collaborating, and eventually increasing your chances of getting hired.
 
 ## 1. App Development for Android
 Android is a mobile operating system developed by Google primarily for touchscreen mobile devices such as smartphones and tablets.
