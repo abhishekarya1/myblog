@@ -41,6 +41,7 @@ Github also provides further details like number of repositories, frequency of c
 - Git Hello World - [Github Guides](https://guides.github.com/activities/hello-world/)
 - Resources to learn Git - [try.github.io](https://try.github.io/)
 - A Beginner’s Git and GitHub Tutorial - [Udacity](https://blog.udacity.com/2015/06/a-beginners-git-github-tutorial.html)
+- Basic Git Concepts - [Dy Classroom](https://www.dyclassroom.com/git/git-basic-concepts)
 - Getting Git Right - [Atlassian](https://www.atlassian.com/git) 
 
 ## Getting it Right
@@ -71,15 +72,17 @@ Weather you are writing comments in your code or explaining the changes you made
 
 - **Write clear Descriptions** - Everybody reads the description. No one will read your code to understand what you are working on.
 
-- **Always include a well formatted README file** - It’s highly recommended to have a README for every repository, it has detailed instructions in it on how to use the contents of your repository, resources, links and sometimes a list of contributors.
+- **Always include a well formatted README file** - It’s highly recommended to have a README for every repository, it has detailed instructions in it on how to use the contents of your repository, resources, links and sometimes a list of contributors. Include screenshots in it. Nobody has the time to install the application just to see it.
 
 - **Use Issues to track bugs** - You can use **Github Issues** to keep track of all the bugs. It makes a catalogue of all known features, and organizes them in a very intuitive manner, which makes it easier for reference to others in the later stages of development. To give you an idea, Open and resolved/unresolved issues are displayed separately in a chronological fashion.
 
-### 5. **Avoid too much Forks** 
+### 5. **Avoid too much Forks**
 Forking a repository and letting it sit unmodified is a big no no. You can star the repository if you are just browsing its content. Even if you fork, make sure that the repository does not stay unmodified for a long period, if it does, just delete it.
 
-
-###
+### 6.**Pinned Repositories**
+Pinned repositories which appear at the top of your profile are by default your most frequently accessed repositories. It should be a showcase for your most impressive ones.
+As a recruiter, I don't care to see your bash_profile instead pin the repositories that you want to highlight to the recruiter. They should be relevant and show work that has been done, etc..
+Pin the top 3 repositories that you want the recruiter to review.
 
 
 
@@ -91,9 +94,9 @@ Some programmers use GitHub as a way to backup their code, some want to collabor
 
 ## Myths
 
-A person not active on Github doesnt mean that he is a bad developer. They don't like t
+A person not active on Github doesn't mean that he is a bad developer. They don't like t
 
-
+GitHub may not be as important in hiring as some would lead you to believe.
 
 ## Ending Notes
 
