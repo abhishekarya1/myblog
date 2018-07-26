@@ -95,8 +95,9 @@ I particularly like small incremental features or fixes with good code and tests
 
 
 
-### 9. ****
-
+### 9. **Correct Repository Language**
+Many times wrong language shown in Git repository. 
+[](https://hackernoon.com/how-to-change-repo-language-in-github-c3e07819c5bb)
 
 ### 10. ****
 
@@ -113,8 +114,10 @@ Some programmers use GitHub as a way to backup their code, some want to collabor
 
 ## Myths
 
-GitHub may not be as important in hiring as some would lead you to believe.
+Keep in mind that Github may not be as important in hiring as it totally depends upon the kind of recruiter you are looking at. They might look at it or they may not.
 
+## Looking further
+StackOverflow profile and a blog on your Resume
 
 ## Ending Notes
 
@@ -123,6 +126,8 @@ The real value of github is that it confirms people are passionate about what th
 Yet, in spite of its shortcomings, you can use your GitHub profile as a leverage to score a great new job. It only takes a bit of effort to make it more self-explanatory and recruiters-friendly.
 
 Your open-source contributions will play in your favor.
+
+If you can’t decide between GitHub and a standard resume, why not use both?
 
 
 Want to talk? Just drop me a mail and I'll be happy to talk to you.
