@@ -46,7 +46,10 @@ Github also provides further details like number of repositories, frequency of c
 ## Getting it Right
 GitHub was never designed as a place where programmers primarily exhibit their code to impress potential employers. It’s always been mainly a software development platform, the purpose of which is to make software development more efficient. If you're mentioning it on your resume, be sure you get it right.
 
-### 1. **Maintain your repositories**  
+
+### 1. **How often you code** 
+Your GitHub profile shouts out your coding consistency! New programmers have less commits and activities, in short, overall git **contributions**. But, it might not always be true _(read below)_. 
+### 2. **Maintain your repositories**  
 Whenever you are working on something interesting, you can just put it to Github. It can be an algorithm you are just practicing writing, a piece of code or even a logo design you are working on. It serves as a backup for your work and you can access it from anywhere using the internet. Also, you can collaborate with others.
 
 If you don’t know what to put on your Github, here are some suggestions:
@@ -56,19 +59,24 @@ If you don’t know what to put on your Github, here are some suggestions:
 - **Open Source Projects** - Contribute to open source projects, **fork** them and they will show up as your repository, you can also **star** them for later review, or **watch** them for any changes.
 
 
-### 2. **Keep your code clean** 
+### 3. **Keep your code clean** 
 Nobody tells you this because it is obvious. If you write bad code, it will not only waste other's time in understanding your code but it means that you are inexperienced and not capable of developing software in a team. If your code is dirty, chances are you yourself will be looking at it, having no idea what it does, after sometime of writing it. Comment appropriately.
 
 You can follow Google style guide for [Java](https://google.github.io/styleguide/javaguide.html), [C++](https://google.github.io/styleguide/cppguide.html) and [Python](https://github.com/google/styleguide/blob/gh-pages/pyguide.md), which are very popular amongst professional developers.
 
 Follow proper directory structure to ease the process of locating required files. See Folder Structure Conventions [here](https://github.com/kriasoft/Folder-Structure-Conventions).
 
-### 3. **Be Professional in Communicating**
+### 4. **Be Professional in Communicating**
 Weather you are writing comments in your code or explaining the changes you made while making a Pull Request, you need to be clear and precise in what you want to convey to other developers and coders.
+
 - **Write clear Descriptions** - Everybody reads the description. No one will read your code to understand what you are working on.
+
 - **Always include a well formatted README file** - It’s highly recommended to have a README for every repository, it has detailed instructions in it on how to use the contents of your repository, resources, links and sometimes a list of contributors.
-- **Use Issues to track bugs**
-You can use **Github Issues** to keep track of all the bugs. It makes a catalogue of all known features, and organizes them in a very intuitive manner, which makes it easier for reference to others in the later stages of development. Ex - Open and resolved/unresolved issues are displayed separately in a chronological fashion.
+
+- **Use Issues to track bugs** - You can use **Github Issues** to keep track of all the bugs. It makes a catalogue of all known features, and organizes them in a very intuitive manner, which makes it easier for reference to others in the later stages of development. To give you an idea, Open and resolved/unresolved issues are displayed separately in a chronological fashion.
+
+### 5. **Avoid too much Forks** 
+Forking a repository and letting it sit unmodified is a big no no. You can star the repository if you are just browsing its content. Even if you fork, make sure that the repository does not stay unmodified for a long period, if it does, just delete it.
 
 
 ###
