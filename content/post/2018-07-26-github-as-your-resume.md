@@ -1,7 +1,7 @@
 ---
 title: GitHub on your Resume
 subtitle: Make your GitHub profile a part of your resume
-date: 2018-07-26
+date: 2018-07-27
 bigimg: [{src: "/img/postimg/github-resume.jpeg", desc: "GitHub"}]
 tags: ["git"]
 ---
