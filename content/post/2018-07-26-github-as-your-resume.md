@@ -43,6 +43,7 @@ Github also provides further details like number of repositories, frequency of c
 - A Beginner’s Git and GitHub Tutorial - [Udacity](https://blog.udacity.com/2015/06/a-beginners-git-github-tutorial.html)
 - Basic Git Concepts - [Dy Classroom](https://www.dyclassroom.com/git/git-basic-concepts)
 - Getting Git Right - [Atlassian](https://www.atlassian.com/git) 
+- Learn the workings of Git, not just the commands - [IBM](https://www.ibm.com/developerworks/library/d-learn-workings-git/index.html)
 
 ## Getting it Right
 GitHub was never designed as a place where programmers primarily exhibit their code to impress potential employers. It’s always been mainly a software development platform, the purpose of which is to make software development more efficient. If you're mentioning it on your resume, be sure you get it right.
@@ -80,14 +81,31 @@ Weather you are writing comments in your code or explaining the changes you made
 Forking a repository and letting it sit unmodified is a big no no. You can star the repository if you are just browsing its content. Even if you fork, make sure that the repository does not stay unmodified for a long period, if it does, just delete it.
 
 ### 6.**Pinned Repositories**
-Pinned repositories which appear at the top of your profile are by default your most frequently accessed repositories. It should be a showcase for your most impressive ones.
-As a recruiter, I don't care to see your bash_profile instead pin the repositories that you want to highlight to the recruiter. They should be relevant and show work that has been done, etc..
-Pin the top 3 repositories that you want the recruiter to review.
+Pinned repositories which appear at the top of your profile are by default your most frequently accessed repositories. It should be a showcase for your most impressive ones. Use the **Pinned Repositories** feature to
+
+![Pinned Repositories](/img/pinned-repos.JPG)
 
 
+### 7. **Test Cases**
+Welcome to 2018, if your project doesn't have unit tests you should hide it. It's a bad practice and it reflects poorly on you. It is a sign that everything works perfectly and nothing is hardcoded into the code.
+
+
+### 8. **Meaningful Commits**
+I particularly like small incremental features or fixes with good code and tests, accepted into someone else’s open-source repositories
+
+
+
+### 9. ****
+
+
+### 10. ****
 
 
 ## What GitHub cannot tell you about someone?
+
+Don't go around judjing people from their Github profile. It is possible for someone to have 10+ years of experience and still their github looks empty. The clients they work with can choose to have the code behind close doors. 
+
+Not everybody likes and has the time to contribute to open source community.
 
 Some programmers use GitHub as a way to backup their code, some want to collaborate, others just want a hosted page for their projects and documents, etc. Some projects may be well-documented and useful software, others could be experiments, or code you could hardly call software. In the end, all that you see is not always useful in a Github profile. And most importantly, what if you decide to keep your projects private. Unlike open source projects and contributiuons, these won't be visible to your recruiter.
 
@@ -98,8 +116,15 @@ A person not active on Github doesn't mean that he is a bad developer. They don'
 
 GitHub may not be as important in hiring as some would lead you to believe.
 
+u're like most people you're not running a successful open source project and most of your day to day production of code is the property of your employer s
+
+
 ## Ending Notes
 
+The real value of github is that it confirms people are passionate about what they do as an occupation (because they contribute or commit to other projects while in the office or not). Sure, being good at coding is one thing, but behind passionate and good is another.
+
 Yet, in spite of its shortcomings, you can use your GitHub profile as a leverage to score a great new job. It only takes a bit of effort to make it more self-explanatory and recruiters-friendly.
+
+Your open-source contributions will play in your favor.
 
 Want to talk? Just drop me a mail and I'll be happy to talk to you.
