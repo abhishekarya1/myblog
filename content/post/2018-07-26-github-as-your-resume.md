@@ -20,14 +20,30 @@ Some of my favorites include [VLC Media Player](https://github.com/videolan), [G
 #### What this post is about?
 This post is all about how to use Github as an effective tool for developing, collaborating, and eventually increasing your chances of getting hired. A good Github profile can easily impress the interviewer. It reflects your coding style, tydiness of your work, workflow ethics, communication with other developers and your intrests, all at once.
 
-By looking at one's Github repositories, you can almost immediately tell if he's an expert or beginner of a specific field. Resumes are becoming less and less valuable because people tend to exaggerate their past contributions/skills and it’s extremely hard to verify. Some people may even fake their resumes.
+By looking at one's Github repositories, you can almost immediately tell if he's an expert or beginner of a specific field. Resumes are becoming less and less valuable because people tend to exaggerate their past contributions/skills and it’s extremely hard to verify. Some people may even fake their resumes. In short, GitHub lets them see what you’ve built and how you built it, giving potential employees even clearer idea of your technical skills.
 
-Github also provides further details like number of repositories, frequency of contributions activities, starred repositories, and number of followers/followings can also reflect how passionate the owner is about programming. Most famous programmers are quite active on Github.
+Github also provides further details like number of repositories, frequency of contributions activities, starred repositories, and number of followers/followings can also reflect how passionate the owner is about programming. Most famous programmers are quite active on Github. In the end, job candidates who take the time to develop their GitHub profile and participate actively in the community can be better evaluated than others.
+
+![Git Contributions](/img/github-contri.JPG)
+
+![Git Details](/img/git-detail.JPG)
+
+
+## What GitHub cannot tell you about a candidate?
+
+GitHub was never designed as a place where programmers primarily exhibit their code to impress potential employers. It’s always been mainly a software development platform, the purpose of which is to make software development more efficient.
+
+Some programmers use GitHub as a way to backup their code, some want to collaborate, others just want a hosted page for their projects and documents, etc. Some projects may be well-documented and useful software, others could be experiments, or code you could hardly call software. In the end, all that you see is not always useful in a Github profile. And most importantly, what if you decide to keep your projects private. Unlike open source projects and contributiuons, these won't be visible to your recruiter.
+
+
+## Myths
+
+A person not active on Github doesnt mean that he is a bad developer. They don't like t
 
 
 
 
-
+Yet, in spite of its shortcomings, you can use your GitHub profile as a leverage to score a great new job. It only takes a bit of effort to make it more self-explanatory and recruiters-friendly.
 
 
 
