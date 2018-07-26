@@ -2,29 +2,36 @@
 title: GitHub on your Resume
 subtitle: Make your GitHub profile a part of your resume
 date: 2018-07-26
-bigimg: [{src: "/img/postimg/github-resume.jpg", desc: "GitHub"}]
+bigimg: [{src: "/img/postimg/github-resume.jpeg", desc: "GitHub"}]
 tags: ["git"]
 ---
-Many of you might have heard about Git and GitHub. Git is a _version control system_ created by Linus Torvalds (_the very same guy who created linux, btw, linux is named after him_) in 2005, it tracks changes to files and directories. GitHub is used extensively for hosting any kind of project and let other people contribute to them, it can be in codes, design, review or writing documentation. 
-One of the most successful projects on github include Bootstrap, JQuery, and Node.js. Besides this, organizations like Mozilla , Adobe and Twitter on github are always in search for contributors to their public repositories.
-You just have to create a Github profile and you too can start contributing to other's repositories, it can be your friend's personal project, or find some software that you love or it can be your own project that you want other's to contribute to. 
-
-Some of my favorites include [VLC Media Player](https://github.com/videolan), [Google's Chromium Project](https://github.com/chromium), [Android](https://github.com/topics/android) and [Ubuntu](https://github.com/topics/ubuntu). You can also try to search the entire github by the search functionality, and filter by programming language and the kind of project you like. 
+## Git and GitHub
 
 
-This post is all about how to use github as an effective tool for developing, collaborating, and eventually increasing your chances of getting hired.
+Many of you might have heard about Git and GitHub. Git is a _version control system_ created by Linus Torvalds (_the very same guy who created linux, btw, linux is named after him_) in 2005, it tracks changes to files and directories. GitHub is used extensively for hosting any kind of project and let other people contribute to them, it can be coding, design, review or writing documentation for any project. 
 
-## 1. App Development for Android
-Android is a mobile operating system developed by Google primarily for touchscreen mobile devices such as smartphones and tablets.
+![GitHub Logo](/img/github-logo.png)
 
-![Android App Development](/img/android_jetpack.png)
+One of the most successful projects on github include Bootstrap, JQuery, and Node.js. Besides this, organizations like Mozilla, Adobe and Twitter on Github are always in need for contributors to their public repositories. One can also contribute to some open-source organizations and communities like [FOSS Asia](https://github.com/fossasia) and become a member. You just have to create a Github profile and you too can start contributing to other's repositories, it can be your friend's personal project, or find some software that you love, host your own project that you want other's to contribute to. You can also showcase your projects as well as see what other's are up to.
 
-#### It is just another OS, what makes it so special?
-Well, Android is so great because of the open source community, Android Open Source Project (AOSP), not even Google alone could have driven Android to the state it is in now. An active community of people contributing to make an operating system for mobile devices is what makes Android great, which lacks in other operating systems like iOS and Windows. The community of developers, programmers and enthusiasts bring to the table, a plethora of updates, bug fixes and improvements faster than the official manufacturer. Also, this is why Android courses are taught in colleges. You can learn to build apps and then start contributing to the community too, making it more secure and feature rich.
 
-There is also a **huge** app store ([3.3 million apps](https://www.statista.com/statistics/266210/number-of-available-applications-in-the-google-play-store/)) for Android and most of the apps are free. People can develop more and more apps and publish them to the store because of this _open_ nature of Android. Also Android has a large user base because much of the devices that run Android are cheaper than others. Some people mock it, but the back-end code and the underlying organization in Android are far much efficient than others and that is why Android is the most popular mobile OS with a whopping userbase of over [2 billion monthly active users](https://twitter.com/Google/status/864890655906070529). If you sit down and think about it, that is actually a phenomenal amount of users for a single piece of software.
+Some of my favorites include [VLC Media Player](https://github.com/videolan), [Google's Chromium Project](https://github.com/chromium), [Android](https://github.com/topics/android) and the most popular linux distribution, [Ubuntu](https://github.com/topics/ubuntu). You can also try to search the entire github by the search functionality, and filter by programming language and the kind of project you like. 
+<br><br>
+#### What this post is about?
+This post is all about how to use Github as an effective tool for developing, collaborating, and eventually increasing your chances of getting hired. A good Github profile can easily impress the interviewer. It reflects your coding style, tydiness of your work, workflow ethics, communication with other developers and your intrests, all at once.
 
-Android leads the global market with 87.9 percent of market share. Sure developing apps and features for it is not a bad idea at all. You can start developing apps and get your hands dirty with the backend and the Linux kernel, then you can right away contribute to the development of Android. Or, you can develop Android apps for organizations and individuals and remain an Android developer, it surely pays off well.
+By looking at one's Github repositories, you can almost immediately tell if he's an expert or beginner of a specific field. Resumes are becoming less and less valuable because people tend to exaggerate their past contributions/skills and it’s extremely hard to verify. Some people may even fake their resumes.
+
+Github also provides further details like number of repositories, frequency of contributions activities, starred repositories, and number of followers/followings can also reflect how passionate the owner is about programming. Most famous programmers are quite active on Github.
+
+
+
+
+
+
+
+
+
 
 **Scope:** Apps for businesses, apps for NGOs, freelance app developer, build your own apps, start contributing to the Android community, software for ChromeOS and other Android-powered devices.
 
