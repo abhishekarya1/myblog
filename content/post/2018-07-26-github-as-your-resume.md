@@ -103,20 +103,17 @@ I particularly like small incremental features or fixes with good code and tests
 
 ## What GitHub cannot tell you about someone?
 
-Don't go around judjing people from their Github profile. It is possible for someone to have 10+ years of experience and still their github looks empty. The clients they work with can choose to have the code behind close doors. 
+Don't go around judging people from their Github profile. It is possible for someone to have 10+ years of experience and still their github looks empty. The clients they work with can choose to have the code behind close doors. 
 
-Not everybody likes and has the time to contribute to open source community.
+Not everybody likes and has the time to contribute to open source community. A person not active on Github doesn't mean that he is a bad developer. Maybe they don't like to show their work to others.
 
 Some programmers use GitHub as a way to backup their code, some want to collaborate, others just want a hosted page for their projects and documents, etc. Some projects may be well-documented and useful software, others could be experiments, or code you could hardly call software. In the end, all that you see is not always useful in a Github profile. And most importantly, what if you decide to keep your projects private. Unlike open source projects and contributiuons, these won't be visible to your recruiter.
 
 
+
 ## Myths
 
-A person not active on Github doesn't mean that he is a bad developer. They don't like t
-
 GitHub may not be as important in hiring as some would lead you to believe.
-
-u're like most people you're not running a successful open source project and most of your day to day production of code is the property of your employer s
 
 
 ## Ending Notes
@@ -126,5 +123,6 @@ The real value of github is that it confirms people are passionate about what th
 Yet, in spite of its shortcomings, you can use your GitHub profile as a leverage to score a great new job. It only takes a bit of effort to make it more self-explanatory and recruiters-friendly.
 
 Your open-source contributions will play in your favor.
+
 
 Want to talk? Just drop me a mail and I'll be happy to talk to you.
