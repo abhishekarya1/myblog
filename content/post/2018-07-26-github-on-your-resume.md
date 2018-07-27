@@ -23,10 +23,6 @@ By looking at one's GitHub repositories, you can almost immediately tell if he's
 
 GitHub also provides further details like number of repositories, frequency of contributions activities, starred repositories, and number of followers/followings can also reflect how passionate the owner is about programming. Most famous programmers are quite active on GitHub. In the end, job candidates who take the time to develop their GitHub profile and participate actively in the community can be better evaluated than others.
 
-![Git Contributions](/img/github-contri.JPG)
-
-![Git Details](/img/git-detail.JPG)
-
 ## Get Started
 0. Install Git-SCM (Recommended) or GitHub Desktop Client (Not Recommended).
 
@@ -49,7 +45,14 @@ GitHub was never designed as a place where programmers primarily exhibit their c
 
 
 ### 1. **How often do you code** 
-Your GitHub profile shouts out your coding consistency! New programmers have less commits and activities, in short, overall git **contributions**. But, it might not always be true _(read below)_.
+Your GitHub profile shows your coding consistency right at the profile page! (_see above images_) 
+New programmers have less commits and activities, in short, overall git **contributions**. A more experienced user has more contributions. The more darker the green square is, the more they contributed that day. And it is _relative_, this menas that initially even one contribution is shown as dark green square, but as you contribute more and more, even 20+ contributions might be shown as a light green square depending upon the frequency of your contributions.
+
+
+![Git Contributions](/img/github-contri.JPG)
+
+![Git Details](/img/git-detail.JPG)
+
 
 ### 2. **Maintain your repositories**  
 Whenever you are working on something interesting, you can just put it to GitHub. It can be an algorithm you are just practicing writing, a piece of code or even a logo design you are working on. It serves as a backup for your work and you can access it from anywhere using the internet. Also, you can collaborate with others.
@@ -77,9 +80,12 @@ Weather you are writing comments in your code or explaining the changes you made
 
 - **Use Issues to track bugs** - You can use **GitHub Issues** to keep track of all the bugs. It makes a catalogue of all known features, and organizes them in a very intuitive manner, which makes it easier for reference to others in the later stages of development. To give you an idea, Open and resolved/unresolved issues are displayed separately in a chronological fashion.
 
-### 5. **Avoid too much forks**
-Forking a repository and letting it sit unmodified is a big no no. You can star the repository if you are just browsing its content. Even if you fork, make sure that the repository does not stay unmodified for a long period, if it does, just delete it.
+![GitHub Comm1](/img/github-comm1.JPG)
 
+### 5. **Avoid too much forks**
+Forking a repository and letting it sit unmodified is a big no no. You can star the repository if you are just browsing its content. Even if you fork, make sure that the repository does not stay unmodified for a long period, if it does, just delete it. Every forked repository has a _"forked from"_ original source indicator link just below the repository name.
+
+![GitHub Comm1](/img/github-fork.JPG)
 
 ### 6. **Have some finished projects**
 They don't have to be something extravagant. Just build one from what you know, even a small app or a webpage is enough. It shows that you can ship code on time and you can explain your code in a nicely written README file.
