@@ -74,17 +74,15 @@ Follow proper directory structure to ease the process of locating required files
 ### 4. **Be Professional in communication**
 Weather you are writing comments in your code or explaining the changes you made while making a Pull Request, you need to be clear and precise in what you want to convey to other developers and coders.
 
-- **Write clear descriptions** - Everybody reads the description. No one will read your code to understand what you are working on.
-
-Something like this -
+- **Write clear descriptions** - Everybody reads the description. No one will read your code to understand what you are working on. Something like this -
 
 ![GitHub Description](/img/github-desc.JPG)
 
-- **Always include a well formatted README file** - It’s highly recommended to have a README for every repository, it has detailed instructions in it on how to use the contents of your repository, resources, links and sometimes a list of contributors. Include screenshots in it. Nobody has the time to install the application just to see it.
+- **Always include a well formatted README file** - It’s highly recommended to have a README for every repository, it has detailed instructions in it on how to use the contents of your repository, resources, links and sometimes a list of contributors. Include screenshots in it. Nobody has the time to install the application just to see it. As an example, you can see [this](https://github.com/abhishekarya1/cluster-image-classifier-tensorflow/blob/master/README.md). 
 
-- **Use Issues to track bugs** - You can use **GitHub Issues** to keep track of all the bugs. It makes a catalogue of all known features, and organizes them in a very intuitive manner, which makes it easier for reference to others in the later stages of development. To give you an idea, Open and resolved/unresolved issues are displayed separately in a chronological fashion.
+- **Use Issues to track bugs** - You can use **GitHub Issues** to keep track of all the bugs. It makes a catalogue of all known features, and organizes them in a very intuitive manner, which makes it easier for reference to others in the later stages of development. To give you an idea, Open and resolved/unresolved issues are displayed separately in a chronological fashion. Below is a screenshot of the issue page for [Vue.js](https://github.com/vuejs) - 
 
-![GitHub Comm1](/img/github-comm1.JPG)
+![GitHub Comm1](/img/github-issues.JPG)
 
 ### 5. **Avoid too much forks**
 Forking a repository and letting it sit unmodified is a big no no. You can star the repository if you are just browsing its content. Even if you fork, make sure that the repository does not stay unmodified for a long period, if it does, just delete it. Every forked repository has a _"forked from"_ original source indicator link just below the repository name.
