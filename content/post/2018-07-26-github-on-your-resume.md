@@ -3,10 +3,9 @@ title: GitHub on your Resume
 subtitle: Make your GitHub profile a part of your resume
 date: 2018-07-27
 bigimg: [{src: "/img/postimg/github-resume.jpeg", desc: "GitHub"}]
-tags: ["git"]
+tags: ["git and github"]
 ---
 ## Git and GitHub
-
 
 Many of you might have heard about Git and GitHub. Git is a _version control system_ created by Linus Torvalds (_the very same guy who created linux, btw, linux is named after him_) in 2005, it tracks changes to files and directories. GitHub is used extensively for hosting any kind of project and let other people contribute to them, it can be coding, design, review or writing documentation for any project. 
 
@@ -68,16 +67,16 @@ You can follow Google style guide for [Java](https://google.github.io/styleguide
 
 Follow proper directory structure to ease the process of locating required files. See Folder Structure Conventions [here](https://github.com/kriasoft/Folder-Structure-Conventions).
 
-### 4. **Be Professional in Communicating**
+### 4. **Be Professional in communication**
 Weather you are writing comments in your code or explaining the changes you made while making a Pull Request, you need to be clear and precise in what you want to convey to other developers and coders.
 
-- **Write clear Descriptions** - Everybody reads the description. No one will read your code to understand what you are working on.
+- **Write clear descriptions** - Everybody reads the description. No one will read your code to understand what you are working on.
 
 - **Always include a well formatted README file** - It’s highly recommended to have a README for every repository, it has detailed instructions in it on how to use the contents of your repository, resources, links and sometimes a list of contributors. Include screenshots in it. Nobody has the time to install the application just to see it.
 
 - **Use Issues to track bugs** - You can use **Github Issues** to keep track of all the bugs. It makes a catalogue of all known features, and organizes them in a very intuitive manner, which makes it easier for reference to others in the later stages of development. To give you an idea, Open and resolved/unresolved issues are displayed separately in a chronological fashion.
 
-### 5. **Avoid too much Forks**
+### 5. **Avoid too much forks**
 Forking a repository and letting it sit unmodified is a big no no. You can star the repository if you are just browsing its content. Even if you fork, make sure that the repository does not stay unmodified for a long period, if it does, just delete it.
 
 ### 6.**Pinned Repositories**
@@ -87,12 +86,13 @@ Pinned repositories which appear at the top of your profile are by default your 
 
 
 ### 7. **Test Cases**
-Welcome to 2018, if your project doesn't have unit tests you should hide it. It's a bad practice and it reflects poorly on you. It is a sign that everything works perfectly and nothing is hardcoded into the code.
+In 2018, if your project doesn't have unit tests you should hide it. It's a bad practice and it reflects poorly on you. It is a sign that everything works perfectly and nothing is hardcoded into the code. 
+
+How to Write Test Cases: Sample Template with Examples - [Guru99](https://www.guru99.com/test-case.html).
 
 
 ### 8. **Meaningful Commits**
-I particularly like small incremental features or fixes with good code and tests, accepted into someone else’s open-source repositories
-
+Your commits should be meaningful. After all, they are there for keeping track of all _meaningful_ changes you made to your project. Commit after small incremental features or fixes with clear description about what was changed.
 
 
 ### 9. **Correct Repository Language**
