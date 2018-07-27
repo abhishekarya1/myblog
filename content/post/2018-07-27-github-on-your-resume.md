@@ -49,7 +49,7 @@ Your GitHub profile shows your coding consistency right at the profile page! (_s
 New programmers have less commits and activities, in short, overall git **contributions**. A more experienced user has more contributions. The more darker the green square is, the more they contributed that day. And it is _relative_, this menas that initially even one contribution is shown as dark green square, but as you contribute more and more, even 20+ contributions might be shown as a light green square depending upon the frequency of your contributions.
 
 
-![Git Contributions](/img/github-contri.JPG)
+![Git Contributions](/img/github-contri2.JPG)
 
 ![Git Details](/img/git-detail.JPG)
 
@@ -112,7 +112,13 @@ Your commits should be meaningful. After all, they are there for keeping track o
 ### 10. **Keep Contributing and Exploring**
 Explore popular repositories on [Explore · GitHub](https://www.github.com/explore) and keep looking, you can always find projects that might pique your curiosity. 
 
+![GitHub Trending Repositories](/img/github-trending.JPG)
+![GitHub Popular Topics](/img/github-pop.JPG)
+![GitHub Events](/img/github-events.JPG)
+
 Keep contributing to an organization and you might be granted a membership for it, where you can manage projects and merge requests for them.
+
+![GitHub Organization Member](/img/github-org.JPG)
 
 ## What GitHub does not tell you?
 
