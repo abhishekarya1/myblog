@@ -76,6 +76,10 @@ Weather you are writing comments in your code or explaining the changes you made
 
 - **Write clear descriptions** - Everybody reads the description. No one will read your code to understand what you are working on.
 
+Something like this -
+
+![GitHub Description](/img/github-desc.JPG)
+
 - **Always include a well formatted README file** - It’s highly recommended to have a README for every repository, it has detailed instructions in it on how to use the contents of your repository, resources, links and sometimes a list of contributors. Include screenshots in it. Nobody has the time to install the application just to see it.
 
 - **Use Issues to track bugs** - You can use **GitHub Issues** to keep track of all the bugs. It makes a catalogue of all known features, and organizes them in a very intuitive manner, which makes it easier for reference to others in the later stages of development. To give you an idea, Open and resolved/unresolved issues are displayed separately in a chronological fashion.
