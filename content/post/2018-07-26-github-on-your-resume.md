@@ -96,12 +96,12 @@ Your commits should be meaningful. After all, they are there for keeping track o
 
 
 ### 9. **Correct Repository Language**
-Many times wrong language shown in Git repository. 
-[](https://hackernoon.com/how-to-change-repo-language-in-github-c3e07819c5bb)
+
 
 ### 10. **Keep Contributing and Exploring**
-github.com/explore and becoming member of a github organization.
+Explore popular repositories on www.github.com/explore and keep looking, you can always find projects that might piqued your curiosity. 
 
+Keep contributing to an organization and you might be granted a membership for it, where you can manage projects for them.
 
 ## What GitHub cannot tell you about someone?
 
