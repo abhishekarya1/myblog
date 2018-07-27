@@ -3,7 +3,7 @@ title: GitHub on your Resume
 subtitle: Make your GitHub profile a part of your resume
 date: 2018-07-27
 bigimg: [{src: "/img/postimg/github-resume.jpeg", desc: "GitHub"}]
-tags: ["git and github"]
+tags: ["git-and-github"]
 ---
 ## Git and GitHub
 
@@ -48,8 +48,9 @@ GitHub also provides further details like number of repositories, frequency of c
 GitHub was never designed as a place where programmers primarily exhibit their code to impress potential employers. It’s always been mainly a software development platform, the purpose of which is to make software development more efficient. If you're mentioning it on your resume, be sure you get it right.
 
 
-### 1. **How often you code** 
-Your GitHub profile shouts out your coding consistency! New programmers have less commits and activities, in short, overall git **contributions**. But, it might not always be true _(read below)_. 
+### 1. **How often do you code** 
+Your GitHub profile shouts out your coding consistency! New programmers have less commits and activities, in short, overall git **contributions**. But, it might not always be true _(read below)_.
+
 ### 2. **Maintain your repositories**  
 Whenever you are working on something interesting, you can just put it to GitHub. It can be an algorithm you are just practicing writing, a piece of code or even a logo design you are working on. It serves as a backup for your work and you can access it from anywhere using the internet. Also, you can collaborate with others.
 
@@ -79,27 +80,29 @@ Weather you are writing comments in your code or explaining the changes you made
 ### 5. **Avoid too much forks**
 Forking a repository and letting it sit unmodified is a big no no. You can star the repository if you are just browsing its content. Even if you fork, make sure that the repository does not stay unmodified for a long period, if it does, just delete it.
 
-### 6.**Pinned Repositories**
+
+### 6. **Have some finished projects**
+They don't have to be something extravagant. Just build one from what you know, even a small app or a webpage is enough. It shows that you can ship code on time and you can explain your code in a nicely written README file.
+
+
+### 7.**Pinned Repositories**
 Pinned repositories which appear at the top of your profile are by default your most frequently accessed repositories. It should be a showcase for your most impressive ones. Use the **Pinned Repositories** feature to
 
 ![Pinned Repositories](/img/pinned-repos.JPG)
 
 
-### 7. **Test Cases**
+### 8. **Test Cases**
 In 2018, if your project doesn't have unit tests you should hide it. It's a bad practice and it reflects poorly on you. It is a sign that everything works perfectly and nothing is hardcoded into the code. 
 
 How to Write Test Cases: Sample Template with Examples - [Guru99](https://www.guru99.com/test-case.html).
 
 
-### 8. **Meaningful Commits**
+### 9. **Meaningful Commits**
 Your commits should be meaningful. After all, they are there for keeping track of all _meaningful_ changes you made to your project. Commit after small incremental features or fixes with clear description about what was changed.
 
 
-### 9. **Correct Repository Language**
-
-
 ### 10. **Keep Contributing and Exploring**
-Explore popular repositories on [Explore · GitHub](https://www.github.com/explore) and keep looking, you can always find projects that might piqued your curiosity. 
+Explore popular repositories on [Explore · GitHub](https://www.github.com/explore) and keep looking, you can always find projects that might pique your curiosity. 
 
 Keep contributing to an organization and you might be granted a membership for it, where you can manage projects and merge requests for them.
 
@@ -119,4 +122,4 @@ The real value of GitHub is that it confirms people are passionate about what th
 
 Yet, in spite of its shortcomings, you can use your GitHub profile as a leverage to score a great new job. With only a bit of effort, you can make it more self-explanatory and recruiter-friendly. And if you're a student like me, then your open-source contributions will definitely play in your favour.
 
-Want to talk? Just drop me a mail and I'll be happy to talk to you.
+Want to talk? Just drop me a mail @[AbhishekArya](mailto:abhishekarya102@gmail.com) and I'll be happy to talk to you.
