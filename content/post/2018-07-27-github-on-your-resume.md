@@ -30,7 +30,7 @@ GitHub also provides further details like the number of repositories, frequency 
 
 2. Once you have a repository in your GitHub profile, you can experiment with it, **clone** it to your local machine, make changes to it and **commit** those changes, and then **push** the changes you made. Then create a **Pull Request** to the original author and request a **merge**. Like this, you can easily get started with using Git and GitHub
 
-3. All your repositories, contributions, and activities will be shown on the profile homepage. Example - [www.github.com/your_username_here].
+3. All your repositories, contributions, and activities will be shown on the profile homepage on [www.github.com/your_username].
 
 #### Resources for Learning Git -
 - Git Hello World - [GitHub Guides](https://guides.github.com/activities/hello-world/)
@@ -132,7 +132,7 @@ Some programmers use GitHub as a way to back up their code, some want to collabo
 
 Keep in mind that GitHub may not be as important in hiring as it totally depends upon the kind of recruiter you are looking at. They may look at it or they may just ignore it.
 
-The real value of GitHub is that it confirms people are passionate about what they do as an occupation (because they contribute or commit to other projects while in the office or not). Sure, being good at coding is one thing, but behind passionate and good is another.
+The real value of GitHub is that it confirms people are passionate about what they do as an occupation (because they contribute or commit to other projects while in the office or not). Sure, being good at coding is one thing, but being passionate and good is another.
 
 Yet, in spite of its shortcomings, you can use your GitHub profile as a leverage to score a great new job. With only a bit of effort, you can make it more self-explanatory and recruiter-friendly. And if you're a student like me, then your open-source contributions will definitely play in your favor.
 
