@@ -84,8 +84,15 @@ Our 21 line program is now 16,014 lines after preprocessing and all of that is j
 You can see the complete preprocessed file, **div.ii** - [here](/res/div.ii).
 
 ## Compilation
-The preprocessed code is compiled into the assembly language for the target platform. It is in the form of assembly language for the target platform. The file extension is **.s**.
+The preprocessed code is compiled into the assembly language for the current machine. It is in the form of assembly language that is machine dependent. The file extension is **.s**.
 
+In g++:
+`g++ -S div.cc`
+
+In gcc:
+`gcc -S div.c -o div.s`
+
+![Assembly Code](/img/assembly.JPG)
 
 ## References
  - Using the GNU Compiler Collection (GCC) - [gcc.gnu.org](https://gcc.gnu.org/onlinedocs/gcc/Overall-Options.html)
