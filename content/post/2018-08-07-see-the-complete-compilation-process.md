@@ -1,5 +1,5 @@
 ---
-title: How to see the code for every stage of the compilation process?
+title: See the Code at Every Stage of the Compilation Process
 subtitle:
 date: 2018-08-07
 bigimg: [{src: "/img/postimg/", desc: "Coding"}]
@@ -127,13 +127,26 @@ In gcc:
 These create an executable with the default name as **a.exe** or **a.out** on linux. To name it something else:
 `g++ -o div div.cc`
 
-We can now run our program from the output executable.
+This will create a **div.exe** file in the current directory.
+We can now run our program by running the output executable.
 
 ![exe](/img/exe.JPG)
 
+<br>
 ## Exploring Further
 
+Produce all the intermediate files using **-save-temps**.
 
+The **-save-temps** option can generate all files of the four stages of the compilation process. Through this option, output at all the stages of compilation is stored in the current directory.
+For example :
+
+```
+$ g++ -save-temps div.cc
+
+$ ls
+a.out  div.c  div.ii  div.o  div.s
+```
+See that all the intermediate files as well as the final executable was also produced in the output.
 
 ## References
  - Using the GNU Compiler Collection (GCC) - [gcc.gnu.org](https://gcc.gnu.org/onlinedocs/gcc/Overall-Options.html)
