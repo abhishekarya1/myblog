@@ -111,6 +111,13 @@ NOTE: Notice the use of lowercase (.c) instead of uppercase (.C) which is used f
 
 To download the object file, **div.o** - [click here](/res/div.o).
 
+## Linking
+In this stage, all the linking of function calls with their definitions are done. Linker identifies where all these functions are implemented with the help of the assembly code. Linker fills in the addresses with the actual definitions. The linker also does a few additional tasks such as combining our program with some standard routines that are needed to make our program executable.
+
+It generates an executable file with a **.exe** extension.
+
+The final executable size is way more than the input file.
+
 
 ## References
  - Using the GNU Compiler Collection (GCC) - [gcc.gnu.org](https://gcc.gnu.org/onlinedocs/gcc/Overall-Options.html)
