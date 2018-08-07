@@ -1,6 +1,6 @@
 ---
-title: See the Code at Every Stage of the Compilation Process
-subtitle:
+title: A Complete Breakdown of the Compilation Process
+subtitle: An illustrated tutorial on how to see the code at each stage
 date: 2018-08-07
 bigimg: [{src: "/img/postimg/compilation.JPG", desc: "Coding"}]
 tags: ["programming"]
