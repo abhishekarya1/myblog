@@ -1,25 +1,69 @@
 ---
-title: GitHub on your Resume
-subtitle: Make your GitHub profile a part of your resume
-date: 2018-07-27
-bigimg: [{src: "/img/postimg/github-resume.jpeg", desc: "GitHub"}]
-tags: ["git-and-github"]
+title: How to see the code for every stage of the compilation process?
+subtitle:
+date: 2018-08-07
+bigimg: [{src: "/img/postimg/", desc: "Coding"}]
+tags: ["programming"]
 ---
-## Git and GitHub
+## The Compilation Process in C/C++
 
-Many of you might have heard about Git and GitHub. Git is a _version control system_ created by Linus Torvalds (_the very same guy who created Linux, btw, Linux is named after him_) in 2005, it tracks changes to files and directories. GitHub is used extensively for hosting any kind of project and let other people contribute to them, it can be coding, design, review or writing documentation for any project. 
+Knowing how your code compiles can be very helpful when writing and debugging it.
 
-![GitHub Logo](/img/github-logo.png)
+Compiling a C/C++ program is a multi-stage process.
 
-One of the most successful projects on GitHub include Bootstrap, JQuery, and Node.js. Besides this, organizations like Mozilla, Adobe, and Twitter on GitHub are always in need of contributors to their public repositories. One can also contribute to some open-source organizations and communities like [FOSS Asia](https://github.com/fossasia) or [Facebook](https://github.com/facebook) and become a member. You just have to create a GitHub profile and you too can start contributing to other's repositories, it can be your friend's personal project, or find some software that you love, host your own project that you want other's to contribute to. You can also showcase your projects as well as see what other's are up to.
+The complete compilation process in C/C++ can be split into four separate stages:  
 
+  1. Preprocessing
+  2. Compilation
+  3. Assembly
+  4. Linking
 
-Some of my favorites include [VLC Media Player](https://github.com/videolan), [Google's Chromium Project](https://github.com/chromium), [Android](https://github.com/topics/android) and the most popular Linux distribution, [Ubuntu](https://github.com/topics/ubuntu). You can also try to search the entire GitHub by the search functionality, and filter by programming language and the kind of project you like. 
-<br><br>
-#### What this post is about?
-This post is all about how to use GitHub as an effective tool for developing, collaborating, and eventually increasing your chances of getting hired. A good GitHub profile can easily impress the interviewer. It reflects your coding style, tidiness of your work, workflow ethics, communication with other developers and your interests, all at once.
+![Entire Compilation Process](/img/compilation.png)
 
-By looking at one's GitHub repositories, you can almost immediately tell if he's an expert or beginner of a specific field. Resumes are becoming less and less valuable because people tend to exaggerate their past contributions/skills and it’s extremely hard to verify. Some people may even fake their resumes. In short, GitHub lets them see what you’ve built and how you built it, giving potential employers a clearer idea of your technical skills.
+By using appropriate compiler options, we can stop this process at any stage. These options are passed as command line parameters.
+
+In the following examples, I will be using the **C++ programming language** to write the code and **g++ compiler** to compile it. However, these commands can be easily implemented with a program written in the **C programming language** and compiled in **gcc compiler**.
+
+As an example, the code below is apt for understanding this.
+
+```
+/*
+Name : div.cc
+
+Program to check divisibility by 2 */
+
+#include<iostream>
+
+using namespace std;
+
+int main()
+{
+	int x;
+
+	cin >> x;
+
+	if (x % 2 == 0)
+	{
+		cout << "Divisible" << endl;
+	}
+
+	else
+	{
+		cout << "Not Divisible" << endl;
+	}
+}
+```
+It is a simple program that asks the user for an input and expects an integer (int) type constant. It prints _Divisible_ on the screen if the number is divisible by 2 and _Not Divisible_ otherwise.
+
+## Preprocessing
+The C++ preprocessor copies the contents of the included header files into the source code file (#include), expands macros, and replaces constants defined using #define with their values. It also removes comments from the main code.
+
+A new source file is created that contains code from our program as well as the header files and this is what is used as input to the further stages for the compilation to be declared complete.
+
+We can stop at this stage and see the output by using **“-E”** flag in gcc or g++.
+
+In g++:
+`g++ -E div.cc`
 
 GitHub also provides further details like the number of repositories, frequency of contributions activities, starred repositories, and the number of followers/followings can also reflect how passionate the owner is about programming. Most famous programmers are quite active on GitHub. In the end, job candidates who take the time to develop their GitHub profile and participate actively in the community can be better evaluated than others.
 
@@ -37,15 +81,15 @@ GitHub also provides further details like the number of repositories, frequency 
 - Resources to learn Git - [try.github.io](https://try.github.io/)
 - A Beginner’s Git and GitHub Tutorial - [Udacity](https://blog.udacity.com/2015/06/a-beginners-git-github-tutorial.html)
 - Basic Git Concepts - [Dy Classroom](https://www.dyclassroom.com/git/git-basic-concepts)
-- Getting Git Right - [Atlassian](https://www.atlassian.com/git) 
+- Getting Git Right - [Atlassian](https://www.atlassian.com/git)
 - Learn the workings of Git, not just the commands - [IBM](https://www.ibm.com/developerworks/library/d-learn-workings-git/index.html)
 
 ## Getting it Right
 GitHub was never designed as a place where programmers primarily exhibit their code to impress potential employers. It’s always been mainly a software development platform, the purpose of which is to make software development more efficient. If you're mentioning it on your resume, be sure you get it right.
 
 
-### 1. **How often do you code** 
-Your GitHub profile shows your coding consistency right at the profile page! (_see above images_) 
+### 1. **How often do you code**
+Your GitHub profile shows your coding consistency right at the profile page! (_see above images_)
 New programmers have less commits and activities, in short, overall git **contributions**. A more experienced user has more contributions. The darker the green square is, the more they contributed that day. And it is _relative_, this means that initially even one contribution is shown as dark green square, but as you contribute more and more, even 20+ contributions might be shown as a light green square depending upon the frequency of your contributions.
 
 
@@ -64,7 +108,7 @@ If you don’t know what to put on your GitHub, here are some suggestions:
 - **Open Source Projects** - Contribute to open source projects, **fork** them and they will show up as your repository, you can also **star** them for later review, or **watch** them for any changes.
 
 
-### 3. **Keep your code clean** 
+### 3. **Keep your code clean**
 Nobody tells you this because it is obvious. If you write bad code, it will not only waste other's time in understanding your code but it means that you are inexperienced and not capable of developing software in a team. If your code is dirty, chances are you yourself will be looking at it, having no idea what it does, after some time of writing it. Comment appropriately.
 
 You can follow Google style guide for [Java](https://google.github.io/styleguide/javaguide.html), [C++](https://google.github.io/styleguide/cppguide.html) and [Python](https://github.com/google/styleguide/blob/gh-pages/pyguide.md), which are very popular amongst professional developers.
@@ -78,9 +122,9 @@ Whether you are writing comments in your code or explaining the changes you made
 
 ![GitHub Description](/img/github-desc.JPG)
 
-- **Always include a well-formatted README file** - It’s highly recommended to have a README for every repository, it has detailed instructions in it on how to use the contents of your repository, resources, links and sometimes a list of contributors. Include screenshots in it. Nobody has the time to install the application just to see it. As an example, you can see [this](https://github.com/abhishekarya1/cluster-image-classifier-tensorflow/blob/master/README.md). 
+- **Always include a well-formatted README file** - It’s highly recommended to have a README for every repository, it has detailed instructions in it on how to use the contents of your repository, resources, links and sometimes a list of contributors. Include screenshots in it. Nobody has the time to install the application just to see it. As an example, you can see [this](https://github.com/abhishekarya1/cluster-image-classifier-tensorflow/blob/master/README.md).
 
-- **Use Issues to track bugs** - You can use **GitHub Issues** to keep track of all the bugs. It makes a catalog of all known features and organizes them in a very intuitive manner, which makes it easier for reference to others in the later stages of development. To give you an idea, Open and resolved/unresolved issues are displayed separately in a chronological fashion. Below is a screenshot of the issue page for [Vue.js](https://github.com/vuejs) - 
+- **Use Issues to track bugs** - You can use **GitHub Issues** to keep track of all the bugs. It makes a catalog of all known features and organizes them in a very intuitive manner, which makes it easier for reference to others in the later stages of development. To give you an idea, Open and resolved/unresolved issues are displayed separately in a chronological fashion. Below is a screenshot of the issue page for [Vue.js](https://github.com/vuejs) -
 
 ![GitHub Comm1](/img/github-issues.JPG)
 
@@ -100,7 +144,7 @@ Pinned repositories which appear at the top of your profile are by default your 
 
 
 ### 8. **Test Cases**
-In 2018, if your project doesn't have unit tests you should hide it. It's a bad practice and it reflects poorly on you. It is a sign that everything works perfectly and nothing is hardcoded into the code. 
+In 2018, if your project doesn't have unit tests you should hide it. It's a bad practice and it reflects poorly on you. It is a sign that everything works perfectly and nothing is hardcoded into the code.
 
 How to Write Test Cases: Sample Template with Examples - [Guru99](https://www.guru99.com/test-case.html).
 
@@ -110,7 +154,7 @@ Your commits should be meaningful. After all, they are there for keeping track o
 
 
 ### 10. **Keep Contributing and Exploring**
-Explore popular repositories on [Explore · GitHub](https://www.github.com/explore) and keep looking, you can always find projects that might pique your curiosity. 
+Explore popular repositories on [Explore · GitHub](https://www.github.com/explore) and keep looking, you can always find projects that might pique your curiosity.
 
 ![GitHub Trending Repositories](/img/github-trending.JPG)
 ![GitHub Popular Topics](/img/github-pop.JPG)
@@ -122,7 +166,7 @@ Keep contributing to an organization and you might be granted a membership for i
 
 ## What GitHub does not tell you?
 
-Don't go around judging people from their GitHub profile. It is possible for someone to have 10+ years of experience and still their GitHub looks empty. The clients they work with can choose to have the code behind closed doors. 
+Don't go around judging people from their GitHub profile. It is possible for someone to have 10+ years of experience and still their GitHub looks empty. The clients they work with can choose to have the code behind closed doors.
 
 Not everybody likes and has the time to contribute to the open source community. A person not active on GitHub doesn't mean that he is a bad developer. Maybe they don't like to show their work to others.
 
