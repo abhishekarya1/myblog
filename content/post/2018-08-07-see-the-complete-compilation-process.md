@@ -2,7 +2,7 @@
 title: See the Code at Every Stage of the Compilation Process
 subtitle:
 date: 2018-08-07
-bigimg: [{src: "/img/postimg/", desc: "Coding"}]
+bigimg: [{src: "/img/postimg/compilation.JPG", desc: "Coding"}]
 tags: ["programming"]
 ---
 ## The Compilation Process in C/C++
@@ -38,19 +38,19 @@ using namespace std;
 
 int main()
 {
-	int x;
+    int x;
 
-	cin >> x;
+    cin >> x;
 
-	if (x % 2 == 0)
-	{
-		cout << "Divisible" << endl;
-	}
+    if (x % 2 == 0)
+    {
+        cout << "Divisible" << endl;
+    }
 
-	else
-	{
-		cout << "Not Divisible" << endl;
-	}
+    else
+    {
+        cout << "Not Divisible" << endl;
+    }
 }
 ```
 It is a simple program that asks the user for an input and expects an integer (int) type constant. It prints _Divisible_ on the screen if the number is divisible by 2 and _Not Divisible_ otherwise.
@@ -146,7 +146,7 @@ $ g++ -save-temps div.cc
 $ ls
 a.out  div.c  div.ii  div.o  div.s
 ```
-See that all the intermediate files as well as the final executable was also produced in the output.
+See that all the intermediate files, as well as the final executable, was also produced in the output.
 
 ## References
  - Using the GNU Compiler Collection (GCC) - [gcc.gnu.org](https://gcc.gnu.org/onlinedocs/gcc/Overall-Options.html)
