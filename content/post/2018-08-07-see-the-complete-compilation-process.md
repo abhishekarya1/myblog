@@ -109,6 +109,9 @@ NOTE: Notice the use of lowercase (.c) instead of uppercase (.C) which is used f
 
 ![Machine Binary Code](/img/machinecode.JPG)
 
+To download the object file, **div.o** - [click here](/res/div.o).
+
+
 ## References
  - Using the GNU Compiler Collection (GCC) - [gcc.gnu.org](https://gcc.gnu.org/onlinedocs/gcc/Overall-Options.html)
  - The C++ compilation process - [cs.niu.edu](http://faculty.cs.niu.edu/~mcmahon/CS241/Notes/compile.html)
