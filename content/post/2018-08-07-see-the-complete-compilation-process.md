@@ -127,6 +127,9 @@ In gcc:
 These create an executable with the default name as **a.exe** or **a.out** on linux. To name it something else:
 `g++ -o div div.cc`
 
+We can now run our program from the output executable.
+
+![exe](/img/exe.JPG)
 
 ## References
  - Using the GNU Compiler Collection (GCC) - [gcc.gnu.org](https://gcc.gnu.org/onlinedocs/gcc/Overall-Options.html)
