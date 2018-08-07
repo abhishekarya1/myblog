@@ -75,13 +75,16 @@ Output to a file using **“>”** or **“-o”** flag.
 
 The above commands will store the code in **.FILE** extension.
 
-GNU recommends saving the preprocessed files with a **.i** or **.ii** extentions.
+GNU recommends saving the preprocessed files with a **.i** or **.ii** extensions. It signifies that the code inside the file is not to be preprocessed and is to be sent directly for compilation.
 
-<img src="/img/preprocess.JPG" height="500" width="200" img>
+![Preprocessed Code](/img/preprocess.JPG)
 
 Our 21 line program is now 16,014 lines after preprocessing and all of that is just the header file inclusion (iostream.h) till line 15,996!
 
-You can see the **complete preprocessed .ii file** [here](/res/div.ii).
+You can see the complete preprocessed file, **div.ii** - [here](/res/div.ii).
+
+## Compilation
+The preprocessed code is compiled into the assembly language for the target platform. It is in the form of assembly language for the target platform. The file extension is **.s**.
 
 
 ## References
