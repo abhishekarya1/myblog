@@ -77,11 +77,11 @@ The above commands will store the code in **.FILE** extension.
 
 GNU recommends saving the preprocessed files with a **.i** or **.ii** extentions.
 
-![Preprocessed Code](/img/preprocess.JPG)
+<img src="/img/preprocess.JPG" height="500" width="200" img>
 
 Our 21 line program is now 16,014 lines after preprocessing and all of that is just the header file inclusion (iostream.h) till line 15,996!
 
-You can see the complete preprocessed .ii file [here](/res/div.ii).
+You can see the **complete preprocessed .ii file** [here](/res/div.ii).
 
 
 ## References
