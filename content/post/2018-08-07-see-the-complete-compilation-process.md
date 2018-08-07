@@ -118,6 +118,15 @@ It generates an executable file with a **.exe** extension.
 
 The final executable size is way more than the input file.
 
+In g++:
+`g++ div.cc`
+
+In gcc:
+`gcc div.c`
+
+These create an executable with the default name as **a.exe** or **a.out** on linux. To name it something else:
+`g++ -o div div.cc`
+
 
 ## References
  - Using the GNU Compiler Collection (GCC) - [gcc.gnu.org](https://gcc.gnu.org/onlinedocs/gcc/Overall-Options.html)
