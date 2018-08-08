@@ -144,18 +144,26 @@ Shown above is our program executable run from the terminal by just typing its n
 #### Produce all the intermediate files using **“-save-temps”** option.
 
 The **-save-temps** option can generate all files from the four stages of the compilation process. Through this option, output at all the stages of compilation is stored in the current directory.
+
+In g++:
+`g++ -save-temps div.cc`
+
+In gcc:
+`gcc -save-temps div.c`
+
+
 For example :
 
 ```
 $ g++ -save-temps div.cc
 
 $ ls
-a.out  div.c  div.ii  div.o  div.s
+a.out  div.cc  div.ii  div.o  div.s
 ```
 See that all the intermediate files, as well as the final executable, was also produced in the output.
 
 #### Verbose Mode
-You can see the detailed compilation process by using the verbose option with any stage.
+You can see the detailed compilation process by using the verbose **“-v”** option.
 
 In g++:
 `g++ -v div.cc`
@@ -169,6 +177,8 @@ To see for any intermediate stage:
 The details will be shown within the terminal itself as shown in the image below.
 
 ![Verbose Mode](/img/verbose.JPG)
+
+You can open the image above or save it, and zoom in to see the details.
 
 ## References
  - Using the GNU Compiler Collection (GCC) - [gcc.gnu.org](https://gcc.gnu.org/onlinedocs/gcc/Overall-Options.html)
