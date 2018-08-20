@@ -5,180 +5,43 @@ date: 2018-08-20
 bigimg: [{src: "/img/postimg/MLforsec.JPG", desc: "machine learning"}]
 tags: ["Machine Learning"]
 ---
-## The Compilation Process in C/C++
 
-Knowing how your code compiles can be very helpful when writing and debugging it.
+## The following is a summary of the conference paper - Essinger, Steve & L. Rosen, Gail. (2011). An introduction to machine learning for students in secondary education. 243 - 248. 10.1109/DSP-SPE.2011.5739219. 
 
-Compiling a C/C++ program is a multi-stage process.
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5739219&isnumber=5739176
 
-The complete compilation process in C/C++ can be split into four separate stages:  
+To read online or to download, see here: https://www.researchgate.net/publication/224226439_An_introduction_to_machine_learning_for_students_in_secondary_education 
 
-  1. Preprocessing
-  2. Compilation
-  3. Assembly
-  4. Linking
 
-![Entire Compilation Process](/img/compilation.png)
+The paper elucidates a proposed machine learning (ML) lab for high school students, helping them to come up with machine learning based solutions that they can implement in their daily life. These are applicable in almost any aspect of life, in any type of scenario. The primary motivation behind the lab is that just simple math and engineering concepts are required to work with most ML algorithms today. 
+It describes machine learning as automating the process of coming up with a solution to a problem and talks about pattern recognition and identifying patterns in data to decide output based on that pattern.
+Neural networks are mentioned as one of the most extensively used ML models around. Inspired by the neurons from the brain, they are very imprecise, yet they have shown “tremendous success in several ML applications”. A few examples of trending ML applications such as – Speech Recognition aka Natural Language Processing, Image Processing, DNA Sequence Classification, Financial Analysis, Sports Predictions, and Search Engine Algorithms are cited.
+How simple maths can be used to exploit the benefits of ML and how this enables a high school student to work with ML is delineated using Euclidean distance and the mean as exemplars. The paper justifies how ML is multi-disciplinary and can expand further according to the research area that it is being applied to.
 
-By using appropriate compiler options, we can stop this process at any stage. These options are passed as command line parameters.
+Steps in a typical ML solution are elaborated – Problem Formulation, Feature Extraction, Model Selection, Model Implementation, and Evaluation.
 
-In the following examples, I will be using the **C++ programming language** to write the code and **g++ compiler** to compile it. However, these commands can be easily implemented with a program written in the **C programming language** and compiled in **gcc compiler**.
+The following terms are introduced:
+1.    Unsupervised Solution – solution dealing with unknown input data
+2.    Class – Type or Category
+3.    Feature – information used to distinguish between classes
+4.    Feature Extraction – the process in which the user provides features
 
-As an example, the code below is apt for understanding this.
+The paper also emphasizes that the problem formulation, feature selection and choosing an algorithm is crucial for the overall correctness and accuracy of the final result. If poor features are chosen, then the performance will be low, this is known as garbage-in, garbage-out theorem.
+Furthermore, various problems belonging to different disciplines and bailiwick are discussed throughout the paper. The K-means algorithm based on the concept of Euclidean Distance is chosen to solve the problem (lab modules) in the rest of the paper. We are open to choose any evaluation metric, but the rand index is chosen for evaluation which checks the similarity of the output set (X) with the truth set (Y).
+The K-means algorithm is briefly explained as an algorithm that groups the input data into a number of groups specified by the user. We initially provide the algorithm with some features as we must provide one free parameter in all ML techniques, this is called no free lunch theorem. 
 
-```
-/*
-Name : div.cc
+Some class exercises are also discussed in brief: 
+1.    Coin Sorting [three features – diameter, luster, weight, and bacterial composition]
+2.    Recycling Containers [K-means, rand index, two features – opacity and weight, k = 3]
+3.    Bacterial Classification [K-means, rand index, three features – shape, size, and mobility, k = 2]
+Some class discussion topics are mentioned such as experimenting by changing the features or the number of features, visualization of data, developing techniques to automatically extract the features, and trying the model with different datasets but with the same parameters.
+Finally, it expands upon the implementation of the lab. The author found out that the briefing of the students on the lab and background and a short discussion afterward will lead to a better response from students. To be able to successfully implement the lab as discussed in the paper, the students must have an active participation and discussions should be of prime focus.
 
-A C++ Program to check divisibility by 2 */
+The lab has a great scope for enhancement because of the scalable nature of ML. From using neural networks and advanced ML techniques as well as algorithms inspired from biological beings. Activities can be developed for students from any discipline including but not limited to creative arts. 
 
-#include<iostream>
+I believe that the proposed lab will not only act as an introduction to ML, but also to engineering, problem analysis, and decision making for students in secondary education and more and more problems can be solved using ML enabling us to be more efficient and accurate in solving problems from virtually any domain.
 
-using namespace std;
 
-int main()
-{
-    int x;
-
-    cin >> x;
-
-    if (x % 2 == 0)
-    {
-        cout << "Divisible";
-    }
-
-    else
-    {
-        cout << "Not Divisible";
-    }
-}
-```
-It is a simple program that asks the user for an input and expects an integer (int) type constant. It prints _Divisible_ on the screen if the number is divisible by 2 and _Not Divisible_ otherwise.
-
-## Preprocessing
-The C++ preprocessor copies the contents of the included header files (in our case - _iostream.h_) into the source code file by using preprocessor directive (#include), expands macros, and replaces constants defined using #define with their values. It also removes comments from the main code.
-
-A new source file is created that contains code from our program as well as the header files and this is what is used as input to the further stages for the compilation to be declared complete.
-
-We can stop at this stage and see the output by using **“-E”** option in gcc or g++.
-
-In g++:
-`g++ -E div.cc`
-
-In gcc:
-`gcc -E div.c`
-
-Output to a file using **“>”** or **“-o”** options.
-
-  - `g++ -E div.cc > div`
-  - `g++ -E div.cc -o div`
-
-The above commands will store the code in **.FILE** extension.
-
-The GNU standard for the preprocessed files is **.i** or **.ii** extensions. It signifies that the code inside the file is not to be preprocessed and is to be sent directly for compilation.
-
-![Preprocessed Code](/img/preprocess.JPG)
-
-Our 21 line program is now 16,014 lines after preprocessing and all of that is just the header file inclusion (iostream.h) till line 15,996!
-
-You can see the complete preprocessed file, **div.ii** - [here](/res/div.ii).
-
-## Compilation
-The preprocessed code is compiled into the assembly language for the current machine. It is in the form of assembly language that is machine dependent. The file extension is **.s**.
-
-We can stop at this stage and see the output by using “-S” option in gcc or g++.
-
-In g++:
-`g++ -S div.cc`
-
-In gcc:
-`gcc -S div.c -o div.s`
-
-![Assembly Code](/img/assembly.JPG)
-
-You can see the complete compiled file, **div.s** - [here](/res/div.s).
-
-## Assembly
-During this stage, the assembler code generated by the compiler is assembled into the object code for the platform by the assembler. It contains equivalent binary code for our program. It generates an object file with a **.o** extension.
-
-We can stop at this stage and see the output by using “-c” option in gcc or g++.
-
-In g++:
-`g++ -c div.cc`
-
-In gcc:
-`gcc -c div.c -o div.o`
-
-NOTE: Notice the use of lowercase (.c) instead of uppercase (.C) which is used for linking.
-
-![Machine Binary Code](/img/machinecode.JPG)
-
-To download the object file, **div.o** - [click here](/res/div.o).
-
-## Linking
-In this stage, all the linking of function calls with their definitions are done. Linker identifies where all these functions are implemented with the help of the assembly code. Linker fills in the addresses with the actual definitions. The linker also does a few additional tasks such as combining our program with some standard routines that are needed to make our program executable.
-
-It generates an executable file with a **.exe** extension.
-
-The final executable size is way more than the input file.
-
-If no option is specified, then all stages of the compilation process are performed and an executable file is created and placed in the current directory.
-
-In g++:
-`g++ div.cc`
-
-In gcc:
-`gcc div.c`
-
-These create an executable with the default name as **a.exe** or **a.out** on linux. To name it something else:
-`g++ -o div div.cc`
-
-This will create a **div.exe** file in the current directory. We can now run our program from the output executable.
-
-![exe](/img/exe.JPG)
-
-Shown above is our program executable run from the terminal by just typing its name.
-
-## Exploring Further
-
-#### Produce all the intermediate files using **“-save-temps”** option.
-
-The **-save-temps** option can generate all files from the four stages of the compilation process. Through this option, output at all the stages of compilation is stored in the current directory.
-
-In g++:
-`g++ -save-temps div.cc`
-
-In gcc:
-`gcc -save-temps div.c`
-
-
-For example :
-
-```
-$ g++ -save-temps div.cc
-
-$ ls
-a.out  div.cc  div.ii  div.o  div.s
-```
-See that all the intermediate files, as well as the final executable, was also produced in the output.
-
-#### Verbose Mode
-You can see the detailed compilation process by using the verbose **“-v”** option.
-
-In g++:
-`g++ -v div.cc`
-
-In gcc:
-`gcc -v -o div.exe div.c`
-
-To see for any intermediate stage:
-`g++ -v -S div.cc`
-
-The details will be shown within the terminal itself as shown in the image below.
-
-![Verbose Mode](/img/verbose.JPG)
-
-You can open the image above or save it, and zoom in to see the details.
 
 ## References
  - Using the GNU Compiler Collection (GCC) - [gcc.gnu.org](https://gcc.gnu.org/onlinedocs/gcc/Overall-Options.html)
