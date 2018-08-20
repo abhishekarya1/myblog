@@ -6,12 +6,14 @@ bigimg: [{src: "/img/postimg/MLforsec.JPG", desc: "machine learning"}]
 tags: ["Machine Learning"]
 ---
 
-## The following is a summary of the conference paper - Essinger, Steve & L. Rosen, Gail. (2011). An introduction to machine learning for students in secondary education. 243 - 248. 10.1109/DSP-SPE.2011.5739219. 
+The following is a summary of the conference paper - <br>
+**S. D. Essinger and G. L. Rosen, "An introduction to machine learning for students in secondary education," 2011 Digital Signal Processing and Signal Processing Education Meeting (DSP/SPE), Sedona, AZ, 2011, pp. 243-248.**<br>
+**doi: 10.1109/DSP-SPE.2011.5739219** <br>
+URL: [IEEE Xplore](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5739219&isnumber=5739176)
 
-URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5739219&isnumber=5739176
+Read online or download the full PDF here: [ResearchGate](https://www.researchgate.net/publication/224226439_An_introduction_to_machine_learning_for_students_in_secondary_education) 
 
-To read online or to download, see here: https://www.researchgate.net/publication/224226439_An_introduction_to_machine_learning_for_students_in_secondary_education 
-
+To download the summary: [click here](/res/Summary - An Introduction to Machine Learning for Students in Secondary Education.pdf).
 
 The paper elucidates a proposed machine learning (ML) lab for high school students, helping them to come up with machine learning based solutions that they can implement in their daily life. These are applicable in almost any aspect of life, in any type of scenario. The primary motivation behind the lab is that just simple math and engineering concepts are required to work with most ML algorithms today. 
 It describes machine learning as automating the process of coming up with a solution to a problem and talks about pattern recognition and identifying patterns in data to decide output based on that pattern.
