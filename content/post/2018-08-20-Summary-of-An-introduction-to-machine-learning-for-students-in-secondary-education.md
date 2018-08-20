@@ -2,7 +2,7 @@
 title: Summary - An Introduction to Machine Learning for Students in Secondary Education
 subtitle: Conference paper by Steven D. Essinger, Gail L. Rosen
 date: 2018-08-20
-bigimg: [{src: "/img/postimg/MLforsec.JPG", desc: "machine learning"}]
+bigimg: [{src: "/img/postimg/MLforsec.jpeg", desc: "machine learning"}]
 tags: ["Machine Learning"]
 ---
 
@@ -46,10 +46,3 @@ Finally, it expands upon the implementation of the lab. The author found out tha
 The lab has a great scope for enhancement because of the scalable nature of ML. From using neural networks and advanced ML techniques as well as algorithms inspired from biological beings. Activities can be developed for students from any discipline including but not limited to creative arts. 
 
 I believe that the proposed lab will not only act as an introduction to ML, but also to engineering, problem analysis, and decision making for students in secondary education and more and more problems can be solved using ML enabling us to be more efficient and accurate in solving problems from virtually any domain.
-
-
-
-## References
- - Using the GNU Compiler Collection (GCC) - [gcc.gnu.org](https://gcc.gnu.org/onlinedocs/gcc/Overall-Options.html)
- - The C++ compilation process - [cs.niu.edu](http://faculty.cs.niu.edu/~mcmahon/CS241/Notes/compile.html)
- - 15 Most Frequently Used GCC Compiler Command Line Options - [The Geek Stuff](https://www.thegeekstuff.com/2012/10/gcc-compiler-options/)
