@@ -1,7 +1,7 @@
 baseurl = "https://abyssaltech.xyz"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
-title = "Abyssal Tech"
+title = "Abhishek Arya | Blog"
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
 pygmentsStyle = "trac"
