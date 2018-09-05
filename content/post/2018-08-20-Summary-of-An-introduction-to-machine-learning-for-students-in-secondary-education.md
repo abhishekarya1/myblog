@@ -2,7 +2,7 @@
 title: Summary - An Introduction to Machine Learning for Students in Secondary Education
 subtitle: A Conference paper by Steven D. Essinger and Gail L. Rosen, Summary by Abhishek Arya
 date: 2018-08-20
-bigimg: [{src: "/img/postimg/MLforsec.jpeg", desc: "machine learning"}]
+bigimg: [{src: "/img/postimg/MLforsec.jpeg", desc: "Machine Learning"}]
 tags: ["Machine Learning"]
 ---
 
@@ -15,7 +15,6 @@ URL: [IEEE Xplore](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=57392
 
 Read online or download the full PDF here: [ResearchGate](https://www.researchgate.net/publication/224226439_An_introduction_to_machine_learning_for_students_in_secondary_education) 
 
-To download the summary: [click here](/res/Summary - An Introduction to Machine Learning for Students in Secondary Education.pdf).
 
 ## Summary
 
