@@ -2,7 +2,7 @@
 title: Cosmos - A Spacetime Odyssey
 subtitle: Prologue - Notes and Elucidations from every episode
 date: 2018-09-05
-bigimg: [{src: "/img/postimg/cosmos1.jpg", desc: "Cosmos: A Spacetime Odyssey"}]
+bigimg: [{src: "/img/postimg/cosmos0.jpg", desc: "Cosmos: A Spacetime Odyssey"}]
 tags: ["TV Series", "Cosmos"]
 ---
 ## Cosmos: A Spacetime Odyssey
