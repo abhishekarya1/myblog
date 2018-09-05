@@ -19,7 +19,7 @@ It has 13 episodes and topics range from various objects in space and origin of 
 
 I've watched it twice by now and each minute teaches you something. I am going to re-watch it and this time I'll post my notes, elucidations, observations, and further thoughts on each episode.
 
-Here is a sneak peak of the entire series - [Cosmos: A Spacetime Odyssey Preview](https://www.youtube.com/watch?v=Fm4UV5_HsPA)
+Here is a sneak peak of the entire series - [Cosmos: A Spacetime Odyssey Preview](https://www.youtube.com/watch?v=Fm4UV5_HsPA).
 
 You can watch it online for free here - [WatchDocumentaries.com](http://watchdocumentaries.com/cosmos-a-spacetime-odyssey/).
 
