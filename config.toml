@@ -98,8 +98,8 @@ googleAnalytics = "UA-120021913-1"
 
 [[menu.main]]
     parent = "featured"
-    name = "---"
-    url = "post/---"
+    name = "Cosmos: A Spacetime Odyssey"
+    url = "/tags/cosmos/"
     weight = 3
 
 [[menu.main]]

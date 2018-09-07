@@ -14,17 +14,18 @@ img {
 </style>
 <img class="img" src="/img/sign.png" height="147" width="500">
 
-My name is **Abhishek Arya**. I try my hands on everything that a computer can do :
+My name is **Abhishek Arya**. Some things about me, including but not limited to, love for computers :
 
-- I am on a journey to discover my true passion in computer sciences and technology, And hopefully I can find that somewhere here on the internet.
-- The journey so far has been great, I have done many things - from Programming and Scripting to Ethical Hacking, designing graphics, reverse engineering apps, modding random stuff, and tinkering with the codes of softwares.
-- Currently, I am getting my hands dirty with some coding, development, and deep learning.
-- I can always find cool things on the internet, even if I can't, I make sure to look in the depths of the Deep Web.
-- I love reading about technology and gadgets, and to use them in the coolest ways possible, you'll always find me jabbering random tech related news and terms.
-- I am always learning new things and I need to dump my cluttered mind somewhere. I have made it my goal to post it here on this blog.
-
+- I absolutely hate small talks and avoid them completely, no offence. 🙂
+- I am a typical neighbourhood geek - vsauce, xkcd, Cyanide & Happiness, watching rocket launches when I'm bored, paradoxes and thought experiments.
+- I am on a journey to discover my true passion in computer sciences and technology, which hopefully I can find somewhere here on the internet.
+- The journey so far has been great, I have done many things - from Programming and Scripting to Ethical Hacking, designing graphics, reverse engineering apps, modding random stuff, and tinkering with the code of just about everything.
+- Currently, I am getting my hands dirty with some coding, development, and deep learning. 👨‍💻
+- I can always tell you some random cool thing, ask me the next time you meet me! 😉
+- I love reading about technology and gadgets, and to use them in the most innovative ways possible (read _hack_), you'll always find me jabbering random tech related news, jargons, and trivia.
+- I am always learning new things and I need to dump my cluttered mind somewhere. I have made it my goal to post it here on this blog as frequently as I can.
 
 
 ### Anything else you want to know?
 
-Just drop me a message [@AbhishekArya](mailto:abhishekarya102@gmail.com) and I'll be delighted to talk to you.
+Just drop me a message [@AbhishekArya](mailto:abhishekarya102@gmail.com) and I'll be delighted to talk.
