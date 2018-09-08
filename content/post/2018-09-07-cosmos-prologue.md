@@ -13,7 +13,7 @@ Cosmos is an American science documentary television series. It is a follow-up t
 The 2014 Cosmos: A Spacetime Odyssey is much more than meets the eye, it is an experience. A breathtaking journey into the infinite cosmos, distant planets, far away galaxies and into the awe-inspiring minds of some of the most brilliant minds that ever lived, people who changed our lives forever. It connects all of the disciplines of science together, from astronomy to philosophy. Form minuscule atoms to the idea of a multiverse, it will educate you in the most beautiful manner. It is a must watch for every science fanatic out there, and it'll be a journey you will never forget.
 
 >"Open your eyes, and open your imagination. The next great discovery could be yours."        
-- U.S. President Barack Obama, introducing the series premiere.
+- former U.S. President Barack Obama, introducing the series premiere.
 
 It is hosted by astrophysicist [Neil deGrasse Tyson](https://en.wikipedia.org/wiki/Neil_deGrasse_Tyson), who is also one of the most popular science communicators today. He spends a fair amount of time debunking mystical beliefs from the past and extolling the virtues of modern, reasoned thought and how science paved the way to the modern thoughts and inventions on which the modern world stands atop. Something that Mr. Tyson personally believes and can be seen talking about very often.
 
