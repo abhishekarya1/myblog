@@ -16,7 +16,7 @@ I used Microsoft Frontpage for creating webpages in my school days and it was qu
 ## Sketch2Code
 Microsoft AI's Sketch2Code is a solution that uses AI to transform a handwritten user interface design from a picture to valid HTML markup code. It is open source and you can play around with the tool as well as the code behind the tool as much as you like. You can find the code, process flow, architecture, and all the details on [GitHub](https://github.com/Microsoft/ailab/tree/master/Sketch2Code).
 
-![Process GIF](/img/s2c.gif)
+![Process GIF](/img/s2c/s2c.gif)
 
 The web application is free and available to everyone, you can try out Sketch2Code right away on this [website](https://sketch2code.azurewebsites.net/).
 
@@ -39,16 +39,66 @@ The information of the detected objects and their position inside the image is f
 #### 4. Build HTML
 A valid HTML is generated accordingly to the detected layout containing the detected design elements.
 
-![Workflow](/img/s2c_workflow.jpg)
+![Workflow](/img/s2c/s2c_workflow.jpg)
 **Image: Sketch2Code Workflow**
 
 It utilizes cloud computing with the Azure Platform via Azure Cloud Platform and Azure Cloud AI Services.
 
-![Architecture Diagram](/img/s2c_cloud.jpg)
+![Architecture Diagram](/img/s2c/s2c_cloud.jpg)
 **Image: Sketch2Code Architecture Diagram**
 
 The model identifies the basic HTML elements such as buttons, labels and text boxes, allowing it to predict when those elements are present in any given image. It also can recognise handwritten text within the boxes to create a fully formed app or a webpage
 
 The best part about the application is that the code is extractable not just in HTML but also in XAML and UWP (Universal Windows Platform). So you can get the codes from scratch and use it any way to create your own applications.
 
-## Time to test it
+## Tests
+
+My test involves five images, all hand drawn on paper.
+
+#### Image-1
+A page having an image, some text and two buttons.
+
+![Image1](/img/s2c/s2cimg1.png)
+
+See the generated [HTML page](/img/s2c/s2c_html/s2cimg1.html).
+
+<br>
+
+#### Image-2
+A fairly complex page having drop down menus and a couple of buttons.
+
+![Image2](/img/s2c/s2cimg2.png)
+
+See the generated [HTML page](/img/s2c/s2c_html/s2cimg2.html).
+
+<br>
+
+#### Image-3
+A page having an image, text and some radio buttons. The tool performed pretty well on this one.
+
+![Image3](/img/s2c/s2cimg3.png)
+
+See the generated [HTML page](/img/s2c/s2c_html/s2cimg3.html).
+
+<br>
+
+#### Image-4
+A page having a lot of radio buttons.
+
+![Image4](/img/s2c/s2cimg4.png)
+
+See the generated [HTML page](/img/s2c/s2c_html/s2cimg4.html).
+
+<br>
+
+#### Image-5
+A very arranged and nicely laid out page. The tool performed good on this one too.
+
+![Image5](/img/s2c/s2cimg5.png)
+
+See the generated [HTML page](/img/s2c/s2c_html/s2cimg5.html).
+
+## Conclusion
+The open source initiative by Microsoft's AI.lab is a step in the right direction. And there is more to come our way, as more and more AI based tools aid the web development processes. Sketch2Code shows promise as it works on almost any image and recognizes text even with not-so-good handwriting with enough accuracy.
+
+One thing I liked the most about Sketch2Code is that it is fast, faster than I expected it to be. And in this case you have nothing to do but applaud the people behind it and a potentially huge open source community that it invites today to work on it and to improve it further.
