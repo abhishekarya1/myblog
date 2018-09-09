@@ -7,7 +7,7 @@ tags: ["Machine Learning", "Deep Learning"]
 ---
 
 ## What seems to be the problem with building HTML pages?
-I think, it has to do with the amount of work one has to do for building just the structural components. With machine learning, we can easily identify these components like lines, text, and boxes, and create code for it. But web designers can do that more efficiently.
+I think it has to do with the amount of work one has to do for building just the structural components. With machine learning, we can easily identify these components like lines, text, and boxes, and create code for it. But web designers can do that more efficiently.
 
 The problem is brainstorming designs. When having a lot of ideas in the mind, you can draw them on a paper or whiteboard in a jiffy, but the same is not true for code, which is a hefty amount of effort and not something designers want to do as it delays the design process.
 
@@ -28,13 +28,13 @@ Watch this short video to know more about the project - [Microsoft Developers](h
 
 ### Workflow
 #### 1. Detect Design Patterns
-A Custom Vision Model trained to perform object recognition against HTML hand drawn patterns is used to detect meaningful design elements into an image.
+A Custom Vision Model trained to perform object recognition against HTML hand-drawn patterns is used to detect meaningful design elements into an image.
 
 #### 2. Understand handwritten text
 Each detected element is passed through a Text Recognition Service to extract handwritten content.
 
 #### 3. Understand Structure
-The information of the detected objects and their position inside the image is feed into an algorithm that generates underlying structure.
+The information of the detected objects and their position inside the image is feed into an algorithm that generates the underlying structure.
 
 #### 4. Build HTML
 A valid HTML is generated accordingly to the detected layout containing the detected design elements.
@@ -42,14 +42,14 @@ A valid HTML is generated accordingly to the detected layout containing the dete
 ![Workflow](/img/s2c/s2c_workflow.jpg)
 **Image: Sketch2Code Workflow**
 
-It utilizes cloud computing with the Azure Platform via Azure Cloud Platform and Azure Cloud AI Services.
+It utilizes cloud computing with the Azure Platform via the Azure Cloud Platform and Azure Cloud AI Services.
 
 ![Architecture Diagram](/img/s2c/s2c_cloud.jpg)
 **Image: Sketch2Code Architecture Diagram**
 
-The model identifies the basic HTML elements such as buttons, labels and text boxes, allowing it to predict when those elements are present in any given image. It also can recognise handwritten text within the boxes to create a fully formed app or a webpage
+The model identifies the basic HTML elements such as buttons, labels and text boxes, allowing it to predict when those elements are present in any given image. It also can recognize handwritten text within the boxes to create a fully formed app or a webpage
 
-The best part about the application is that the code is extractable not just in HTML but also in XAML and UWP (Universal Windows Platform). So you can get the codes from scratch and use it any way to create your own applications.
+The best part about the application is that the code is extractable not just in HTML but also in XAML and UWP (Universal Windows Platform). So you can get the codes from scratch and use it anyway to create your own applications.
 
 ## Let's test it
 
@@ -65,7 +65,7 @@ See the generated [HTML page](/img/s2c/s2c_html/s2cimg1.html).
 <br>
 
 #### Image-2
-A fairly complex
+A page having a lot of radio buttons.
 
 ![Image2](/img/s2c/s2cimg2.png)
 
@@ -83,7 +83,7 @@ See the generated [HTML page](/img/s2c/s2c_html/s2cimg3.html).
 <br>
 
 #### Image-4
-A page having a lot of radio buttons.
+A page having a table.
 
 ![Image4](/img/s2c/s2cimg4.png)
 
@@ -92,13 +92,13 @@ See the generated [HTML page](/img/s2c/s2c_html/s2cimg4.html).
 <br>
 
 #### Image-5
-A very arranged and nicely laid out page. The tool performed good on this one too.
+A very arranged and nicely laid out page. The tool performed well on this one too.
 
 ![Image5](/img/s2c/s2cimg5.png)
 
 See the generated [HTML page](/img/s2c/s2c_html/s2cimg5.html).
 
 ## Conclusion
-The open source initiative by Microsoft's AI.lab is a step in the right direction. And there is more to come our way, as more and more AI based tools aid the web development processes. Sketch2Code shows promise as it works on almost any image and recognizes text even with not-so-good handwriting with enough accuracy.
+The open source initiative by Microsoft's AI.lab is a step in the right direction. And there is more to come our way, as more and more AI-based tools aid the web development processes. Sketch2Code shows promise as it works on almost any image and recognizes text even with not-so-good handwriting with enough accuracy.
 
-One thing I liked the most about Sketch2Code is that it is fast, faster than I expected it to be. And in this case you have nothing to do but applaud the people behind it and a potentially huge open source community that it invites today to work on it and to improve it further.
+One thing I liked the most about Sketch2Code is that it is fast, faster than I expected it to be. And in this case, you have nothing to do but applaud the people behind it and a potentially huge open source community that it invites today to work on it and to improve it further.
