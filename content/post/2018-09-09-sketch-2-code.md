@@ -2,7 +2,7 @@
 title: Building webpages with AI
 subtitle: A look into Sketch2Code, an open source project by Microsoft's AI Lab
 date: 2018-09-07
-bigimg: [{src: "/img/postimg/s2c.jpg", desc: "Machine Learning"}]
+bigimg: [{src: "/img/postimg/s2c.png", desc: "Machine Learning"}]
 tags: ["Machine Learning", "Deep Learning"]
 ---
 
@@ -51,7 +51,7 @@ The model identifies the basic HTML elements such as buttons, labels and text bo
 
 The best part about the application is that the code is extractable not just in HTML but also in XAML and UWP (Universal Windows Platform). So you can get the codes from scratch and use it any way to create your own applications.
 
-## Tests
+## Let's test it
 
 My test involves five images, all hand drawn on paper.
 
@@ -65,7 +65,7 @@ See the generated [HTML page](/img/s2c/s2c_html/s2cimg1.html).
 <br>
 
 #### Image-2
-A fairly complex page having drop down menus and a couple of buttons.
+A fairly complex
 
 ![Image2](/img/s2c/s2cimg2.png)
 
