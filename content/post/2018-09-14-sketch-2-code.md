@@ -1,7 +1,7 @@
 ---
 title: Building webpages with AI
 subtitle: A look into Sketch2Code, an open source project by Microsoft's AI Lab
-date: 2018-09-07
+date: 2018-09-14
 bigimg: [{src: "/img/postimg/s2c.png", desc: "Machine Learning"}]
 tags: ["Machine Learning", "Deep Learning"]
 ---

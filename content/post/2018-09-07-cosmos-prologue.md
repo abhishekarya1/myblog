@@ -23,7 +23,7 @@ I've watched it twice by now and each minute teaches you something. I am going t
 
 Here is a sneak peak of the entire series - [Cosmos: A Spacetime Odyssey Preview](https://www.youtube.com/watch?v=Fm4UV5_HsPA).
 
-You can watch it online for free here - [WatchDocumentaries](http://watchdocumentaries.com/cosmos-a-spacetime-odyssey/).
+You can watch it online for free here - [ihavenotv](https://ihavenotv.com/series/cosmos-a-spacetime-odyssey).
 
 ## Some of my favorite quotes from the series -
 

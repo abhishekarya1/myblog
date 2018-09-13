@@ -5,6 +5,9 @@ date: 2018-09-08
 bigimg: [{src: "/img/postimg/cosmos1.png", desc: "Cosmos: A Spacetime Odyssey"}]
 tags: ["TV Series", "Cosmos"]
 ---
+
+**Subjects**: Physics, Astronomy, Earth Science, Space Science, Physical Science.
+
 This episode discusses our understanding of the universe. From defining our cosmic address, discussing the lives and ideas of Copernicus and Giordano Bruno, introducing the cosmic calendar, and explaining how science is a cooperative enterprise spanning the generations.  
 
 It opens with this famous opening line from the 1980's Cosmos by Carl Sagan:
@@ -257,7 +260,7 @@ Origin of life is one of the greatest mysteries of Science. Life originated in t
 ## Science
 The following is an excerpt from the episode -
 
-Carl Sagan guided the maiden voyage of Cosmos a generation ago. He was one of the most successful science communicators of the 20th century, but he was first and foremost a scientist. He contributed enormously to our knowledge of the planets. He correctly predicted the existence of methane lakes on Saturn's giant moon Titan. He showed that the atmosphere of the early Earth must have contained powerful greenhouse gases. He was the first to understand that seasonal changes on Mars were due to windblown dust. Carl was a pioneer in the search for extra-terrestrial life and intelligence. He played a leading role in every major spacecraft mission to explore the solar system during the first 40 years of the Space Age.
+"Carl Sagan guided the maiden voyage of Cosmos a generation ago. He was one of the most successful science communicators of the 20th century, but he was first and foremost a scientist. He contributed enormously to our knowledge of the planets. He correctly predicted the existence of methane lakes on Saturn's giant moon Titan. He showed that the atmosphere of the early Earth must have contained powerful greenhouse gases. He was the first to understand that seasonal changes on Mars were due to windblown dust. Carl was a pioneer in the search for extra-terrestrial life and intelligence. He played a leading role in every major spacecraft mission to explore the solar system during the first 40 years of the Space Age."
 
 ![Carl Sagan Photo](/img/cosmos2/carl_sagan.jpg)
 
