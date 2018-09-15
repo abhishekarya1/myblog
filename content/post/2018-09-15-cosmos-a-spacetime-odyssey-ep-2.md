@@ -8,7 +8,7 @@ tags: ["TV Series", "Cosmos"]
 
 **Subjects**: Biology, Life Sciences, Biochemistry, Earth Science, Anatomy, Physiology.
 
-This episode discusses evolution, DNA, mutations, natural selection, tree of life, evolution of the eye, history of life on Earth, mass extinctions, and Geologic Time Scale.
+This episode discusses evolution, DNA, mutations, natural selection, the tree of life, the evolution of the eye, history of life on Earth, mass extinctions, and Geologic Time Scale.
 
 ## Selection
 ### Artificial Selection - Selective Breeding
@@ -18,9 +18,9 @@ It was the first time we took evolution into our own hands and we've been doing 
 
 ![Wolves to Dog Tree](/img/cosmos2/ep2/wolves-to-dogs.jpg)
 
-In a mere 15-20 thousand years we turned grey wolves into all breeds of Dogs we see today. And we bred them for their looks so much so that we're actually [damaging some of them genetically](http://www.humanesociety.org/news/magazines/2010/05-06/the_purebred_paradox.html).
+In a mere 15-20 thousand years, we turned grey wolves into all breeds of Dogs we see today. And we bred them for their looks so much so that we're actually [damaging some of them genetically](http://www.humanesociety.org/news/magazines/2010/05-06/the_purebred_paradox.html).
 
-Humans shaping there environment isn’t just limited to domesticating wild animals, we shape everything in ways that better suit us, from animals, to plants, to the land around us. As further evidence of the plasticity of nature, here’s some other examples of artificial selection: Broccoli, Cauliflower, Kale, Cabbage, Collard Greens and Brussels Sprouts are all domesticated versions of the same wild species, Brassica Oleracea.) That corn you see today, that is not corn. It is [SUPER CORN](https://www.nytimes.com/2010/05/25/science/25creature.html).
+Humans shaping their environment isn’t just limited to domesticating wild animals, we shape everything in ways that better suit us, from animals to plants, to the land around us. As further evidence of the plasticity of nature, here are some other examples of artificial selection: Broccoli, Cauliflower, Kale, Cabbage, Collard Greens and Brussels Sprouts are all domesticated versions of the same wild species, Brassica Oleracea.) That corn you see today, that is not corn. It is [SUPER CORN](https://www.nytimes.com/2010/05/25/science/25creature.html).
 
 ### Natural Selection
 Proposed by Charles Darwin in 1859, the most revolutionary idea in the history of science, the uproar it caused has never subsided.
@@ -28,10 +28,10 @@ It is a key mechanism of evolution, the change in the traits and characteristics
 
 To find out how it works, let's take an example of the Polar Bears we see today in the Arctic Region.
 
-In the arctic regions, Polar bears enjoyed a distinct advantage over other bears with non-white coloured bodies. This colouring helped polar bears camouflage themselves better and enjoy higher levels of success in hunting their prey. This led to the slow dying out of non-white bears over the passage of time as they were easily seen on white snow by their prey and it became difficult to hunt and survive. Over the succeeding years, the gene for white bears spreads throughout the entire population of Arctic bears and in the Arctic regions non-white bears were nowhere to be seen.
+In the arctic regions, Polar bears enjoyed a distinct advantage over other bears with non-white colored bodies. This coloring helped polar bears camouflage themselves better and enjoy higher levels of success in hunting their prey. This led to the slow dying out of non-white bears over the passage of time as they were easily seen on white snow by their prey and it became difficult to hunt and survive. Over the succeeding years, the gene for white bears spreads throughout the entire population of Arctic bears and in the Arctic regions, non-white bears were nowhere to be seen.
 
 
-Here is a highly recommended video from one of my favourite YouTube channel - &nbsp; &nbsp;  &nbsp; [How Evolution Works - Kurzgesagt – In a Nutshell](https://www.youtube.com/watch?v=hOfRN0KihOU)
+Here is a highly recommended video from one of my favorite YouTube channel - &nbsp; &nbsp;  &nbsp; [How Evolution Works - Kurzgesagt – In a Nutshell](https://www.youtube.com/watch?v=hOfRN0KihOU)
 
 #### DNA
 DNA is a molecule shaped like a long twisted ladder or double helix. The rungs of the ladder are made of four different kinds of smaller molecules. These are the letters of the genetic alphabet that all life can understand. Particular arrangements of those letters spell out the instructions for all living things, telling them how to grow, move, digest, sense the environment, heal, reproduce. The DNA double helix is a molecular machine with about 100 billion parts called "atoms".
@@ -47,7 +47,7 @@ Still, each living being has a unique DNA.
 - We actually only recently photographed DNA using an electron microscope. How’d we do it? [An Italian scientist essentially hung some DNA out to dry.](http://io9.com/5964239/scientists-snap-a-picture-of-dnas-double-helix-for-the-very-first-time)
 
 #### Mutations
-A mutation is the permanent alteration of the nucleotide sequence of the genome of an organism, virus, or extrachromosomal DNA or other genetic element. It give rise to a feature in an organism, if it is useful then it becomes a part of the organism and it not then it dies out slowly over subsequent generations. Mutations are entirely random and happen all the time. But the environment rewards those that increase the chance for survival. It naturally selects the living things that are better suited to survive, and that selection is not random, it is shaped by the environment in which the organism live.
+A mutation is the permanent alteration of the nucleotide sequence of the genome of an organism, virus, or extrachromosomal DNA or other genetic element. It gives rise to a feature in an organism, if it is useful then it becomes a part of the organism and it not then it dies out slowly over subsequent generations. Mutations are entirely random and happen all the time. But the environment rewards those that increase the chance of survival. It naturally selects the living things that are better suited to survive, and that selection is not random, it is shaped by the environment in which the organism lives.
 
 
 ## Tree of Life
@@ -57,27 +57,27 @@ The tree of life is a representation to understand the complex relationship that
 
 ![Tree of Life](/img/cosmos2/ep2/tree-of-life.jpg)
 
-[Here](https://imgur.com/r/atheismmobile/XF7GGNK) is a high quality one that you can zoom into.
+[Here](https://imgur.com/r/atheismmobile/XF7GGNK) is a high-quality one that you can zoom into.
 
-**Traditional Belief (Creationism)** - We were created separately from other animals, this idea makes us feel special and thus it has taken hold. Most religions today believe in this. The prevailing belief was that the complexity and variety of life must be the work of an intelligent designer, who created each of these millions of different species separately. Living things are just too intricate, it was said, to be the result of unguided evolution.
+**Traditional Belief (Creationism)** - We were created separately from other animals, this idea makes us feel special and thus it has taken hold. Most religions today believe this. The prevailing belief was that the complexity and variety of life must be the work of an intelligent designer, who created each of these millions of different species separately. Living things are just too intricate, it was said, to be the result of unguided evolution.
 
 
-The sugar metabolising structure of the DNA is the same for any tree and humans and we share common ancestors with every other living being, even a butterfly, grey wolf, mushroom, shark, bacterium, sparrow, etc. Some parts and features vary from species to species, that's what makes a difference.
+The sugar metabolizing structure of the DNA is the same for any tree and humans and we share common ancestors with every other living being, even a butterfly, grey wolf, mushroom, shark, bacterium, sparrow, etc. Some parts and features vary from species to species, that's what makes a difference.
 
 The environment selects who survives and who dies.
 
 The functions that are necessary and basic to life were evolved much before various life forms branched off from each other in our tree of life. Close genetic relatives occupy the same branch of the tree or more distant cousins are farther away. Each twig is a living species. And the trunk represents the common ancestor to us all.
 
-Today, half a million kinds of beetles alone are catalogued by Biologists and most of the terrestrial species are still to be discovered. Among the dense, tangled limbs of the vast Tree of Life you are one tiny branch among countless millions. Science reveals that **all life on Earth is one**.
+Today, half a million kinds of beetles alone are cataloged by Biologists and most of the terrestrial species are still to be discovered. Among the dense, tangled limbs of the vast Tree of Life, you are one tiny branch among countless millions. Science reveals that **all life on Earth is one**.
 
 ## Human Eye
 Our eyes are complicated than any device ever created by humans intelligence. Therefore, it was said, it cannot be the result of a mindless evolution.
 
-If we go back in time, life originated in the seas, they still have millions of years to venture onto the land. Life was blind then. One random day, There was an error in a microbe - mutation. These mutations continued to occur, and the bacteria can sense light now. It now knows the difference between the surface and towards the bottom of the sea. In its body, the light-sensitive proteins became concentrated on one spot and made it easier for it to find the light. The flatworm developed dimples on this pigment spot and they deepened, over thousands of generation the natural selection sculpted the eye and made it a pinhole camera with a membrane on top covering it to protect it. This development lead to a rapid competition to keep up to survive amongst flatworms. Then the lens, developed, from the transparent gel near the pinhole over a period of millions of years and the pinhole enlarged to let in more light over another million years.
+If we go back in time, life originated in the seas, they still have millions of years to venture onto the land. Life was blind then. One random day, There was an error in a microbe - mutation. These mutations continued to occur, and the bacteria can sense light now. It now knows the difference between the surface and towards the bottom of the sea. In its body, the light-sensitive proteins became concentrated on one spot and made it easier for it to find the light. The flatworm developed dimples on this pigment spot and they deepened, over thousands of generation the natural selection sculpted the eye and made it a pinhole camera with a membrane on top covering it to protect it. This development leads to rapid competition to keep up to survive amongst flatworms. Then the lens, developed, from the transparent gel near the pinhole over a period of millions of years and the pinhole enlarged to let in more light over another million years.
 
-But then, our eyes, evolved to see in water, were not so efficient on land. Today, they are not perfect, we often fail to see stuff right in front of our eyes - [blind spot](https://www.britannica.com/science/blind-spot).
+But then, our eyes, evolved to see in the water, were not so efficient on land. Today, they are not perfect, we often fail to see stuff right in front of our eyes - [blind spot](https://www.britannica.com/science/blind-spot).
 
-Some say that the evolution is just a theory as if it were an opinion, in fact it is as true as the theory of gravity. Because evolution is blind it cannot anticipate or adapt to catastrophic events, these are the broken branches of our tree of life. We explore these in the next section.
+Some say that the evolution is just a theory as if it were an opinion, in fact, it is as true as the theory of gravity. Because evolution is blind it cannot anticipate or adapt to catastrophic events, these are the broken branches of our tree of life. We explore these in the next section.
 
 ## Halls of Extinction
 In the last 500 million years, five major extinction events have occurred - Ordovician, Devonian, Triassic, Cretaceous, and the worse one, Permian. And we're living through the sixth one.
@@ -114,11 +114,11 @@ Titan is the largest moon of Saturn. It is the only moon known to have a dense a
 
 ![Titan](/img/cosmos2/ep2/titan.jpg)
 
-Titan is a lot different from our world. But it may harbour life. Like Earth, it has an atmosphere that is mostly Nitrogen, but it's four times denser. The atmosphere has no oxygen at all, and the planet is far colder, the average surface temperature on Titan is -179 degrees Celsius. On Titan there is smoggy haze above the surface, always. Like Earth it rains on Titan. It has rivers and coastlines, hundreds of lakes, vapor rising from the lakes condenses and falls as rains just like the water cycle on Earth. But, the rains are not water, it is Methanes and Ethanes. It has a lot of frozen water, infact the mountains on Titan are made of water-ice. But it is far too cold for water to be in liquid form.
+Titan is a lot different from our world. But it may harbor life. Like Earth, it has an atmosphere that is mostly Nitrogen, but it's four times denser. The atmosphere has no oxygen at all, and the planet is far colder, the average surface temperature on Titan is -179 degrees Celsius. On Titan, there is smoggy haze above the surface, always. Like Earth, it rains on Titan. It has rivers and coastlines, hundreds of lakes, vapor rising from the lakes condenses and falls as rains just like the water cycle on Earth. But, the rains are not water, it is Methanes and Ethanes. It has a lot of frozen water, in fact, the mountains on Titan are made of water-ice. But it is far too cold for water to be in liquid form.
 
 If you took all the oil and natural gas on Earth, it would amount to a tiny fraction of Titan's reserves.
 
-Though it is difficult to imagine life in this harsh surroundings, we must remember that when life started on Earth, it was not fully stable, life always finds a way. There might be different kind of creatures there, one that inhale Hydrogen and exhale Methane, metabolise Acetylene instead of sugar as an energy source, the nature controls the formation of life.
+Though it is difficult to imagine life in this harsh surroundings, we must remember that when life started on Earth, it was not fully stable, life always finds a way. There might be a different kind of creatures there, one that inhales Hydrogen and exhales Methane, metabolize Acetylene instead of sugar as an energy source, nature controls the formation of life.
 
 [Kraken Mare](https://en.wikipedia.org/wiki/Kraken_Mare) is the largest known body of liquid on the surface of Saturn's moon Titan. It was discovered by the space probe Cassini and was named in 2008 after the Kraken, a legendary sea monster. It is mainly composed of Methane. Who knows what might be lurking in its depths.
 
@@ -137,3 +137,5 @@ See Carl Sagan himself explain evolution which is both Poetic and Scientific.
 
 
 >"From creatures who had yet to discern day from night to beings who are exploring the cosmos. Those are some of the things that molecules do given four billion years of evolution."
+
+![Life](/img/cosmos2/ep2/life.jpg)
