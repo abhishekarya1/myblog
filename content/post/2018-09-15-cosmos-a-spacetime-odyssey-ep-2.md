@@ -25,8 +25,17 @@ Humans shaping there environment isn’t just limited to domesticating wild anim
 ### Natural Selection
 Proposed by Charles Darwin in 1859, the most revolutionary idea in the history of science, the uproar it caused has never subsided.
 It is a key mechanism of evolution, the change in the traits and characteristics of a population over generations.
-To find out how it works, see below.
+
+To find out how it works, let's take an example of the Polar Bears we see today in the Arctic Region.
+
+In the arctic regions, Polar bears enjoyed a distinct advantage over other bears with non-white coloured bodies. This colouring helped polar bears camouflage themselves better and enjoy higher levels of success in hunting their prey. This led to the slow dying out of non-white bears over the passage of time as they were easily seen on white snow by their prey and it became difficult to hunt and survive. Over the succeeding years, the gene for white bears spreads throughout the entire population of Arctic bears and in the Arctic regions non-white bears were nowhere to be seen.
 
 **DNA** - DNA is a molecule shaped like a long twisted ladder or double helix. The rungs of the ladder are made of four different kinds of smaller molecules. These are the letters of the genetic alphabet that all life can understand. Particular arrangements of those letters spell out the instructions for all living things, telling them how to grow, move, digest, sense the environment, heal, reproduce. The DNA double helix is a molecular machine with about 100 billion parts called "atoms".
 
 ![DNA Strand](/img/cosmos2/ep2/dna.jpg)
+
+>"There are as many atoms in a single molecule of your DNA as there are stars in a typical galaxy. We are, each of us, a little universe."
+
+
+
+Here is a highly recommended video from one of my favourite YouTube channel - &nbsp; &nbsp;  &nbsp; [How Evolution Works - Kurzgesagt – In a Nutshell](https://www.youtube.com/watch?v=hOfRN0KihOU)
