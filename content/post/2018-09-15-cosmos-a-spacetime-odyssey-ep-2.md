@@ -75,6 +75,51 @@ Our eyes are complicated than any device ever created by humans intelligence. Th
 
 If we go back in time, life originated in the seas, they still have millions of years to venture onto the land. Life was blind then. One random day, There was an error in a microbe - mutation. These mutations continued to occur, and the bacteria can sense light now. It now knows the difference between the surface and towards the bottom of the sea. In its body, the light-sensitive proteins became concentrated on one spot and made it easier for it to find the light. The flatworm developed dimples on this pigment spot and they deepened, over thousands of generation the natural selection sculpted the eye and made it a pinhole camera with a membrane on top covering it to protect it. This development lead to a rapid competition to keep up to survive amongst flatworms. Then the lens, developed, from the transparent gel near the pinhole over a period of millions of years and the pinhole enlarged to let in more light over another million years.
 
-But then, our eyes, evolved to see in water, were not so efficient on land. Today, they are not perfect, we often fail to see stuff right in front of our eyes - blind spot.
+But then, our eyes, evolved to see in water, were not so efficient on land. Today, they are not perfect, we often fail to see stuff right in front of our eyes - [blind spot](https://www.britannica.com/science/blind-spot).
 
-Some say that the evolution is just a theory as if it were an opinion, in fact it is as true as the theory of gravity. Because evolution is blind it cannot anticipate or adapt to catastrophic events, these are the broken branches of our tree of life.
+Some say that the evolution is just a theory as if it were an opinion, in fact it is as true as the theory of gravity. Because evolution is blind it cannot anticipate or adapt to catastrophic events, these are the broken branches of our tree of life. We explore these in the next section.
+
+## Halls of Extinction
+In the last 500 million years, five major extinction events have occurred - Ordovician, Devonian, Triassic, Cretaceous, and the worse one, Permian. And we're living through the sixth one.
+
+- **Ordovician** - 444 million years ago, 86% of all species lost on Earth.
+- **Devonian** - 375 million years ago, 75% of all species lost on Earth.
+- **Permian** - 251 million years ago, 96% of all species lost on Earth.
+- **Triassic** - 200 million years ago, 80% of all species lost on Earth.
+- **Cretaceous** - 66 million years ago, 76% of all species lost on Earth.
+
+We also call The Permian Holocaust, The Great Dying. Huge volcanic eruptions happened then, ocean currents stopped flowing due to extreme heat caused by the volcanic eruptions. When it ended 9 in 10 of all the species on Earth went extinct. When the ash clouds disappeared, the Earth was Dinosaur's planet and the reign of Dinosaurs continued for almost 150 million years.
+But, another mass extinction wiped them, we often do not talk about it as we're not sure what happened. But experts believe it was an asteroid collision that wiped them out.
+
+![Asteroid Impact](/img/cosmos2/ep2/impact.jpg)
+
+The [Cretaceous–Paleogene extinction event](https://en.wikipedia.org/wiki/Cretaceous%E2%80%93Paleogene_extinction_event), was a sudden mass extinction of some three-quarters of the plant and animal species on Earth, approximately 66 million years ago.
+
+![Tardigrade](/img/cosmos2/ep2/dino.jpg)
+
+Take a look at [this](https://cosmosmagazine.com/palaeontology/big-five-extinctions) beautiful page form the cosmos magazine.
+
+Also, check out [this](https://www.worldatlas.com/articles/the-timeline-of-the-mass-extinction-events-on-earth.html) awesome article from World Atlas.
+
+There is only one organism that has survived all five mass extinctions on this planet.
+**Tardigrade** or "The Water Bear" has thrived for almost 5 billion years. It can live in boiling conditions, without water for long and in freezing temperatures. It is still there in your backyard, mostly in moist places.
+
+![Tardigrade](/img/cosmos2/ep2/tardigrade.jpg)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **© Eye of Science/Science Source**
+
+Tardigrades can enter a state known as 'cryptobiosis' in which they are nearly impossible to kill. They can also survive in space!
+
+## Life on other Worlds - Titan
+Titan is the largest moon of Saturn. It is the only moon known to have a dense atmosphere, and the only object in space, other than Earth, where clear evidence of stable bodies of surface liquid has been found.
+
+![Titan](/img/cosmos2/ep2/titan.jpg)
+
+Titan is a lot different from our world. But it may harbour life. Like Earth, it has an atmosphere that is mostly Nitrogen, but it's four times denser. The atmosphere has no oxygen at all, and the planet is far colder, the average surface temperature on Titan is -179 degrees Celsius. On Titan there is smoggy haze above the surface, always. Like Earth it rains on Titan. It has rivers and coastlines, hundreds of lakes, vapor rising from the lakes condenses and falls as rains just like the water cycle on Earth. But, the rains are not water, it is Methanes and Ethanes. It has a lot of frozen water, infact the mountains on Titan are made of water-ice. But it is far too cold for water to be in liquid form.
+
+If you took all the oil and natural gas on Earth, it would amount to a tiny fraction of Titan's reserves.
+
+Though it is difficult to imagine life in this harsh surroundings, we must remember that when life started on Earth, it was not fully stable, life always finds a way. There might be different kind of creatures there, one that inhale Hydrogen and exhale Methane, metabolise Acetylene instead of sugar as an energy source, the nature controls the formation of life.
+
+Kraken Mare is the largest known body of liquid on the surface of Saturn's moon Titan. It was discovered by the space probe Cassini and was named in 2008 after the Kraken, a legendary sea monster. It is mainly composed of Methane. Who knows what might be lurking in its depths.
+
+Scientists believe that if there is somewhere we should look for signs of life first it should be Titan.
