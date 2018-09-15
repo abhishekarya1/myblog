@@ -127,15 +127,15 @@ Scientists believe that if there is somewhere we should look for signs of life f
 ## The Greatest Story Ever Told
 Evolution is the greatest story science has ever told.
 
+![Life](/img/cosmos2/ep2/life.jpg)
+
 >"Science works on the frontier between knowledge and ignorance. We're not afraid to admit what we don't know. There's no shame in that. The only shame is to pretend that we have all the answers."
 
 In Carl Sagan's original Cosmos series, he traced the unbroken thread that stretches directly from the one-celled organisms of nearly four billion years ago to you. Four billion years in 40 seconds.
 
-See Carl Sagan himself explain evolution which is both Poetic and Scientific.
+Carl Sagan himself created this beautiful evolution animations in the original Cosmos, he himself narrated it which is both Poetic and Scientific.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gZpsVSVRsZk?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 >"From creatures who had yet to discern day from night to beings who are exploring the cosmos. Those are some of the things that molecules do given four billion years of evolution."
-
-![Life](/img/cosmos2/ep2/life.jpg)
