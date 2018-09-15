@@ -14,7 +14,7 @@ It opens with this famous opening line from the 1980's Cosmos by Carl Sagan:
 
 >"The universe is all there is, or was, or ever will be."
 
-![Quote Image](/img/cosmos2/carl_quote.jpg)
+![Quote Image](/img/cosmos2/ep1/carl_quote.jpg)
 
 And reminds us that...
 
@@ -34,7 +34,7 @@ It is dense cloud covered, plagued with a runaway greenhouse effect which causes
 #### Earth
 Our Home.
 
-![Earth Photo](/img/cosmos2/earth.jpg)
+![Earth Photo](/img/cosmos2/ep1/earth.jpg)
 
 #### Mars
 Has as much land as the Earth itself.
@@ -47,7 +47,7 @@ The Galilean moons are the four largest moons of Jupiter — Io, Europa, Ganymed
 
     Here is a video from NASA explaining The Great Red Spot of Jupiter - [NASAJuno](https://www.youtube.com/watch?v=74Cybar76vg)
 
-  ![Great Red Spot](/img/cosmos2/redspot.jpg)
+  ![Great Red Spot](/img/cosmos2/ep1/redspot.jpg)
 **Image Credits: NASA, ESA, and A. Simon (NASA Goddard)**
 
 It has been of a great subject of interest for astronomers and recently NASA's Juno spacecraft flew over it revealing more about the storm. You can fly "into" the storm, as NASA created a visualization for it - [NASA](https://www.youtube.com/watch?v=uj3Lq7Gu94Y).
@@ -66,21 +66,21 @@ Voyager-1 is a space probe launched on 5 September 1977 by NASA. It is the most 
 
 You can see live stats of the probe [here](https://voyager.jpl.nasa.gov/).
 
-![Voyager-1 Image](/img/cosmos2/voyg.png)
+![Voyager-1 Image](/img/cosmos2/ep1/voyg.png)
 
 But this is not the only thing that is interesting about this probe. This probe carries a gold-plated disc in case the spacecraft should ever be found by intelligent life forms. The disc carries photos of the Earth and its lifeforms, a range of scientific information, spoken greetings from people such as the Secretary-General of the United Nations and the President of the United States and a medley, "Sounds of Earth," that includes the sounds of whales, a baby crying, waves breaking on a shore and a collection of music, including works by Mozart. Other Eastern and Western classics are included, as well as various performances of indigenous music from around the world. The record also contains greetings in 55 different languages.
 
-![Golden Record Image](/img/cosmos2/golden-record.jpg)
+![Golden Record Image](/img/cosmos2/ep1/golden-record.jpg)
 
 <br>
 
 ### Oort Cloud
 The Sun extends its gravitational pull in all directions further and trillions of icy particles and comets get pulled in forming a roughly spherical cloud called the "Oort Cloud". But, no one can see the cloud, because they are farther away from each other, the nearest ones are as far away as the Earth from Saturn.
 
-![Oort2](/img/cosmos2/oort2.jpg)
+![Oort2](/img/cosmos2/ep1/oort2.jpg)
 **Image Credit: ESA**
 
-![Oort Cloud Image](/img/cosmos2/oort.jpg)
+![Oort Cloud Image](/img/cosmos2/ep1/oort.jpg)
 **Image Credit: FOX**
 
 <br>
@@ -98,14 +98,14 @@ Comprises of 8 planets and a dwarf planet. All the planets revolve in synchroniz
 
 #### Level 3 - Milky Way Galaxy
 
-![Milky Way Image](/img/cosmos2/milky-way.jpg)
+![Milky Way Image](/img/cosmos2/ep1/milky-way.jpg)
 
 <br>
 
 
 - **Andromeda Galaxy** - It is located 2.5 million light-years from our sun and it is the nearest galaxy to us. Four billion years from now, our galaxy, the Milky Way, will collide with Andromeda also known as Messier 31. It consists of around 1 lakh crore stars, our galaxy, the Milky Way has only around 30,000 stars.
 
-    ![Andromeda Image](/img/cosmos2/andromeda.jpg)
+    ![Andromeda Image](/img/cosmos2/ep1/andromeda.jpg)
     **Image Credit: NASA/JPL-Caltech/UCLA**
 
 <br>
@@ -118,10 +118,10 @@ Refer here for a large, zoomable image of the Local Group - [Wikipedia](https://
 #### Level 5 - Virgo Supercluster
 A supercluster is a mass concentration of galaxies that include our galaxy and the local group.
 
-![Virgo Image](/img/cosmos2/virgo.JPG)
+![Virgo Image](/img/cosmos2/ep1/virgo.JPG)
 **Image Credit: Richard Powell**
 
-![Virgo Image#2](/img/cosmos2/virgo-cluster.jpg)
+![Virgo Image#2](/img/cosmos2/ep1/virgo-cluster.jpg)
 **Image Credit: Wikimedia Commons/Kees Schere**
 
 <br>
@@ -140,7 +140,7 @@ Here is a good chart which summarizes our cosmic address - [Wikipedia](https://e
 ### Multiverse
 The idea of ours not being the only universe, there might be other universes, all separate from each other completely. Each one is like a bubble, separated by time or space.
 
-![Multiverse Bubbles](/img/cosmos2/multiverse.jpg)
+![Multiverse Bubbles](/img/cosmos2/ep1/multiverse.jpg)
 **Image credit: Jaime Salcido / EAGLE Collaboration.**
 
 **minutephysics** from YouTube made a great video on this and the multiverse is better explained by him than I ever could -
@@ -193,7 +193,7 @@ Even the death sentence handed down to him did not change his attitude as he def
 
 On February 19, 1600, he was driven through the streets of Rome, stripped of his clothes and burned at the stake. Today, a monument stands in the Campo de Fiori in Rome, with a statue of Bruno, honouring a man who knew science to be true and refused to let religious dogma change the facts.
 
-![Giordano Bruno Statue](/img/cosmos2/gio_bruno.jpg)
+![Giordano Bruno Statue](/img/cosmos2/ep1/gio_bruno.jpg)
 
 <br>
 
@@ -201,7 +201,7 @@ On February 19, 1600, he was driven through the streets of Rome, stripped of his
 
 If we were to take all the time the universe is formed (approximately 13.8 billion years) and compress that into a single Earth year. We are presented with a scale of time to compare events, their duration and the time gap between them. It shows how new we are in the cosmos.
 
-![](/img/cosmos2/cosmic_cal.jpg)
+![](/img/cosmos2/ep1/cosmic_cal.jpg)
 
 Here is the entire timeline -
 
@@ -252,7 +252,7 @@ Explore the full high-quality image of the cosmic calendar yourself - [click her
 ### Origin of life
 Origin of life is one of the greatest mysteries of Science. Life originated in the oceans. Tiktaalik was one of the first animals to venture onto land. Must have felt like visiting a new planet.
 
-![Tiktaalik Image](/img/cosmos2/tiktaalik.jpg)
+![Tiktaalik Image](/img/cosmos2/ep1/tiktaalik.jpg)
 **Image Credit: Zina Deretsky, New Dinosaurs**
 
 <br>
@@ -262,7 +262,7 @@ The following is an excerpt from the episode -
 
 "Carl Sagan guided the maiden voyage of Cosmos a generation ago. He was one of the most successful science communicators of the 20th century, but he was first and foremost a scientist. He contributed enormously to our knowledge of the planets. He correctly predicted the existence of methane lakes on Saturn's giant moon Titan. He showed that the atmosphere of the early Earth must have contained powerful greenhouse gases. He was the first to understand that seasonal changes on Mars were due to windblown dust. Carl was a pioneer in the search for extra-terrestrial life and intelligence. He played a leading role in every major spacecraft mission to explore the solar system during the first 40 years of the Space Age."
 
-![Carl Sagan Photo](/img/cosmos2/carl_sagan.jpg)
+![Carl Sagan Photo](/img/cosmos2/ep1/carl_sagan.jpg)
 
 He has reached out to countless individuals, inspiring so many to study, teach and do science.
 
