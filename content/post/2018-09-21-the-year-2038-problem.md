@@ -40,7 +40,7 @@ The biggest problem are the embedded systems as we cannot provide software updat
 
 
 ## Solution
-At the moment, there's no universal solution for the Year 2038 bug. Modern processors are starting to make their way into smartphones and tablets too, are based on 64-bit architecture and 64-bit to store data. They also have a maximum number 2<sup>64</sup> or 18 quintillion values, the ceiling is considerably higher at a date that is over twenty times greater than the estimated age of the universe i.e. 292 billion years from now.
+At the moment, there's no universal solution for the Year 2038 bug. Modern processors are starting to make their way into smartphones and tablets too, are based on 64-bit architecture and use 64-bit to store data. They also have a maximum number 2<sup>64</sup> or 18 quintillion values, the ceiling is considerably higher at a date that is over twenty times greater than the estimated age of the universe i.e. 292 billion years from now.
 
 Apple’s OS X desktop software has been exclusively 64-bit since the release of Mac OS X 10.7 "Lion" in 2011.
 
