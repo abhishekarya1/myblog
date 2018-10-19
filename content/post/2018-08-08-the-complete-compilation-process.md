@@ -1,5 +1,5 @@
 ---
-title: A Complete Breakdown of the Compilation Process
+title: Command-line flags to see the code at each stage of compilation
 subtitle: An illustrated tutorial on how to see the code at each stage
 date: 2018-08-08
 bigimg: [{src: "/img/postimg/compilation.JPG", desc: "Programming"}]
