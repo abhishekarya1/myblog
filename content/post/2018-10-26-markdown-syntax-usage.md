@@ -386,6 +386,24 @@ Second Term
 : This is another definition of the second term.
 
 ---
+
+### 16. Escaping {#esc}
+You can escape certain characters in Markdown.
+```
+\     backslash
+\.    dot  
+\!    exclamation mark  
+\#    hash
+\*    asterisk
+\+    plus
+\-    minus
+\_    underscore
+\`    backtick
+\(\)  parentheses
+\[\]  brackets
+\{\}  curly brackets
+```
+
 ### 16. Line Breaks {#linebreaks}
 One Newline won't break the line in Markdown, you have to hit newline twice or use two spaces after a line for line break.
 
