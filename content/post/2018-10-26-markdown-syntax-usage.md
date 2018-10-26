@@ -217,7 +217,7 @@ Relative:
 Reference-styled:
 ![Alt-text for image][image]
 
-[image]: (https://abyssaltech.xyz/img/splash.png)
+[image]: https://abyssaltech.xyz/img/splash.png
 
 ---
 ### 7. Highlighting {#highlighting}
