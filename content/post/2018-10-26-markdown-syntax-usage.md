@@ -10,6 +10,8 @@ tags: ["Web", "Markdown"]
 
 Markdown files have an extension `.md` or `.markdown`.
 
+![Markdown Logo](/img/markdown/md.png)
+
 It is also different from your normal text editors like Word in which you click buttons to do the job. In Markdown you don't see the output as you're typing, you only see it in a browser and if you've some changes, you have to go back and edit.
 
 Today, markdown can be found in many places. [GitHub](https://guides.github.com/features/mastering-markdown/) uses it for writing documentation, [Reddit](https://www.reddit.com/wiki/commenting) uses it for comments, you can try it out while writing messages in WhatsApp, you can write emails in it, much of the content you read online is written in Markdown. This post is written in Markdown too. It has an advantage that the person who is writing does not need to see everytime how it looks on a webpage. You can write with markdown syntax and the HTML pages will automatically be generated from it.
