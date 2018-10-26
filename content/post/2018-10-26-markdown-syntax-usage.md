@@ -14,7 +14,7 @@ It is also different from your normal text editors like Word in which you click 
 
 Today, markdown can be found in many places. [GitHub](https://guides.github.com/features/mastering-markdown/) uses it for writing documentation, [Reddit](https://www.reddit.com/wiki/commenting) uses it for comments, you can try it out while writing messages in WhatsApp, you can write emails in it, much of the content you read online is written in Markdown. This post is written in Markdown too. It has an advantage that the person who is writing does not need to see everytime how it looks on a webpage. You can write with markdown syntax and the HTML pages will automatically be generated from it.
 
-It looks very clean and it is easy to write too. Markdown is fast and easy way to take notes, create content for a website, and produce print-ready documents, some even make presentations from it too. It is quickly becoming the writing standard for [academics](http://chronicle.com/blogs/profhacker/markdown-the-syntax-you-probably-already-know/35295), [scientists](http://blogs.plos.org/mfenner/2012/12/13/a-call-for-scholarly-markdown/), [writers](http://lifehacker.com/5943320/what-is-markdown-and-why-is-it-better-for-my-to+do-lists-and-notes), and many more.
+It looks very clean and it is easy to write too. Markdown is a fast and easy way to take notes, create content for a website, and produce print-ready documents, some even make presentations from it too. It is quickly becoming the writing standard for [academics](http://chronicle.com/blogs/profhacker/markdown-the-syntax-you-probably-already-know/35295), [scientists](http://blogs.plos.org/mfenner/2012/12/13/a-call-for-scholarly-markdown/), [writers](http://lifehacker.com/5943320/what-is-markdown-and-why-is-it-better-for-my-to+do-lists-and-notes), and many more.
 
 Here's the difference between some HTML and same goal achieved by Markdown -
 ```
@@ -38,9 +38,9 @@ Notice how Markdown is a lot readable. But, after the content is posted online, 
 
 Though it is a lot different and far from the comfort of other [WYSIWYG](https://en.wikipedia.org/wiki/WYSIWYG) tools, it offers unparalleled writing speed, fluency, and fewer errors.
 ## Cheatsheet
-Though Markdown has different "flavours" depending upon what you're using it for, this is a more generalized list meant to be used as a quick reference.
+Though Markdown has different "flavuors" depending upon what you're using it for, this is a more generalized list meant to be used as a quick reference.
 
-Given below are usage and examples of Markdown syntax categorised for easy reference.
+Given below are usage and examples of Markdown syntax categorized for easy reference.
 
 1. [Headings](#headings)
 2. [Emphasis](#emphasis)
@@ -150,7 +150,7 @@ and so on...
 
 ---
 ### 4. Links {#links}
-Direct, reference, and relative links can be created.
+Direct, reference and relative links can be created.
 
 ```
 [Inline-style link](https://www.google.com)
@@ -174,7 +174,7 @@ Expand those references later:
 ```
 [Inline-style link](https://www.google.com)
 
-[Inline-style link with title](https://www.google.com "Google Homepage")
+[Inline-style link with tooltip](https://www.google.com "Google Homepage")
 
 [Reference-style link][Case-insensitive reference text]
 
@@ -250,7 +250,7 @@ print s
 ```
 ---
 ### 8. Tables {#tables}
-Tables aren't part of the original Markdown specifications, but they are there many a times.
+Tables aren't part of the original Markdown specifications, but they are there many times.
 
 ```
 | Tables        | Are           | Cool  |
@@ -371,7 +371,7 @@ Here's a sentence with a footnote. [^1]
 
 ---
 
-A footnote will be created at the very bottom of this page, which you can visit clicking the note attached to the sentence. 
+A footnote will be created at the very bottom of this page, which you can visit clicking the note attached to the sentence.
 
 ### 14. Definitions {#defns}
 Some Markdown processors allow you to create definition lists of terms and their corresponding definitions as follows.
