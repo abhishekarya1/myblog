@@ -40,20 +40,22 @@ Though Markdown has different "flavours" depending upon what you're using it for
 Given below are usage and examples of Markdown syntax.
 
 1. [Headings](#headings)
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
-11.
-12.
-13.
-14.
-15.
+2. [Emphasis](#emphasis)
+3. [Lists](#lists)
+4. [Links](#links)
+5. [Heading ID](#headingID)
+6. Images {#images}
+7. [Highlighting](#highlighting)
+8. [Tables](#tables)
+9. [Blockquotes](#blockquotes)
+10. [Inline HTML](#inlinehtml)
+11. [Horizontal Rule](#hr)
+12. [Tasklists](#tasklists)
+13. [Footnotes](#footnotes)
+14. [Definitions](#defns)
+15. [Escaping](#esc)
+16. [Line Breaks](#linebreaks)
+17. [YouTube Videos](#youtube)
 
 ---
 ### 1. Headings {#headings}
@@ -108,11 +110,9 @@ You can also combine them: **asterisks and _underscore too_**.
 
 Strikethrough uses two tildes: ~~sarcasm~~
 ---
-### 3. Lists {#list}
+### 3. Lists {#lists}
 Proper indentation is required to display lists properly.
 
----
-#### 4. Ordered Lists {#orderedlist}
 ```
 1. Item
 2. Another item
@@ -146,7 +146,7 @@ and so on...
 - Minus can be used too
 
 ---
-### 5. Links {#links}
+### 4. Links {#links}
 Direct, reference, and relative links can be created.
 
 ```
@@ -182,7 +182,7 @@ Expand those references later:
 [link text itself]
 
 ---
-### 6. Heading ID {#headingID}
+### 5. Heading ID {#headingID}
 You can place heading id as
 ```
 ### My Heading {#custom-id}
@@ -190,7 +190,7 @@ You can place heading id as
 You can then link directly to it using link as `[Goto Heading](#custom-id)`.
 
 ---
-### 7. Images {#images}
+### 6. Images {#images}
 
 ```
 Absolute:
@@ -217,7 +217,7 @@ Reference-styled:
 [image]: (https://abyssaltech.xyz/img/splash.png)
 
 ---
-### 8. Highlighting {#highlighting}
+### 7. Highlighting {#highlighting}
 Code and syntax highlighting can be performed with Markdown. It differs from render to renderer.
 
 We can inline-highlight text or block-highlight code.
@@ -246,7 +246,7 @@ s = "Python syntax highlighting"
 print s
 ```
 ---
-### 9. Tables {#tables}
+### 8. Tables {#tables}
 Tables aren't part of the original Markdown specifications, but they are there many a times.
 
 ```
@@ -296,7 +296,7 @@ A1 | B1 | C1
 A2 | B2 | C2
 
 ---
-### 10. Blockquotes {#blockquotes}
+### 9. Blockquotes {#blockquotes}
 
 ```
 > Here is a nice quote.
@@ -308,11 +308,11 @@ A2 | B2 | C2
 A quote can also nicely align and wrap around when it is a really long one.
 
 ---
-### 11. Inline HTML {#inlinehtml}
+### 10. Inline HTML {#inlinehtml}
 You are free to use HTML in your Markdown, and most of the times it'll work pretty good.
 
 ---
-### 12. Horizontal Rule {#hr}
+### 11. Horizontal Rule {#hr}
 ```
 Three or more -
 
@@ -343,7 +343,7 @@ ___
 Underscores
 
 ---
-### 13. Tasklists {#tasklists}
+### 12. Tasklists {#tasklists}
 Simple tasklists can be generated.
 ```
 - [x] Write the post
@@ -356,7 +356,7 @@ Simple tasklists can be generated.
 
 ---
 
-### 14. Footnotes {#footnotes}
+### 13. Footnotes {#footnotes}
 ```
 Here's a sentence with a footnote. [^1]
 
@@ -368,7 +368,7 @@ Here's a sentence with a footnote. [^1]
 
 ---
 
-### 15. Definitions {#defns}
+### 14. Definitions {#defns}
 Some Markdown processors allow you to create definition lists of terms and their corresponding definitions as follows.
 ```
 First Term
@@ -387,7 +387,7 @@ Second Term
 
 ---
 
-### 16. Escaping {#esc}
+### 15. Escaping {#esc}
 You can escape certain characters in Markdown.
 ```
 \     backslash
@@ -401,7 +401,7 @@ You can escape certain characters in Markdown.
 \`    backtick
 \(\)  parentheses
 \[\]  brackets
-\{\}  curly brackets
+\{\}  curly brackets  
 ```
 
 ### 16. Line Breaks {#linebreaks}
