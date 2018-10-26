@@ -441,6 +441,6 @@ Videos can be added directly by just pasting their embed code inside Markdown.
 
 - A good reference for Markdown - [link](https://www.markdownguide.org/).
 
-- For more detailed info, you can refer to the official documentation [here](https://daringfireball.net/projects/markdown/syntax).
+- For the detailed info, you can refer to the official documentation [here](https://daringfireball.net/projects/markdown/syntax).
 
 - Markdown - [Wikipedia](https://en.wikipedia.org/wiki/Markdown).
