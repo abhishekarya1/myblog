@@ -40,7 +40,7 @@ Notice how Markdown is a lot readable. But, after the content is posted online, 
 
 Though it is a lot different and far from the comfort of other [WYSIWYG](https://en.wikipedia.org/wiki/WYSIWYG) tools, it offers unparalleled writing speed, fluency, and fewer errors.
 ## Cheatsheet
-Though Markdown has different "flavuors" depending upon what you're using it for, this is a more generalized list meant to be used as a quick reference.
+Though Markdown has different "flavours" depending upon what you're using it for, this is a more generalized list meant to be used as a quick reference.
 
 Given below are usage and examples of Markdown syntax categorized for easy reference.
 
