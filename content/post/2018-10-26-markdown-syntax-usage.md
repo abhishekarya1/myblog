@@ -2,10 +2,13 @@
 title: Markdown
 subtitle: Syntax and Usage
 date: 2018-10-26
+share-img:
 tags: ["Web", "Markdown"]
 ---
 ## Markdown
 [Markdown](https://en.wikipedia.org/wiki/Markdown) is a lightweight markup language that can be used to write plain text-format which can be converted to valid HTML. Using markdown you don't need to write content within HTML tags, you can directly write text with markdown syntax and it'll automatically get converted. You can also use HTML within markdown!
+
+Markdown files have an extension `.md` or `.markdown`.
 
 It is also different from your normal text editors like Word in which you click buttons to do the job. In Markdown you don't see the output as you're typing, you only see it in a browser and if you've some changes, you have to go back and edit.
 
