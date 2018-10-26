@@ -371,6 +371,8 @@ Here's a sentence with a footnote. [^1]
 
 ---
 
+A footnote will be created at the very bottom of this page, which you can visit clicking the note attached to the sentence. 
+
 ### 14. Definitions {#defns}
 Some Markdown processors allow you to create definition lists of terms and their corresponding definitions as follows.
 ```
@@ -433,12 +435,12 @@ Videos can be added directly by just pasting their embed code inside Markdown.
 
 ## Links and References
 
-- You can try out Markdown directly in your browser here - [Dillinger.io](https://dillinger.io/)
+- You can try out Markdown directly in your browser here - [Dillinger.io](https://dillinger.io/).
 
-- Practice [here](https://www.markdowntutorial.com/)
+- Some good practice [here](https://www.markdowntutorial.com/).
 
 - A good reference for Markdown - [link](https://www.markdownguide.org/).
 
 - For more detailed info, you can refer to the official documentation [here](https://daringfireball.net/projects/markdown/syntax).
 
-- Markdown - [Wikipedia](https://en.wikipedia.org/wiki/Markdown)
+- Markdown - [Wikipedia](https://en.wikipedia.org/wiki/Markdown).
