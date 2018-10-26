@@ -44,7 +44,7 @@ Given below are usage and examples of Markdown syntax.
 3. [Lists](#lists)
 4. [Links](#links)
 5. [Heading ID](#headingID)
-6. Images {#images}
+6. [Images](#images)
 7. [Highlighting](#highlighting)
 8. [Tables](#tables)
 9. [Blockquotes](#blockquotes)
