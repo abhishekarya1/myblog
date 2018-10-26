@@ -37,7 +37,7 @@ Though it is a lot different and far from the comfort of other [WYSIWYG](https:/
 ## Cheatsheet
 Though Markdown has different "flavours" depending upon what you're using it for, this is a more generalized list meant to be used as a quick reference.
 
-Given below are usage and examples of Markdown syntax.
+Given below are usage and examples of Markdown syntax categorised for easy reference.
 
 1. [Headings](#headings)
 2. [Emphasis](#emphasis)
