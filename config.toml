@@ -88,21 +88,25 @@ googleAnalytics = "UA-120021913-1"
     parent = "featured"
     name = "Are we really secure?"
     url = "/tags/are-we-really-secure/"
-    weight = 2
-
-[[menu.main]]
-    parent = "featured"
-    name = "Cosmos: A Spacetime Odyssey"
-    url = "/tags/cosmos/"
-    weight = 1
+    weight = 3
 
 [[menu.main]]
     parent = "featured"
     name = "Hacking and Kali Linux"
     url = "/tags/hacking/"
-    weight = 3
+    weight = 4
 
+[[menu.main]]
+    parent = "featured"
+    name = "Cosmos: A Spacetime Odyssey"
+    url = "/tags/cosmos/"
+    weight = 2
 
+[[menu.main]]
+    parent = "featured"
+    name = "Documentaries"
+    url = "/page/documentaries/"
+    weight = 1
 
 [[menu.main]]
     name = "Tags"

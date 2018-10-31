@@ -24,7 +24,7 @@ My name is **Abhishek Arya**. Some things about me, including but not limited to
 - I can always tell you some random cool thing, ask me the next time you meet me! 😉
 - I love reading about technology and gadgets, and to use them in the most innovative ways possible (read _hack_), you'll always find me jabbering random tech related news, jargons, and trivia.
 - I am always learning new things and I need to dump my cluttered mind somewhere. I have made it my goal to post it here on this blog as frequently as I can.
-
+- Some of my [favourite documentaries and shows](/page/documentaries).
 
 ### Anything else you want to know?
 
