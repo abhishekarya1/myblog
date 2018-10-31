@@ -2,23 +2,26 @@
 title: Documentaries
 subtitle: My favourite Documentaries and Shows
 comments: false
+tags: ["tv-series", "technology"]
 ---
 
 This is a list of all of my favourite documentaries and shows. I've learnt a lot from watching these and I hope that it is the same with you.
 
-This list will be updated regularly as I watch more stuff.
+This list will be updated regularly as I discover more stuff.
 
-<br>
-<center>
+<img align="left" src="https://img.shields.io/badge/Total%20Items-34-brightgreen.svg">
+<img align="left" src="https://img.shields.io/badge/Last%20Updated-01--11--2018-blue.svg">
 
-|         **Category**               |
-|         -------------              |
-| [Science and Technology](#st)      |
-| [Nature and Exploration](#ne)      |
-| [Biographical](#b)                 |
-| [Politics and Geography](#pg)      |
 
-</center>
+<br>  
+
+
+|         **Category**           |
+|         -------------          |
+| [Science and Technology](#st)  |
+| [Nature and Exploration](#ne)  |
+| [Biographical](#b)             |
+| [Politics and Geography](#pg)  |
 
 <br>
 ## Science and Technology {#st}
