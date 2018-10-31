@@ -24,7 +24,7 @@ This list will be updated regularly as I watch more stuff.
 
 ---
 ### Cosmos: A Personal Voyage (1980)
-<a href="https://www.imdb.com/title/tt4396630"><img align="left" src="/img/imdb.png" alt="Cosmos (1980) on IMDb"></a> &nbsp; | [Watch Here](https://ihavenotv.com/series/cosmos-a-personal-voyage)
+<a href="https://www.imdb.com/title/tt0081846/"><img align="left" src="/img/imdb.png" alt="Cosmos (1980) on IMDb"></a> &nbsp; | [Watch Here](https://ihavenotv.com/series/cosmos-a-personal-voyage)
 
 ### Cosmos: A SpaceTime Odyssey (2014)
 <a href="https://www.imdb.com/title/tt2395695/"><img align="left" src="/img/imdb.png" alt="Cosmos (2014) on IMDb"></a> &nbsp; | [Watch Here](https://ihavenotv.com/series/cosmos-a-spacetime-odyssey)
@@ -58,13 +58,13 @@ This list will be updated regularly as I watch more stuff.
 
 ---
 ### Antarctica: A Year on Ice (2013)
-<a href="https://www.imdb.com/title/tt2361700/"><img align="left" src="/img/imdb.png" alt="Antarctica on IMDb"></a> &nbsp; | [Download Here](http://hdpopcorns.co/antarctica-year-ice-2013-1080p/)
-
-### Planet Earth II (2016)
-<a href="https://www.imdb.com/title/tt5491994/"><img align="left" src="/img/imdb.png" alt="Planet Earth II on IMDb"></a> &nbsp; | [Watch Here](https://ihavenotv.com/series/planet-earth-ii)
+<a href="https://www.imdb.com/title/tt2361700/"><img align="left" src="/img/imdb.png" alt="Antarctica on IMDb"></a> &nbsp; | [Trailer](https://www.youtube.com/watch?v=QDJzjomSN94)
 
 ### Planet Earth (2006)
 <a href="https://www.imdb.com/title/tt0795176/"><img align="left" src="/img/imdb.png" alt="Planet Earth on IMDb"></a> &nbsp; | [Watch Here](https://ihavenotv.com/series/planet-earth)
+
+### Planet Earth II (2016)
+<a href="https://www.imdb.com/title/tt5491994/"><img align="left" src="/img/imdb.png" alt="Planet Earth II on IMDb"></a> &nbsp; | [Watch Here](https://ihavenotv.com/series/planet-earth-ii)
 
 ### One Strange Rock (2018)
 <a href="https://www.imdb.com/title/tt7651892/"><img align="left" src="/img/imdb.png" alt="One Strange Rock on IMDb"></a> &nbsp; | [Watch Here](https://ihavenotv.com/series/one-strange-rock)
@@ -91,11 +91,11 @@ This list will be updated regularly as I watch more stuff.
 ### National Geographic's Mega Icons (2018)
 <a href="https://www.hotstar.com/tv/mega-icons/s-1662"><img align="left" src="/img/hotstar.jpg" alt="Mega Icons on Hotstar"></a> &nbsp; | [Watch Here](https://www.hotstar.com/tv/mega-icons/s-1662)
 
-### Snowden (2016)
-<a href="https://www.imdb.com/title/tt3774114/"><img align="left" src="/img/imdb.png" alt="Snowden on IMDb"></a> &nbsp; | [Download Here](http://hdpopcorns.co/snowden-2016-720p-bluray-hdp/)
+### Citizenfour (2014)
+<a href="https://www.imdb.com/title/tt4044364/"><img align="left" src="/img/imdb.png" alt="Citizenfour on IMDb"></a> &nbsp; | [Watch Here](https://www.hotstar.com/movies/citizenfour/1000157342/watch "Hotstar")
 
 ### Ronaldo (2015)
-<a href="https://www.imdb.com/title/tt5065822/"><img align="left" src="/img/imdb.png" alt="Ronaldo on IMDb"></a> &nbsp; | [Download Here](http://hdpopcorns.co/ronaldo-2015-720p-free-download/)
+<a href="https://www.imdb.com/title/tt5065822/"><img align="left" src="/img/imdb.png" alt="Ronaldo on IMDb"></a> &nbsp; | [Trailer](https://www.youtube.com/watch?v=33gTb1v3wds "YouTube")
 
 ### Mark Zuckerberg: Inside Facebook (2012)
 <a href="https://www.imdb.com/title/tt2265427/"><img align="left" src="/img/imdb.png" alt="BBC Mark Zuckerberg on IMDb"></a> &nbsp; | [Watch Here](https://www.dailymotion.com/video/xmso1d "Dailymotion")
@@ -119,24 +119,23 @@ This list will be updated regularly as I watch more stuff.
 ## Politics and Geography {#pg}
 
 ---
+### ABP News - Pradhaanmantri (2013)
+<a href="https://www.youtube.com/playlist?list=ELYR5txmTpa_c"><img align="left" src="/img/yt.png" alt="ABP on YouTube"></a> &nbsp; | [Watch Here](https://www.youtube.com/playlist?list=ELYR5txmTpa_c "YouTube")
+
+### Indian Airlines IC814 Hijack (1999)
+<a href="https://www.youtube.com/watch?v=0Z5Gbz6Ay3U"><img align="left" src="/img/yt.png" alt="IC814 on YouTube"></a> &nbsp; | [Watch Here](https://www.youtube.com/watch?v=0Z5Gbz6Ay3U "YouTube")
+
 ### VICE - The Cannibal Warlords of Liberia (2012)
-<a href="https://www.vice.com/en_us"><img align="left" src="/img/vice.png" alt="VICE"></a> &nbsp; | [Watch Here](https://www.youtube.com/watch?v=ZRuSS0iiFyo "YouTube")
+<a href="https://www.vice.com"><img align="left" src="/img/vice.png" alt="VICE"></a> &nbsp; | [Watch Here](https://www.youtube.com/watch?v=ZRuSS0iiFyo "YouTube")
 
 ### National Geographic's Inside World War II
 <a href="https://www.youtube.com/watch?v=C0wciIA48dA"><img align="left" src="/img/yt.png" alt="WWII on YouTube"></a> &nbsp; | [Watch Here](https://www.youtube.com/watch?v=C0wciIA48dA "YouTube")
 
-### ABP News - Pradhaanmantri
-<a href="https://www.youtube.com/playlist?list=ELYR5txmTpa_c"><img align="left" src="/img/yt.png" alt="ABP on YouTube"></a> &nbsp; | [Watch Here](https://www.youtube.com/playlist?list=ELYR5txmTpa_c "YouTube")
-
-### World War II in Colour
+### WMR - World War II in Colour (2008)
 <a href="https://www.youtube.com/playlist?list=PLZxIFAN12m6wmm5K8fPkApSB1F90885hS"><img align="left" src="/img/yt.png" alt="WWII on YouTube"></a> &nbsp; | [Watch Here](https://www.youtube.com/playlist?list=PLZxIFAN12m6wmm5K8fPkApSB1F90885hS "YouTube")
 
 ### World War II׃ The Complete History
 <a href="https://www.youtube.com/watch?v=j0QWtgGnH_Q"><img align="left" src="/img/yt.png" alt="WWII on YouTube"></a> &nbsp; | [Watch Here](https://www.youtube.com/watch?v=j0QWtgGnH_Q "YouTube")
-
-
-### Indian Airlines IC814 Hijack (1999)
-<a href="https://www.youtube.com/watch?v=0Z5Gbz6Ay3U"><img align="left" src="/img/yt.png" alt="IC814 on YouTube"></a> &nbsp; | [Watch Here](https://www.youtube.com/watch?v=0Z5Gbz6Ay3U "YouTube")
 
 <br>
 # Lists
