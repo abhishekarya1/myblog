@@ -12,10 +12,10 @@ This list will be updated regularly as I watch more stuff.
 
 |         **Category**               |
 |         -------------              |
-| [Science and Technology](#st)     |
-| [Nature and Exploration](#ne)     |
+| [Science and Technology](#st)      |
+| [Nature and Exploration](#ne)      |
 | [Biographical](#b)                 |
-| [Politics and Geography](#pg)     |
+| [Politics and Geography](#pg)      |
 
 </center>
 
