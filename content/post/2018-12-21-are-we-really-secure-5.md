@@ -2,6 +2,7 @@
 title: An Idiot-Proof Guide to be Safe On the Internet
 subtitle: Are we really secure? (Part-5) - Browse Clean and Safe
 date: 2018-12-21
+share-img: https://abyssaltech.xyz/img/postimg/priv.jpg
 bigimg: [{src: "/img/postimg/priv.jpg", desc: "Security"}]
 tags: ["hacking", "security", "are we really secure"]
 ---
