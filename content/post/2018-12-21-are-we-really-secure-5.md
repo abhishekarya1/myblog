@@ -88,39 +88,57 @@ Signal is currently used by human rights activists, law enforcement, spies and t
 [Download from Google Play](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&hl=en)
 
 #### 4.2 Telegram
+It is also an alternative for messaging apps and it is free, fast, open, and multi-platform too.
 
-
----
-### 5. VPN
-TunnelBear
-Hotspot Shield Free
-
-ExpressVPN
-NordVPN
-Hotspot Shield
-CyberGhost
+[Telegram - Homepage](https://telegram.org)
 
 ---
-### 6. Proxy
-Ultra Surf
+### 5. Virtual Private Network (VPN)
+A virtual private network, or VPN, extends across a public or shared network, and acts like a tunnel so you can exchange data securely and anonymously across the internet as if you were connected directly to a private network.
+
+#### Top Free Alternatives
+- [TunnelBear](https://www.tunnelbear.com/)
+
+- [Hotspot Shield Free](https://www.hotspotshield.com/)
+
+For Mobile Devices - [TurboVPN](http://www.turbovpn.co/).
+
+Do keep in mind that when using a free VPN service, the product is your data, there is no way you can be safe and private with free VPNs.
+
+#### Top Paid Alternatives
+- [ExpressVPN](https://www.expressvpn.com/)
+
+- [NordVPN](https://nordvpn.com/)
+
+- [Hotspot Shield](https://www.hotspotshield.com/)
+
+- [CyberGhost](https://www.cyberghostvpn.com/)
+
+---
+### 6. Ultrasurf Proxy
+Ultrasurf is a product of Ultrareach Internet Corporation. Originally created to help internet users in China find security and freedom online, Ultrasurf has now become one of the world’s most popular anti-censorship software, with millions of people using it to bypass internet censorship.
+
+Official Link: [Ultrasurf](https://ultrasurf.us/)
 
 ---
 ### 7. TOR
+I've discussed TOR before. Read [here](https://abyssaltech.xyz/post/2018-06-03-dark-web-1/) for a complete overview.
 
 ---
-### 8. Ditch Chrome, switch to Firefox
+### 8. Ditch Chrome, Switch to Firefox
+Recently, Chrome was in the news for all the [bad reasons](https://www.zdnet.com/article/google-secretly-logs-users-into-chrome-whenever-they-log-into-a-google-site/). The chrome developers enabled a feature that still persists, it allows you to log-in into Gmail or any Google product inside the Chrome and you'll be logged into Chrome automatically and all of your data will start synchronizing through.
+
+Firefox rolled out their best ever version - [Firefox Quantum](https://www.mozilla.org/en-US/firefox/), it is fast and privacy centred, it is a complete revamp over the old Firefox.
 
 ---
-### 9. On Android, monitor and control app permissions
+### 9. Monitor and Control App Permissions
+I did a blog post on this a while ago, it offers a complete overview of the scenario regarding apps and permissions on mobile phones. Read it [here](https://abyssaltech.xyz/post/2018-06-01-are-we-really-secure-3/).
 
 ## Conclusion
-As an end-user your role is minimal, but you should be aware of the scenario.
 
-- Just download the latest update for your operating system, smartphone, router etc... and you should be fine. These updates patch most of the known vulnerabilities till the day they are released to the end users.
 
-- Make sure you are not using a _super-old_ firmware on any of your devices, they are the ones which are affected severely during an outcry and its a hundred percent user's fault that they did not update it in time, despite the developer releasing them beforehand.
 
-#### Further Reading and Recommended Links -
+## Further Reading and Recommended Links -
 
 News sources:
 
