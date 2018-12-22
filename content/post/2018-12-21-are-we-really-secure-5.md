@@ -126,7 +126,7 @@ I've discussed TOR before. Read [here](https://abyssaltech.xyz/post/2018-06-03-d
 
 ---
 ### 8. Ditch Chrome, Switch to Firefox
-Recently, Chrome was in the news for all the [bad reasons](https://www.zdnet.com/article/google-secretly-logs-users-into-chrome-whenever-they-log-into-a-google-site/). The chrome developers enabled a feature that still persists, it allows you to log-in into Gmail or any Google product inside the Chrome and you'll be logged into Chrome automatically and all of your data will start synchronizing through.
+Recently, Chrome was in the news for all the [bad reasons](https://www.zdnet.com/article/google-secretly-logs-users-into-chrome-whenever-they-log-into-a-google-site/). The chrome developers enabled a feature that still persists, it allows you to log-in into Gmail or any Google product inside the browser and you'll be logged into Chrome automatically and all of your data will start synchronizing through, most people will definitely forget to log out if they do not know that they logged-in in the first place.
 
 Firefox rolled out their best ever version - [Firefox Quantum](https://www.mozilla.org/en-US/firefox/), it is fast and privacy centred, it is a complete revamp over the old Firefox.
 
@@ -135,8 +135,7 @@ Firefox rolled out their best ever version - [Firefox Quantum](https://www.mozil
 I did a blog post on this a while ago, it offers a complete overview of the scenario regarding apps and permissions on mobile phones. Read it [here](https://abyssaltech.xyz/post/2018-06-01-are-we-really-secure-3/).
 
 ## Conclusion
-
-
+The above tools provide some level of protection from snoopers and websites trying to sneakily download a malicious software or an app on your device. As for the India scenario, we must raise our voice against laws that allow government to access our devices. Monitoring a citizen for no reason is no different than treating him as a criminal, no citizens personal freedom shall be violated by anybody unless he/she is convicted of a criminal activity, and monitoring a citizen's data stored on his own personal electronic devices is no different than spying/recording his speech in home, office, public constantly.
 
 ## Further Reading and Recommended Links -
 
@@ -159,4 +158,4 @@ If you want to join the active movement in support of Internet privacy laws -
 - [Why We’re So Hypocritical About Online Privacy - HBR](https://hbr.org/2017/05/why-were-so-hypocritical-about-online-privacy)
 - [40 government departments are using a social media surveillance tool – and little is known of it - Scroll.in](https://scroll.in/article/893015/40-government-departments-are-using-a-social-media-surveillance-tool-and-little-is-known-of-it)
 - [Who Cares About Privacy? - Mic](https://mic.com/articles/188563/who-cares-i-have-nothing-to-hide-why-the-popular-response-to-online-privacy-is-so-flawed#.C966PJQIt)
-- [Best Guide on the Internet](https://ssd.eff.org/)
+- [Best Guide on the Internet Privacy](https://ssd.eff.org/)
