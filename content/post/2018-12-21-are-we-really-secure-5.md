@@ -138,6 +138,8 @@ I did a blog post on this a while ago, it offers a complete overview of the scen
 ## Conclusion
 The above tools provide some level of protection from snoopers and websites trying to sneakily download malicious software or an app on your device. As for the India scenario, we must raise our voice against laws that allow the government to access our devices. Monitoring a citizen for no reason is no different than treating him as a criminal, no citizens personal freedom shall be violated by anybody unless he/she is convicted of a criminal activity, and monitoring a citizen's data stored on his own personal electronic devices is no different than spying/recording his speech in home, office, public constantly.
 
+Also, here's a well-written article that you may read to know more - [The Ultimate Online Privacy Guide](https://www.vpngeeks.com/online-privacy-guide) from VPNGeeks.
+
 ## Further Reading and Recommended Links -
 
 News sources:
@@ -160,3 +162,4 @@ If you want to join the active movement in support of Internet privacy laws -
 - [40 government departments are using a social media surveillance tool – and little is known of it - Scroll.in](https://scroll.in/article/893015/40-government-departments-are-using-a-social-media-surveillance-tool-and-little-is-known-of-it)
 - [Who Cares About Privacy? - Mic](https://mic.com/articles/188563/who-cares-i-have-nothing-to-hide-why-the-popular-response-to-online-privacy-is-so-flawed#.C966PJQIt)
 - [Best Guide on the Internet Privacy](https://ssd.eff.org/)
+- [The Ultimate Online Privacy Guide - VPNGeeks](https://www.vpngeeks.com/online-privacy-guide)
