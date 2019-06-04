@@ -2,7 +2,7 @@
 title: An Idiot-Proof Guide to be Safe On the Internet
 subtitle: Are we really secure? (Part-5) - Browse Clean and Safe
 date: 2018-12-21
-share-img: https://abyssaltech.xyz/img/postimg/priv.jpg
+share-img: https://whatisthat.tech/img/postimg/priv.jpg
 bigimg: [{src: "/img/postimg/priv.jpg", desc: "Security"}]
 tags: ["hacking", "security", "are we really secure"]
 ---
@@ -123,7 +123,7 @@ Official Link: [Ultrasurf](https://ultrasurf.us/)
 
 ---
 ### 7. TOR
-I've discussed TOR before. Read [here](https://abyssaltech.xyz/post/2018-06-03-dark-web-1/) for a complete overview.
+I've discussed TOR before. Read [here](https://whatisthat.tech/post/2018-06-03-dark-web-1/) for a complete overview.
 
 ---
 ### 8. Ditch Chrome, Switch to Firefox
@@ -133,7 +133,7 @@ Firefox rolled out their best ever version - [Firefox Quantum](https://www.mozil
 
 ---
 ### 9. Monitor and Control App Permissions
-I did a blog post on this a while ago, it offers a complete overview of the scenario regarding apps and permissions on mobile phones. Read it [here](https://abyssaltech.xyz/post/2018-06-01-are-we-really-secure-3/).
+I did a blog post on this a while ago, it offers a complete overview of the scenario regarding apps and permissions on mobile phones. Read it [here](https://whatisthat.tech/post/2018-06-01-are-we-really-secure-3/).
 
 ## Conclusion
 The above tools provide some level of protection from snoopers and websites trying to sneakily download malicious software or an app on your device. As for the India scenario, we must raise our voice against laws that allow the government to access our devices. Monitoring a citizen for no reason is no different than treating him as a criminal, no citizens personal freedom shall be violated by anybody unless he/she is convicted of a criminal activity, and monitoring a citizen's data stored on his own personal electronic devices is no different than spying/recording his speech in home, office, public constantly.

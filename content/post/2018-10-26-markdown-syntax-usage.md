@@ -2,7 +2,7 @@
 title: Markdown
 subtitle: Syntax and Usage
 date: 2018-10-26
-share-img: https://abyssaltech.xyz/img/markdown/md.png
+share-img: https://whatisthat.tech/img/markdown/md.png
 tags: ["Web", "Markdown"]
 ---
 ## Markdown
@@ -165,7 +165,7 @@ Direct, reference and relative links can be created.
 
 Expand those references later:
 [Case-insensitive reference text]: https://www.bing.com
-[1]: http://abyssaltech.xyz
+[1]: http://whatisthat.tech
 
 [Relative link to local](../docs/new/my)
 
@@ -199,7 +199,7 @@ You can then link directly to it using link as `[Goto Heading](#custom-id)`.
 
 ```
 Absolute:
-![Alt-text for image](https://abyssaltech.xyz/img/triangle.jpg)
+![Alt-text for image](https://whatisthat.tech/img/triangle.jpg)
 
 Relative:
 ![Alt text for image](/img/triangle.jpg)
@@ -207,11 +207,11 @@ Relative:
 Reference-styled:
 ![Alt-text for image][image]
 
-[image]: (https://abyssaltech.xyz/img/splash.png)
+[image]: (https://whatisthat.tech/img/splash.png)
 
 ```
 Absolute:
-![Alt-text for image](https://abyssaltech.xyz/img/splash.png)
+![Alt-text for image](https://whatisthat.tech/img/splash.png)
 
 Relative:
 ![Alt text for image](/img/splash.png)
@@ -219,7 +219,7 @@ Relative:
 Reference-styled:
 ![Alt-text for image][image]
 
-[image]: https://abyssaltech.xyz/img/splash.png
+[image]: https://whatisthat.tech/img/splash.png
 
 ---
 ### 7. Highlighting {#highlighting}

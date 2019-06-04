@@ -16,7 +16,7 @@ If you access in an unauthorized way and then report the loophole to the owner o
 
 ![Types of Hackers](/img/hackers.png)
 
-A developer may be the best of his field but might know only about his field, the programming languages he use, the framework, or the OS he uses, but a hacker knows it better than him and a lot of other things, that too better than the programmer or developer. They even know it better than its creator because he needs to find vulnerabilities to exploit that the developer didn't have any idea about also called [Zero-Day Exploits](https://abyssaltech.xyz/post/2018-06-02-are-we-really-secure-4/).
+A developer may be the best of his field but might know only about his field, the programming languages he use, the framework, or the OS he uses, but a hacker knows it better than him and a lot of other things, that too better than the programmer or developer. They even know it better than its creator because he needs to find vulnerabilities to exploit that the developer didn't have any idea about also called [Zero-Day Exploits](https://whatisthat.tech/post/2018-06-02-are-we-really-secure-4/).
 
 At the most fundamental level, all Hackers weather ethical or black hat has to think alike, from the point of view of the black hat, because they often cause some hefty damages to a system and it is important to think of the ways in which a black hat works.
 

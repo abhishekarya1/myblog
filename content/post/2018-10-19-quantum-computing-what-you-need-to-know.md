@@ -3,7 +3,7 @@ title: Quantum Computing - What you need to know
 subtitle: Is it time now to take the quantum leap in computing?
 date: 2018-10-19
 image: /img/qc/qc-out.jpeg
-share-img: https://abyssaltech.xyz/img/qc/qc-share.jpeg
+share-img: https://whatisthat.tech/img/qc/qc-share.jpeg
 bigimg: [{src: "/img/qc/qc-cover.jpeg", desc: "Quantum Computing"}]
 tags: ["Technology", "Quantum Computing"]
 ---
