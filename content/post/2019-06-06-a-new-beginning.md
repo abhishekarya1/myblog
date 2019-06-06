@@ -7,7 +7,7 @@ tags: ["meta", "general", "on my mind"]
 
 ## Abyssaltech.xyz 🎉
 
-Sometime around the same time yesteryear I thought of a challenge for myself, summer vacations were approaching and I needed something to work on, that's when I decided to make a small blog website, mostly because I wanted it to be something web and computer science related.
+Sometime around the same time yesteryear I thought of a little project for myself, summer vacations were approaching and I needed something to work on, that's when I decided to make a small blog website, mostly because I wanted it to be something web and computer science related.
       
 I started building it and learnt many things along the way, I set up the hosting and the domain and finally got it running. I managed to put together a small blog that I called **Abyssal Tech** (which apparently means deepest trences of technology) because I was going to post articles related to mainly technology.
 
@@ -20,7 +20,7 @@ I myself learned a lot from putting up stuff on here and I hope to continue in d
 ---
 ## Whatisthat.tech ❔
 
-The new name reflects what I truly envisioned this web-corner to be a box full of content for the inquisitive minds as mine. Another year of science, computer science, technological, and personal posts inspired from whatever I do, read, and whatever I find out and learn on the interwebs.
+The new name reflects what I truly envisioned this web-corner, a box full of content for the inquisitive minds such as mine. Another year of science, computer science, technological, and personal posts inspired from whatever I do, read, and whatever I find out and learn on the interwebs.
 
 ---
 ## A New Beginning
@@ -29,4 +29,4 @@ I intend to keep the layout and the overall feel same but will post a whole new 
 
 🙏 Thanks to each and everyone of you guys for opening the link and allowing me to have your time and attention. 
 
-📢 Please do checkback for more stuff soon. Meanwhile, you can explore older stuff [here](www.whatisthat.tech/tags/). 
+📢 Please do bookmark and checkback for more stuff soon. Meanwhile, you can explore older stuff [here](https://whatisthat.tech/tags/). 
