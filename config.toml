@@ -14,8 +14,8 @@ pygmentsCodefencesGuessSyntax = true
 googleAnalytics = "UA-120021913-1"
 
 [Params]
-  homeTitle = "Abyssal Tech" # Set a different text for the header on the home page
-  subtitle = "Tech, Hacks, Codes, Gaming and everything I do"
+  homeTitle = "What Is That Tech" # Set a different text for the header on the home page
+  subtitle = "Stuff that I find interesting"
   logo = "img/avatar-icon.svg"
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
