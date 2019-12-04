@@ -5,12 +5,12 @@ comments: false
 tags: ["tv-series", "technology"]
 ---
 
-This is a list of all of my favourite documentaries and shows. I've learnt a lot from watching these and I hope that it is the same with you.
+This is a list of all of my favourite documentaries and shows. I've learnt a lot from watching these and I hope the same with you.
 
-This list will be updated regularly as I discover more stuff.
+This page will be updated as I discover more stuff.
 
-<img align="left" src="https://img.shields.io/badge/Total%20Items-35-brightgreen.svg">
-<img align="left" src="https://img.shields.io/badge/Last%20Updated-17--11--2018-blue.svg">
+<img align="left" src="https://img.shields.io/badge/Total%20Items-43-brightgreen.svg">
+<img align="left" src="https://img.shields.io/badge/Last%20Updated-04--12--2019-blue.svg">
 
 
 <br>  
@@ -22,11 +22,11 @@ This list will be updated regularly as I discover more stuff.
 | [Nature and Exploration](#ne)  |
 | [Biographical](#b)             |
 | [Politics and Geography](#pg)  |
-| [Arts and Culture](#ac)  |
+| [Arts and Culture](#ac)  		 |
 
 
 <br>
-## Science and Technology {#st}
+# Science and Technology {#st}
 
 ---
 ### Cosmos: A Personal Voyage (1980)
@@ -59,10 +59,19 @@ This list will be updated regularly as I discover more stuff.
 ### Free to Play (2014)
 <a href="https://www.imdb.com/title/tt3203290/"><img align="left" src="/img/imdb.png" alt="Free to Play on IMDb"></a> &nbsp; | [Watch Here](https://www.youtube.com/watch?v=UjZYMI1zB9s)
 
+### Do You Trust this Computer? (2018)
+<a href="https://www.imdb.com/title/tt6152554/"><img align="left" src="/img/imdb.png" alt="Free to Play on IMDb"></a> &nbsp; | [Watch Here](https://www.youtube.com/watch?v=aV_IZye14vs)
+
+### The Inventor: Out For Blood In Silicon Valley (2019)
+<a href="https://www.imdb.com/title/tt8488126/"><img align="left" src="/img/imdb.png" alt="Free to Play on IMDb"></a> &nbsp; | [Trailer](https://www.youtube.com/watch?v=wtDaP18OGfw)
+
 <br>
-## Nature and Exploration {#ne}
+# Nature and Exploration {#ne}
 
 ---
+### Dynasties (2018)
+<a href="https://www.imdb.com/title/tt9130692/"><img align="left" src="/img/imdb.png" alt="Antarctica on IMDb"></a> &nbsp; | [Watch Here](https://ihavenotv.com/series/dynasties)
+
 ### Antarctica: A Year on Ice (2013)
 <a href="https://www.imdb.com/title/tt2361700/"><img align="left" src="/img/imdb.png" alt="Antarctica on IMDb"></a> &nbsp; | [Trailer](https://www.youtube.com/watch?v=QDJzjomSN94)
 
@@ -121,8 +130,11 @@ This list will be updated regularly as I discover more stuff.
 ### The Extraordinary Genius of Albert Einstein
 <a href="https://www.youtube.com/watch?v=Uvpw6Jh1WGQ"><img align="left" src="/img/yt.png" alt="Einstein on YouTube"></a> &nbsp; | [Watch Here](https://www.youtube.com/watch?v=Uvpw6Jh1WGQ "YouTube")
 
+### Becoming Warren Buffett (2017)
+<a href="https://www.imdb.com/title/tt6438096/"><img align="left" src="/img/imdb.png" alt="Einstein on YouTube"></a> &nbsp; | [Watch Here](https://www.youtube.com/watch?v=PB5krSvFAPY "YouTube")
+
 <br>
-## Politics and Geography {#pg}
+# Politics and Geography {#pg}
 
 ---
 ### ABP News - Pradhaanmantri (2013)
@@ -143,12 +155,24 @@ This list will be updated regularly as I discover more stuff.
 ### World War II׃ The Complete History
 <a href="https://www.youtube.com/watch?v=j0QWtgGnH_Q"><img align="left" src="/img/yt.png" alt="WWII on YouTube"></a> &nbsp; | [Watch Here](https://www.youtube.com/watch?v=j0QWtgGnH_Q "YouTube")
 
+### Korea: The Never-Ending War (2019)
+<a href="https://www.youtube.com/watch?v=DoSRwmuVYyI"><img align="left" src="/img/yt.png" alt="KTNEV on YouTube"></a> &nbsp; | [Watch Here](https://www.youtube.com/watch?v=DoSRwmuVYyI "YouTube")
+
+### The Coming War On China (2016)
+<a href="https://www.youtube.com/watch?v=GDl9ecICIYg"><img align="left" src="/img/yt.png" alt="TCWON on YouTube"></a> &nbsp; | [Watch Here](https://www.youtube.com/watch?v=GDl9ecICIYg "YouTube")
+
+### An Insignificant Man (2016)
+<a href="https://www.vice.com"><img align="left" src="/img/vice.png" alt="TCWON on YouTube"></a> &nbsp; | [Watch Here](https://www.youtube.com/watch?v=inR_O_2Apm0 "YouTube")
+
 <br>
-## Arts and Culture {#ac}
+# Arts and Culture {#ac}
 
 ---
 ### Saving Banksy (2017)
 <a href="https://www.imdb.com/title/tt4036488/"><img align="left" src="/img/imdb.png" alt="Saving Banksy on IMDb"></a> &nbsp; | [Watch Here](https://ihavenotv.com/saving-banksy "YouTube")
+
+### SCORE: A Film Music Documentary (2016)
+<a href="https://www.imdb.com/title/tt4207112/"><img align="left" src="/img/imdb.png" alt="Antarctica on IMDb"></a> &nbsp; | [Trailer](https://www.youtube.com/watch?v=9K6RwDM8VFE)
 
 
 <br>
